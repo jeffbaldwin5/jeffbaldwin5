@@ -1,0 +1,5258 @@
+[
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "",
+        "AGENT EMAIL":  "jrosier@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:40:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:37:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "",
+        "AGENT EMAIL":  "stwilson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:54:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:01:24",
+        "LOGIN TIME":  "05:06:26"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "",
+        "AGENT EMAIL":  "stwilson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:26:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:51:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "",
+        "AGENT EMAIL":  "v-jalip@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:59:45",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:18:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-acorona@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:00:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:17:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-alramos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:33:44",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:44:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-atorres@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:57:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:32:01",
+        "LOGIN TIME":  "08:34:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-crazo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:11:54",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:06:19"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-dgonzalez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:33:54",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:44:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-gamartinez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:25:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:53:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-gogonzalez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:58:30",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:47:20",
+        "LOGIN TIME":  "08:48:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-gplascencia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:27:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:50:53"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-herodriguez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:09:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:08:32"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-iarredondo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:29:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:48:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-icanales@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:58:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:20:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-iorduna@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:03:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:14:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-itapia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:25:14",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:53:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-jmagallon@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:12:27",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:13:31",
+        "LOGIN TIME":  "00:01:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-jmagallon@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:19:44",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:58:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-jmartinezcolin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:55:30",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:56:08",
+        "LOGIN TIME":  "00:00:38"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-lchernandez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:22:13",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:56:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-lghipolito@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:31:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:47:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-lvillanueva@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:57:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:39:00",
+        "LOGIN TIME":  "08:41:19"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-mmorales@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:50:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:27:53"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-morodriguez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:27:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:51:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-ncontreras@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:21:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:56:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-nruiz@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:48:32",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:17:34",
+        "LOGIN TIME":  "05:29:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-nruiz@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:32:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:46:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-omontfort@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:26:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:51:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-vinocente@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:21:30",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:56:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "4NDM",
+        "AGENT EMAIL":  "v-vvillavazo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:11:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:06",
+        "LOGIN TIME":  "08:18:46"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "cprimavera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:06:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 05:31:32",
+        "LOGIN TIME":  "00:25:14"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "cprimavera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:36:18",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:49:29",
+        "LOGIN TIME":  "02:13:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "cprimavera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:49:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:09:30",
+        "LOGIN TIME":  "02:20:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "cprimavera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:34:25",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:26:15",
+        "LOGIN TIME":  "01:51:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "cprimavera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:26:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:08:15",
+        "LOGIN TIME":  "00:42:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "cprimavera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:08:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:02",
+        "LOGIN TIME":  "00:52:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-acarlos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:01:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:17:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-acrisostomo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:49:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:28:22"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-acudesin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:17:45",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:00:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-adiaz@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:06:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:15:38",
+        "LOGIN TIME":  "01:09:27"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-adiaz@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:15:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:13:24",
+        "LOGIN TIME":  "07:57:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-adomangcas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:06:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:12:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-adonaire@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:00:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:18:09"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-afantone@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:07:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:11:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-aherrera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:25:24",
+        "LOGIN TIME":  "00:22:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-aherrera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:25:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:41:01",
+        "LOGIN TIME":  "00:15:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-aherrera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:41:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:07:58",
+        "LOGIN TIME":  "00:26:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-aherrera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:07:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:10:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-alazarito@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:06:05",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:15",
+        "LOGIN TIME":  "08:55:09"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-amacion@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:03:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-amontales@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:09:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:45:34",
+        "LOGIN TIME":  "07:35:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-amontales@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:45:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:32:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-anantonio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:03:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-anunag@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:16:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-apada@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:22:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:55:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-arebutoc@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:26:47",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:07",
+        "LOGIN TIME":  "08:33:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-asusi@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:01:44",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:16:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-atelmo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:08:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:09:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ationgco@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:03:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:53:22",
+        "LOGIN TIME":  "04:49:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ationgco@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:10:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:26",
+        "LOGIN TIME":  "03:49:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-atubino@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:02:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:16:09"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-avalete@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:03:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:02:38",
+        "LOGIN TIME":  "04:59:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-avalete@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:02:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:07",
+        "LOGIN TIME":  "02:57:27"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-bgarillo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:00:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:17:32"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-calejaga@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:26:13",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:51:58",
+        "LOGIN TIME":  "02:25:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-calejaga@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:51:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:11:52",
+        "LOGIN TIME":  "06:19:55"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-cbonan@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:15:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:09:52",
+        "LOGIN TIME":  "08:53:59"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-cdinco@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:08:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:32",
+        "LOGIN TIME":  "08:52:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-cestrada@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:00:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:17:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-cgarrido@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:06:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:11:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-crivera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:08:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:09:53"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-csangalang@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:59:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:54:21",
+        "LOGIN TIME":  "04:55:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-csangalang@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:02:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:02:25",
+        "LOGIN TIME":  "04:00:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-csantos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:17:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:52:02",
+        "LOGIN TIME":  "01:34:07"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-csantos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:52:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:26:12"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-csulit@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:55:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:22:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ctayobana@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:16:19"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ddarullo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:58:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:04:33",
+        "LOGIN TIME":  "09:05:45"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-derandio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:56:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:16:24",
+        "LOGIN TIME":  "03:20:09"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-derandio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:36:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:41:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-dmontelijao@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:59:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:39",
+        "LOGIN TIME":  "09:01:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-drealo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:24:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:16",
+        "LOGIN TIME":  "07:36:38"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-dvanzuela@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:06:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:11:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-eancaya@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:00:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:18:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ebarilla@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:24:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:53:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ebugayong@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:06:57",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:09",
+        "LOGIN TIME":  "08:53:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ecandare@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:57:32",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:59:39",
+        "LOGIN TIME":  "05:02:07"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ecandare@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:02:46",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:03",
+        "LOGIN TIME":  "03:58:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-eperez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:24"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-equinto@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:02:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:15:24"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-erico@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:11:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:06:51"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-fcolico@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:21:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:56:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gbaloy@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:02:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:08:00",
+        "LOGIN TIME":  "00:05:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gbaloy@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:16:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:23:24",
+        "LOGIN TIME":  "00:07:12"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gbaloy@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:27:27",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:50:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gedeza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:07:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:10:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gguerrero@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:13:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:04:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gjourdon@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:02:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:09",
+        "LOGIN TIME":  "08:57:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gmalinao@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:05:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:12:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gzerna@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:11:32",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:26:59",
+        "LOGIN TIME":  "00:15:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gzerna@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:26:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:42:50",
+        "LOGIN TIME":  "00:15:51"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gzerna@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:42:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:09:20",
+        "LOGIN TIME":  "00:26:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-gzerna@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:09:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:08:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-hbalanag@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:08:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:09:24"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-hmonreal@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:05:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:12:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-icantimbuhan@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:36:44",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:41:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-imallari@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:59:06",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:04:49",
+        "LOGIN TIME":  "04:05:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-imallari@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:04:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:27:31",
+        "LOGIN TIME":  "03:22:42"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-imallari@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:27:31",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:39:44",
+        "LOGIN TIME":  "00:12:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-imallari@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:39:44",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:05",
+        "LOGIN TIME":  "01:20:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jacson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:58:54",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:59:06",
+        "LOGIN TIME":  "05:00:12"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jacson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:02:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:11",
+        "LOGIN TIME":  "03:59:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jamendoza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:05:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:12:26"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jamlog@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:59:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "09:18:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jbencio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:55:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:14:53",
+        "LOGIN TIME":  "01:19:38"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jbencio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:14:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:47",
+        "LOGIN TIME":  "07:45:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jcariaga@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:20:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:57:19"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jfamanilay@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:06:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:11:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jgayacao@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:16:30",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:01:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jguinto@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:13:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:04:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jjosue@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:00:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:17:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jmenor@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:59:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:18:49"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jminas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:04:09",
+        "LOGIN TIME":  "09:03:08"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jnavarro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:06:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:12:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-joramirez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:57",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 05:23:34",
+        "LOGIN TIME":  "00:22:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-joramirez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:23:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:23",
+        "LOGIN TIME":  "08:37:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-josdeguzman@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:05:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:01",
+        "LOGIN TIME":  "08:56:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jpido@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:04:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:27",
+        "LOGIN TIME":  "08:56:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jsantos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:03:45",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:14:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jtadeo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:04:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:19",
+        "LOGIN TIME":  "08:57:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-jtaripe@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:17:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:04:24",
+        "LOGIN TIME":  "08:47:12"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ktalion@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:20:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:58:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-lbaeshen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:23:54",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:00",
+        "LOGIN TIME":  "08:37:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-lignacio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:00:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:18:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-llazaro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:46",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:16:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-lventurero@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:15:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "09:02:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-maarce@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:05:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:10",
+        "LOGIN TIME":  "08:55:55"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-maboy@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:09:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:08:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-macaspac@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:34",
+        "LOGIN TIME":  "09:01:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mamolat@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:13:00",
+        "LOGIN TIME":  "02:12:58"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mamolat@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:23:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:31:11",
+        "LOGIN TIME":  "05:07:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mamolat@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:31:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:12:33",
+        "LOGIN TIME":  "00:41:22"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mamolat@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:12:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:06",
+        "LOGIN TIME":  "00:48:32"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-marce@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:08:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:30:20",
+        "LOGIN TIME":  "06:21:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-marce@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:30:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:44:26",
+        "LOGIN TIME":  "00:14:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-marce@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:44:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:33:48"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-masilva@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:58:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:13",
+        "LOGIN TIME":  "09:01:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mbada@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:57:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:51:42",
+        "LOGIN TIME":  "04:53:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mbada@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:59:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:03:32",
+        "LOGIN TIME":  "04:03:43"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mbartolome@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:15:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:30:49",
+        "LOGIN TIME":  "00:15:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mbartolome@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:30:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:12:18",
+        "LOGIN TIME":  "00:41:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mbartolome@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:12:18",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:05:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mdrio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:02:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:11:14",
+        "LOGIN TIME":  "09:09:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mestomago@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:07:36",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:09:34",
+        "LOGIN TIME":  "09:01:58"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mgaberia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:05:31",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:59:22",
+        "LOGIN TIME":  "04:53:51"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mgaberia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:01:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:10",
+        "LOGIN TIME":  "03:59:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-miaclan@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:07:14",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:11:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mjperez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:24:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:29:49",
+        "LOGIN TIME":  "07:04:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mjperez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:29:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:01",
+        "LOGIN TIME":  "01:31:12"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mjucutan@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:58:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:19:45"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mmanglicmot@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:04:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:05:10",
+        "LOGIN TIME":  "09:01:07"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mmejala@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:22:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:56:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mpahayahay@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:31:51",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:31",
+        "LOGIN TIME":  "08:29:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-msantos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:05:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:10:57",
+        "LOGIN TIME":  "10:05:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mserrano@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:16:45"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-msilva@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:55:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:07",
+        "LOGIN TIME":  "09:04:45"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-msubrio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:02:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 05:16:51",
+        "LOGIN TIME":  "00:14:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-msubrio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:16:51",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:29:08",
+        "LOGIN TIME":  "07:12:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-msubrio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:29:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:12:37",
+        "LOGIN TIME":  "01:43:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-mtimbal@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:08:54",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:09:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-nacuna@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:08:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:10:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-nortega@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:45",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:20:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-osantos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:53:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 05:23:50",
+        "LOGIN TIME":  "00:30:07"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-pagacoscos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:05:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:12:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-pbasa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:04:30",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:13:43"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-pdumalasa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:50:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:08:00",
+        "LOGIN TIME":  "00:17:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-pdumalasa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:38:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:55:00",
+        "LOGIN TIME":  "02:16:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-pdumalasa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:59:27",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:15:00",
+        "LOGIN TIME":  "02:15:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-pdumalasa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:41:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:36:45"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-psalafrania@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:08:06",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:10:08"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-rerese@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:58:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "09:19:38"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-rjbautista@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:03:54",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:58:46",
+        "LOGIN TIME":  "04:54:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-rjbautista@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:02:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:09:41",
+        "LOGIN TIME":  "04:07:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-rlee@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:30:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:33:52",
+        "LOGIN TIME":  "00:03:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-rmendigorin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:00:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:17:40"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-robautista@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:04:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:14:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-roenero@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:04:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:14:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-sbuna@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:48:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:59:43",
+        "LOGIN TIME":  "09:11:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-signacio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:03:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:11:52",
+        "LOGIN TIME":  "00:07:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-signacio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:17:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:37:15",
+        "LOGIN TIME":  "00:20:08"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-signacio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:41:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:56:15",
+        "LOGIN TIME":  "00:14:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-signacio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:56:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:21:40"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-slegaspi@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:20:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:02:05",
+        "LOGIN TIME":  "08:41:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-tmayor@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:03:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:14:53"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-vcalumpang@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:59:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:18:55"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-wsamson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:03:37",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:14:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-ymapa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:58:47",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:36",
+        "LOGIN TIME":  "09:01:49"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo",
+        "AGENT EMAIL":  "v-zmuyco@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:23:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:54:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-amontales@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:09:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:45:34",
+        "LOGIN TIME":  "07:35:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-amontales@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:45:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:32:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-caninag@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:47:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:47:19",
+        "LOGIN TIME":  "00:00:12"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-caninag@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:03:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:47:36",
+        "LOGIN TIME":  "00:44:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-caninag@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:47:36",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:30:38"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-csulit@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:55:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:22:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-ddarullo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:58:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:04:33",
+        "LOGIN TIME":  "09:05:45"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-kbalagtas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:12:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:46:40",
+        "LOGIN TIME":  "06:34:38"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-kbalagtas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:46:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:05:53",
+        "LOGIN TIME":  "00:19:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-kbalagtas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:05:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:12:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-kgarcia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:21:05",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:46:55",
+        "LOGIN TIME":  "00:25:51"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-kgarcia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:46:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:31:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-ngutierrez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:48:20",
+        "LOGIN TIME":  "00:45:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-ngutierrez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:48:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:29:53"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-rdangaran@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:12:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:47:23",
+        "LOGIN TIME":  "00:34:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-rdangaran@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:47:23",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:52:18",
+        "LOGIN TIME":  "00:04:55"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-rdangaran@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:52:18",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:25:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Canada",
+        "AGENT EMAIL":  "v-rlee@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:30:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:33:52",
+        "LOGIN TIME":  "00:03:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-abactad@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:53:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:25:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-amalit@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:40:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:37:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-amontallana@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:17:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-andelacruz@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:50:31",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:27:42"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-clacbayo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:54:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:23:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-cpalmaria@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:49:18",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:28:55"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-cpascua@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:20:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-cyandan@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:00:10",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:18:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-dmarzan@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:53:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:24:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-eedquiban@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:54:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:23:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-heclarinal@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:53:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:24:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-iegnisaban@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:54:37",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:23:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-jalagon@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:53:14",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:25:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-jarosario@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:48:36",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:29:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-jbugay@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:47:54",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:30:19"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-jcastrence@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "09:17:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-jeguzman@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 03:45:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "10:33:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-jfalcutila@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:48:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:29:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-jogonzales@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:58:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:19:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-jpedlaoan@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:48:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:29:58"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-jsanangel@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:16",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:16:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-kabad@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:29:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:49:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-kalibasa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:48:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:29:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-kpayumo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:00:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:17:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-lbueno@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:28:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:49:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-mdiaz@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:20:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-mgarcia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:52:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:25:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-mkinkito@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:35:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:43:09"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-myodico@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:17:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "09:00:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-raguirre@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:31:03",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:47:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-rbobadilla@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:39:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:39:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-rrabadon@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:54:05",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:24:09"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-rtacbas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:05:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:12:53"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-smuyco@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:20:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-srejuso@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:47:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:30:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-tsantos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:55:57",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:22:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Buwelo Training",
+        "AGENT EMAIL":  "v-wyugto@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:58:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:20:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "abarrows@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:53:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:24:22"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "abellazetin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 05:17:24",
+        "LOGIN TIME":  "00:16:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "abellazetin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:56:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:03",
+        "LOGIN TIME":  "05:33:46"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "brevoir@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:34:14",
+        "LOGIN TIME":  "08:32:25"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "cwhite@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:03:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:14:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "cwhitehead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:43:24",
+        "LOGIN TIME":  "03:43:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "cwhitehead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:09:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:33:12",
+        "LOGIN TIME":  "04:24:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "ditaylor@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:43:18",
+        "LOGIN TIME":  "08:41:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "dliddiard@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:26:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:51:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "gpack@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:01:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:16:14"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "jcarver@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:14:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:03:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "jrobinson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:33:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:44:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "jwheat@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 14:02:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:15:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "ksorensen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:05:13",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:13:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "liguzman@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:19:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "molsen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:30:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:48:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "mprince@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:04:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:44:20",
+        "LOGIN TIME":  "03:39:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "mprince@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:44:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:49",
+        "LOGIN TIME":  "02:17:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "mrobinson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:52:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:31:02",
+        "LOGIN TIME":  "08:38:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "sdunn@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:51:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:19",
+        "LOGIN TIME":  "08:38:59"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "smurphy@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "swagner@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:06:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:02",
+        "LOGIN TIME":  "08:24:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "tfano@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:16",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "tgalloway@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:03",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:17:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "toropeza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:29:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:10:00",
+        "LOGIN TIME":  "03:40:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "toropeza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:14:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:54",
+        "LOGIN TIME":  "02:16:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:29:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:56:24",
+        "LOGIN TIME":  "03:27:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:59:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:53:24",
+        "LOGIN TIME":  "00:54:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:55:23",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:35:24",
+        "LOGIN TIME":  "00:40:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Canada Filter",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:42:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:00:08",
+        "LOGIN TIME":  "01:17:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "icastro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:34:05",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:03:52",
+        "LOGIN TIME":  "00:29:46"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "icastro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:47:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:30:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "jewhite@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:12:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:56:15",
+        "LOGIN TIME":  "00:43:58"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "jewhite@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:03:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:06:15",
+        "LOGIN TIME":  "02:03:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "jewhite@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:17:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:44:15",
+        "LOGIN TIME":  "00:26:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "jewhite@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:30:32",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:36:52",
+        "LOGIN TIME":  "02:06:19"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "jewhite@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:37:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:41:14"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "jgould@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:04:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:05:25",
+        "LOGIN TIME":  "03:00:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "jgould@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:07:10",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:56:00",
+        "LOGIN TIME":  "02:48:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "ntravis@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:14:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:03:25"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "sagonzalez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:34:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:43:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "shlarson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:39:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:40:58",
+        "LOGIN TIME":  "00:00:59"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "shlarson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:41:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:41:36",
+        "LOGIN TIME":  "00:00:19"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "shlarson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:13:37",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:28:24",
+        "LOGIN TIME":  "00:14:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "sulrich@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:43:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:04:52",
+        "LOGIN TIME":  "02:21:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "sulrich@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:07:05",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:31:52",
+        "LOGIN TIME":  "00:24:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "sulrich@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:33:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:48:00",
+        "LOGIN TIME":  "01:14:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "sulrich@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:20:31",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:57:42"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Diamond Support",
+        "AGENT EMAIL":  "trichins@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:26:06",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:52:08"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "aadams@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:31:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:32:04",
+        "LOGIN TIME":  "00:00:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "aadams@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:32:16",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:32:33",
+        "LOGIN TIME":  "00:00:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "aadams@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:32:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:32:54",
+        "LOGIN TIME":  "00:00:14"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "aadams@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:33:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:45:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "alavila@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:32:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:45:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "aloera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:24:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:53:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "bgastelum@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:04:27",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:13:46"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "dhilton@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:30:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:47:14"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "hlopez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:58:37",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:29:24",
+        "LOGIN TIME":  "02:30:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "hlopez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:43:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:34:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "hmoore@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:58:46",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:19:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "lshepherd@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:59:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:18:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "mvazquez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:29:37",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:48:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "sbencomo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:32:13",
+        "LOGIN TIME":  "02:34:24"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "sbencomo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:34:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:54:24",
+        "LOGIN TIME":  "01:20:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "sbencomo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:19:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:25:24",
+        "LOGIN TIME":  "00:05:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "sbencomo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:50:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:54:00",
+        "LOGIN TIME":  "00:03:26"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "sbencomo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:57:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:20:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "schavez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:20:26"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "sroberts@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:00:47",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:33:51",
+        "LOGIN TIME":  "02:33:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Leadership Support",
+        "AGENT EMAIL":  "sypeterson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:35:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:42:32"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "abarrows@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:53:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:24:22"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "abellazetin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 05:17:24",
+        "LOGIN TIME":  "00:16:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "abellazetin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:56:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:03",
+        "LOGIN TIME":  "05:33:46"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "brevoir@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:34:14",
+        "LOGIN TIME":  "08:32:25"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "cwhite@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:03:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:14:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "cwhitehead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:43:24",
+        "LOGIN TIME":  "03:43:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "cwhitehead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:09:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:33:12",
+        "LOGIN TIME":  "04:24:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "ditaylor@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:43:18",
+        "LOGIN TIME":  "08:41:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "dliddiard@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:26:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:51:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "gpack@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:01:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:16:14"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "jcarver@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:14:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:03:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "jrobinson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:33:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:44:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "jwheat@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 14:02:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:15:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "ksorensen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:05:13",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:13:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "liguzman@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:19:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "molsen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:30:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:48:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "mprince@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:04:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:44:20",
+        "LOGIN TIME":  "03:39:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "mprince@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:44:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:49",
+        "LOGIN TIME":  "02:17:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "mrobinson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:52:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:31:02",
+        "LOGIN TIME":  "08:38:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "sdunn@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:51:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:19",
+        "LOGIN TIME":  "08:38:59"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "smurphy@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "swagner@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:06:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:02",
+        "LOGIN TIME":  "08:24:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "tfano@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:16",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "tgalloway@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:03",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:17:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "toropeza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:29:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:10:00",
+        "LOGIN TIME":  "03:40:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "toropeza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:14:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:54",
+        "LOGIN TIME":  "02:16:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:29:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:56:24",
+        "LOGIN TIME":  "03:27:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:59:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:53:24",
+        "LOGIN TIME":  "00:54:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:55:23",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:35:24",
+        "LOGIN TIME":  "00:40:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Tech Free Filter",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:42:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:00:08",
+        "LOGIN TIME":  "01:17:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-abaribar@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:24:44",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:48:06",
+        "LOGIN TIME":  "01:23:22"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-aedullantes@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:59:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:18:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ajavellana@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:02:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:15:58"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-algarcia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:55:30",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:22:43"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-alicerio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:18:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:36:39",
+        "LOGIN TIME":  "02:18:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-alicerio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:50:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:05:12",
+        "LOGIN TIME":  "06:15:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-aobiso@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:01:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:32:24",
+        "LOGIN TIME":  "04:30:26"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-aobiso@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:50:03",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:28:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-arobles@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:57:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:46:24",
+        "LOGIN TIME":  "03:49:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-arobles@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:18:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:59:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-arosil@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:59:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:18:46"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-carriola@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:54:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:23:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ccarlos@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:57:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:20:51"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-cdadis@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:30:46",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:47:27"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-cfernandez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:30:05",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:48:08"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ctandas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:50:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:28:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ctayamin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:30:37",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:47:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-dcostas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:48:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:29:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-eboron@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:58:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:20:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-evelasco@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:56:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:21:24"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-fibanez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:26:06",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:52:08"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-fismael@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:59:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:18:55"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-fmariwa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:58:14",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:03:24",
+        "LOGIN TIME":  "02:05:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-fmariwa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:39:46",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:08:24",
+        "LOGIN TIME":  "01:28:38"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-fmariwa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:28:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:28:54",
+        "LOGIN TIME":  "01:00:42"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-fmariwa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:55:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:23:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ggupong@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:07:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:10:40"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-gsantuyo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:33:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:44:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-hJumarang@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:09:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:09:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jbalasabas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:07:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:10:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jgamboa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:30:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:47:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jguevarra@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:06:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:11:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jlomibao@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:00:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:17:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jmondejar@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:14:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:03:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jrecto@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:56:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:20",
+        "LOGIN TIME":  "09:04:12"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jTesorero@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:19:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:32:49",
+        "LOGIN TIME":  "00:13:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jTesorero@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:42:13",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:53:56",
+        "LOGIN TIME":  "01:11:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jTesorero@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:11:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:06:46"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jurgelles@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:56:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:13:56",
+        "LOGIN TIME":  "02:17:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jurgelles@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:40:45",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:33:42",
+        "LOGIN TIME":  "00:52:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-jurgelles@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:46:44",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:31:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-kpenaranda@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:01:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:16:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-kvaleros@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:24:23",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:13:14",
+        "LOGIN TIME":  "05:48:51"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-lallig@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:59:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:18:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ldaisog@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:24:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:53:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-lrabacal@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:21:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:56:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-mcalma@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:04:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:34",
+        "LOGIN TIME":  "08:57:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-mcasinillo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:20:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-mdaloran@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:31:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:46:45"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-mengle@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:19:40"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-mkhatab@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:27:46",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:50:27"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-msaunar@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:31:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:46:51"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-muy@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:12:46",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:14:45",
+        "LOGIN TIME":  "00:01:59"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-muy@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:23:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:54:40"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-nesponilla@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:10:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:10:37",
+        "LOGIN TIME":  "00:00:27"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-nesponilla@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:14:32",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:03:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-nsadiwa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:06:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:11:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-pcalica@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:00:46",
+        "LOGIN TIME":  "00:02:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-pcalica@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:01:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:34:01",
+        "LOGIN TIME":  "05:32:55"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-pcalica@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:35:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:03:00",
+        "LOGIN TIME":  "00:27:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-pcalica@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:06:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:11:26"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ralmirol@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:04:57",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 05:13:39",
+        "LOGIN TIME":  "00:08:42"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ralmirol@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:14:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:08",
+        "LOGIN TIME":  "08:45:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ramaro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:38:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 06:45:07",
+        "LOGIN TIME":  "01:06:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ramaro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:52:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:15:32",
+        "LOGIN TIME":  "04:23:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ramaro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:16:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:47:01",
+        "LOGIN TIME":  "00:30:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ramaro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:52:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:51:00",
+        "LOGIN TIME":  "00:58:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-ramaro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:51:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:00:28",
+        "LOGIN TIME":  "01:09:08"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rdaquiojr@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:05:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:12:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rdumlao@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:29:57",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:48:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rinaldo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:01:25",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:16:48"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rmalavega@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:00:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:17:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rnieva@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:59:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:18:32"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rreyes@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:14:36",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:26:42",
+        "LOGIN TIME":  "00:12:07"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rreyes@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:27:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:52:00",
+        "LOGIN TIME":  "03:24:25"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rreyes@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:59:44",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:18:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rriel@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:01:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:16:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rteves@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:00:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:17:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-rVillarama@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:59:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:18:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-sbrezueka@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:59:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:18:32"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-sricario@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:34:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:43:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-watay@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:56:44",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:21:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-zmarcelo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:10:36",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:42:24",
+        "LOGIN TIME":  "03:31:48"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "Teleperformance",
+        "AGENT EMAIL":  "v-zmarcelo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:00:57",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:17:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "adrake@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:11:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:14:15",
+        "LOGIN TIME":  "03:02:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "adrake@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:37:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:34:45",
+        "LOGIN TIME":  "02:57:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "cbicknell@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:20:49"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:38:45",
+        "LOGIN TIME":  "01:39:48"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:40:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:04:24",
+        "LOGIN TIME":  "02:24:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:19:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:23:24",
+        "LOGIN TIME":  "02:03:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:36:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:41:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "jesmith@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:59:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:18:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "lbarrera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:52:57",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:25:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M07",
+        "AGENT EMAIL":  "tfano@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:16",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M10",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:38:45",
+        "LOGIN TIME":  "01:39:48"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M10",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:40:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:04:24",
+        "LOGIN TIME":  "02:24:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M10",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:19:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:23:24",
+        "LOGIN TIME":  "02:03:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M10",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:36:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:41:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M11",
+        "AGENT EMAIL":  "alax@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:00:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:18:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M11",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:38:45",
+        "LOGIN TIME":  "01:39:48"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M11",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:40:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:04:24",
+        "LOGIN TIME":  "02:24:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M11",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:19:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:23:24",
+        "LOGIN TIME":  "02:03:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M11",
+        "AGENT EMAIL":  "chweiss@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:36:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:41:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M11",
+        "AGENT EMAIL":  "thampton@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:37:25",
+        "LOGIN TIME":  "04:39:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M11",
+        "AGENT EMAIL":  "thampton@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:49:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:28:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M12",
+        "AGENT EMAIL":  "glindsey@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:03:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:33:25",
+        "LOGIN TIME":  "06:30:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M13",
+        "AGENT EMAIL":  "abroadhead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:56:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:03:52",
+        "LOGIN TIME":  "05:07:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M13",
+        "AGENT EMAIL":  "abroadhead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:10:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:31:54",
+        "LOGIN TIME":  "03:21:55"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M13",
+        "AGENT EMAIL":  "dtoro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:53",
+        "LOGIN TIME":  "08:29:49"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M13",
+        "AGENT EMAIL":  "fcollins@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:41:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:36:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M13",
+        "AGENT EMAIL":  "glindsey@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:03:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:33:25",
+        "LOGIN TIME":  "06:30:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M13",
+        "AGENT EMAIL":  "khoward@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:53:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:24:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M13",
+        "AGENT EMAIL":  "pking@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:00:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:18:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M13",
+        "AGENT EMAIL":  "vcarlson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:37:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:20:15",
+        "LOGIN TIME":  "06:42:24"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M14",
+        "AGENT EMAIL":  "adrake@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:11:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:14:15",
+        "LOGIN TIME":  "03:02:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M14",
+        "AGENT EMAIL":  "adrake@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:37:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:34:45",
+        "LOGIN TIME":  "02:57:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M14",
+        "AGENT EMAIL":  "cbicknell@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:20:49"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M14",
+        "AGENT EMAIL":  "glindsey@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:03:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:33:25",
+        "LOGIN TIME":  "06:30:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M14",
+        "AGENT EMAIL":  "lbarrera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:52:57",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:25:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M14",
+        "AGENT EMAIL":  "pking@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:00:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:18:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US M14",
+        "AGENT EMAIL":  "vcarlson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:37:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:20:15",
+        "LOGIN TIME":  "06:42:24"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "cbristow@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:41:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:36:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "cpainecura@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:30:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:47:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "jamartinez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:27:13",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:52:15",
+        "LOGIN TIME":  "03:25:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "jamartinez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:52:54",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:31:15",
+        "LOGIN TIME":  "00:38:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "jamartinez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:34:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:44:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "jciriako@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:01:27",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:02:03",
+        "LOGIN TIME":  "01:00:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "jciriako@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:02:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:15:58"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "nfarr@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:03:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:14:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "rhansen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:28:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:23:24",
+        "LOGIN TIME":  "05:55:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "rhansen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:35:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:13",
+        "LOGIN TIME":  "00:25:48"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 02",
+        "AGENT EMAIL":  "xcuascut@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:43:51",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:34:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "abroadhead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:56:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:03:52",
+        "LOGIN TIME":  "05:07:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "abroadhead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:10:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:31:54",
+        "LOGIN TIME":  "03:21:55"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "cconger@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:57:54",
+        "LOGIN TIME":  "03:57:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "cconger@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:58:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:45",
+        "LOGIN TIME":  "04:32:43"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "krasmussen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:05:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:31:37",
+        "LOGIN TIME":  "08:26:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "ksorensen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:05:13",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:13:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "mpettit@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:32:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:54:25",
+        "LOGIN TIME":  "02:22:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "mprince@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:04:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:44:20",
+        "LOGIN TIME":  "03:39:21"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "mprince@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:44:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:49",
+        "LOGIN TIME":  "02:17:29"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "mrobinson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:52:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:31:02",
+        "LOGIN TIME":  "08:38:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "rbalzly@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:25:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:52:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "toropeza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:29:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:10:00",
+        "LOGIN TIME":  "03:40:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "toropeza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:14:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:54",
+        "LOGIN TIME":  "02:16:37"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:29:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:56:24",
+        "LOGIN TIME":  "03:27:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:59:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:53:24",
+        "LOGIN TIME":  "00:54:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:55:23",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:35:24",
+        "LOGIN TIME":  "00:40:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 03",
+        "AGENT EMAIL":  "wmyrup@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:42:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:00:08",
+        "LOGIN TIME":  "01:17:28"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 04",
+        "AGENT EMAIL":  "alagunas@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:54:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "09:23:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 04",
+        "AGENT EMAIL":  "alax@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:00:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:18:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 04",
+        "AGENT EMAIL":  "ecauteruccio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 00:18:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 03:00:50",
+        "LOGIN TIME":  "02:42:42"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 04",
+        "AGENT EMAIL":  "ecauteruccio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:54:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:04:19",
+        "LOGIN TIME":  "01:09:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 04",
+        "AGENT EMAIL":  "jpirir@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:32:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:45:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 04",
+        "AGENT EMAIL":  "vcauteruccio@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 00:11:30",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:44:38",
+        "LOGIN TIME":  "13:33:09"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 04",
+        "AGENT EMAIL":  "yshikano@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:15:03",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:03:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "adrake@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:11:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:14:15",
+        "LOGIN TIME":  "03:02:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "adrake@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:37:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:34:45",
+        "LOGIN TIME":  "02:57:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "alazo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:11:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:49:39",
+        "LOGIN TIME":  "00:38:15"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "alazo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:50:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:28:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "jdepriest@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:00:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:39:20",
+        "LOGIN TIME":  "01:38:58"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "jdepriest@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:39:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:00:27",
+        "LOGIN TIME":  "03:21:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "jdepriest@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:00:05",
+        "LOGIN TIME":  "00:57:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "siverson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:04:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:30:32",
+        "LOGIN TIME":  "04:26:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "siverson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:30:32",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:39:05",
+        "LOGIN TIME":  "01:08:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "siverson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:39:05",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:08:47",
+        "LOGIN TIME":  "01:29:42"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 10",
+        "AGENT EMAIL":  "smadrigal@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:30:14",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:02:25",
+        "LOGIN TIME":  "07:32:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 12",
+        "AGENT EMAIL":  "brevoir@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:49",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:34:14",
+        "LOGIN TIME":  "08:32:25"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 12",
+        "AGENT EMAIL":  "dtoro@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:53",
+        "LOGIN TIME":  "08:29:49"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 12",
+        "AGENT EMAIL":  "gpack@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:01:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:16:14"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 12",
+        "AGENT EMAIL":  "lsopchak@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:30:08",
+        "LOGIN TIME":  "02:29:57"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 12",
+        "AGENT EMAIL":  "shughes@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:30:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:10:24",
+        "LOGIN TIME":  "04:40:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 12",
+        "AGENT EMAIL":  "swagner@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:06:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:02",
+        "LOGIN TIME":  "08:24:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "abarrows@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:53:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:24:22"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "abellazetin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 05:17:24",
+        "LOGIN TIME":  "00:16:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "abellazetin@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:56:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:03",
+        "LOGIN TIME":  "05:33:46"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "jcarver@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:14:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:03:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "krichins@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:59:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:01:24",
+        "LOGIN TIME":  "07:01:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "scoleman@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:14:15",
+        "LOGIN TIME":  "02:15:59"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "scoleman@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:35:03",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:35:00",
+        "LOGIN TIME":  "01:59:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "scoleman@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:43:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:34:51"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "sphillips@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:29:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:29:54",
+        "LOGIN TIME":  "00:00:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "sphillips@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:30:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:32:04",
+        "LOGIN TIME":  "00:01:26"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "sphillips@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:32:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:33:22",
+        "LOGIN TIME":  "00:00:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "sphillips@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:33:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:33:34",
+        "LOGIN TIME":  "00:00:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "sphillips@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:33:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:35:43",
+        "LOGIN TIME":  "00:01:47"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "sphillips@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:13:36",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:13:59",
+        "LOGIN TIME":  "00:00:22"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "sphillips@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:14:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:18:15",
+        "LOGIN TIME":  "00:03:48"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "sphillips@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:19:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:31:22",
+        "LOGIN TIME":  "00:12:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "sphillips@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:31:32",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:46:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 13",
+        "AGENT EMAIL":  "trcarter@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:00:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:48:54",
+        "LOGIN TIME":  "01:48:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 15",
+        "AGENT EMAIL":  "chcarter@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:00:04",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:18:09"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 15",
+        "AGENT EMAIL":  "crowley@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:54:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:23:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 15",
+        "AGENT EMAIL":  "jfranks@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:47:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:30:45"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 15",
+        "AGENT EMAIL":  "kiharding@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:15:10",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:10:24",
+        "LOGIN TIME":  "04:55:14"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 15",
+        "AGENT EMAIL":  "kiharding@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:44:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:33:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 15",
+        "AGENT EMAIL":  "larredondo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:57:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:16:18",
+        "LOGIN TIME":  "06:19:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 15",
+        "AGENT EMAIL":  "pmiller@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:51:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:46:26",
+        "LOGIN TIME":  "08:54:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 15",
+        "AGENT EMAIL":  "snelson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:03:03",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:15:10"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 15",
+        "AGENT EMAIL":  "vcarlson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:37:50",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:20:15",
+        "LOGIN TIME":  "06:42:24"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 16",
+        "AGENT EMAIL":  "thampton@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:37:25",
+        "LOGIN TIME":  "04:39:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 16",
+        "AGENT EMAIL":  "thampton@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:49:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:28:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 17",
+        "AGENT EMAIL":  "bneilsen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:56:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:04",
+        "LOGIN TIME":  "08:33:53"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 17",
+        "AGENT EMAIL":  "jwhitlock@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:16:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 17",
+        "AGENT EMAIL":  "kdean@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:52:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:53:53",
+        "LOGIN TIME":  "03:01:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 17",
+        "AGENT EMAIL":  "kdean@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:55:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:22:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "bchristison@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:21:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:56:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "caharris@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:01:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:16:25"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "ezarate@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:02:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:16:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "jacord@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:00:09",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:18:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "kcarter@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:01:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:25:42",
+        "LOGIN TIME":  "02:24:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "kcarter@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:25:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:52:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "kramirez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:00:39",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:30:09",
+        "LOGIN TIME":  "05:29:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "kwoolsey@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:34:00",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:44:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "lbarrera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:52:57",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:25:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "mbourne@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:10",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:17:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "rmoreno@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:58:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:02:42",
+        "LOGIN TIME":  "04:04:14"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 22",
+        "AGENT EMAIL":  "rmoreno@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:26:05",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:28:55",
+        "LOGIN TIME":  "01:02:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 29",
+        "AGENT EMAIL":  "thampton@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 11:37:25",
+        "LOGIN TIME":  "04:39:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 29",
+        "AGENT EMAIL":  "thampton@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:49:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:28:20"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "cmorales@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:05:15",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:26:00",
+        "LOGIN TIME":  "02:20:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "cmorales@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:49:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:14:34",
+        "LOGIN TIME":  "05:25:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "esmith@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:03:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:14:32",
+        "LOGIN TIME":  "06:10:58"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "esmith@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 14:07:02",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:11:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "jobird@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:03:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:15:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "kethompson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:01:14",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:02:58",
+        "LOGIN TIME":  "06:01:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "pgunderson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:51:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:15",
+        "LOGIN TIME":  "08:38:49"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "rmenjivar@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:05:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:12:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "tfox@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:07:31",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:10:42"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "tromero@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:54:53",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:32:43",
+        "LOGIN TIME":  "01:37:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 36",
+        "AGENT EMAIL":  "tromero@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:40:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:37:51"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 39",
+        "AGENT EMAIL":  "aallred@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:02:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:15:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 39",
+        "AGENT EMAIL":  "eestrada@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:00:06",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:18:07"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 39",
+        "AGENT EMAIL":  "khoward@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:53:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:24:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 39",
+        "AGENT EMAIL":  "liguzman@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:58:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:19:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 39",
+        "AGENT EMAIL":  "mbran@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:03:54",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:14:19"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 39",
+        "AGENT EMAIL":  "vwakefield@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:47:23",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:30:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 41",
+        "AGENT EMAIL":  "cwhitehead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:43:24",
+        "LOGIN TIME":  "03:43:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 41",
+        "AGENT EMAIL":  "cwhitehead@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:09:08",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:33:12",
+        "LOGIN TIME":  "04:24:05"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 41",
+        "AGENT EMAIL":  "ditaylor@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:43:18",
+        "LOGIN TIME":  "08:41:56"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 41",
+        "AGENT EMAIL":  "dliddiard@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:26:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:51:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 41",
+        "AGENT EMAIL":  "fcollins@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:41:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:36:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 41",
+        "AGENT EMAIL":  "jrobinson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:33:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:44:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 41",
+        "AGENT EMAIL":  "sdunn@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:51:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:19",
+        "LOGIN TIME":  "08:38:59"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 44",
+        "AGENT EMAIL":  "eburke@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:29:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:49:03"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 44",
+        "AGENT EMAIL":  "khaws@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:32:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:45:44"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 44",
+        "AGENT EMAIL":  "pking@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:00:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:18:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 44",
+        "AGENT EMAIL":  "polarsen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:59:46",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:18:27"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 47",
+        "AGENT EMAIL":  "jehernandez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:07:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:16:47",
+        "LOGIN TIME":  "08:09:25"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 47",
+        "AGENT EMAIL":  "lcarranza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:30",
+        "LOGIN TIME":  "08:30:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 47",
+        "AGENT EMAIL":  "mcamara@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:03:13",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "07:15:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 47",
+        "AGENT EMAIL":  "mrawlins@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:01:48",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 09:05:52",
+        "LOGIN TIME":  "01:04:04"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 47",
+        "AGENT EMAIL":  "mrawlins@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:50:43",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:27:30"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 47",
+        "AGENT EMAIL":  "sanderson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:30:16",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 10:26:59",
+        "LOGIN TIME":  "04:56:43"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 47",
+        "AGENT EMAIL":  "sanderson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:26:59",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:21:07",
+        "LOGIN TIME":  "02:54:08"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 47",
+        "AGENT EMAIL":  "tgalloway@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:01:03",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:17:11"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 52",
+        "AGENT EMAIL":  "afeliz@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:01:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:09:54",
+        "LOGIN TIME":  "06:08:24"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 52",
+        "AGENT EMAIL":  "amichaud@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:24:38",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:53:35"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 52",
+        "AGENT EMAIL":  "bmendoza@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:04:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:11:33",
+        "LOGIN TIME":  "06:07:32"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 52",
+        "AGENT EMAIL":  "cbicknell@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:24",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:20:49"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 52",
+        "AGENT EMAIL":  "jlazarte@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:50:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:08:36",
+        "LOGIN TIME":  "08:18:25"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 52",
+        "AGENT EMAIL":  "mnielson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:25:16",
+        "LOGIN TIME":  "02:24:48"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 52",
+        "AGENT EMAIL":  "mnielson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:25:33",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:32:57",
+        "LOGIN TIME":  "00:07:25"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 52",
+        "AGENT EMAIL":  "mnielson@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 07:33:32",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:44:41"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 52",
+        "AGENT EMAIL":  "ricgarcia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 04:59:52",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:21:05",
+        "LOGIN TIME":  "08:21:13"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 53",
+        "AGENT EMAIL":  "bwray@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:52:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:12:52",
+        "LOGIN TIME":  "00:20:26"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 53",
+        "AGENT EMAIL":  "bwray@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:16:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:01:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 53",
+        "AGENT EMAIL":  "cwhite@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:03:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:14:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 53",
+        "AGENT EMAIL":  "jagonzalez@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:18:36",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:59:38"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 53",
+        "AGENT EMAIL":  "jesmith@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:59:58",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:18:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 53",
+        "AGENT EMAIL":  "jwheat@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 14:02:41",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:15:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 53",
+        "AGENT EMAIL":  "maherrera@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:35:56",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:42:17"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 53",
+        "AGENT EMAIL":  "smurphy@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 53",
+        "AGENT EMAIL":  "tbenally@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:29:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:48:45"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "bballinger@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:29",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:30:52",
+        "LOGIN TIME":  "06:33:23"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "bballinger@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:26:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "00:51:33"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "bswiantek@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:02:22",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:15:52"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "cchristiansen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:57:21",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:53:48",
+        "LOGIN TIME":  "02:56:27"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "cchristiansen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:53:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:24:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "iaumavae@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 06:12:32",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:49:10",
+        "LOGIN TIME":  "02:36:38"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "iaumavae@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:50:19",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:27:54"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "joevans@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:59:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:53:13",
+        "LOGIN TIME":  "02:54:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "joevans@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:53:28",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "05:24:46"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 56",
+        "AGENT EMAIL":  "mcartagena@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 11:43:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:35:12"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 60",
+        "AGENT EMAIL":  "bkurylo@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:02:25",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:15:49"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 60",
+        "AGENT EMAIL":  "kawilliams@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:04:07",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "02:14:06"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 60",
+        "AGENT EMAIL":  "sking@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:33:34",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 12:17:24",
+        "LOGIN TIME":  "01:43:50"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 60",
+        "AGENT EMAIL":  "tmuagututia@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:23:35",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:54:39"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 61",
+        "AGENT EMAIL":  "escadden@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:59:42",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:18:31"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 61",
+        "AGENT EMAIL":  "jschwalbe@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:29:14",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:49:00"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 61",
+        "AGENT EMAIL":  "molsen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:30:12",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:48:01"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 62",
+        "AGENT EMAIL":  "agroves@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 10:59:40",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "03:18:34"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 62",
+        "AGENT EMAIL":  "ashaw@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 09:52:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "04:25:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 62",
+        "AGENT EMAIL":  "djensen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:01:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "06:17:02"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 62",
+        "AGENT EMAIL":  "ltoa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:01:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:39:00",
+        "LOGIN TIME":  "08:37:40"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 62",
+        "AGENT EMAIL":  "ltoa@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:42:23",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:42:42",
+        "LOGIN TIME":  "00:00:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Team 62",
+        "AGENT EMAIL":  "mstruyk@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:59:14",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "08:18:59"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Training",
+        "AGENT EMAIL":  "bwray@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 12:52:26",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:12:52",
+        "LOGIN TIME":  "00:20:26"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Training",
+        "AGENT EMAIL":  "bwray@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 13:16:55",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 14:18:13",
+        "LOGIN TIME":  "01:01:18"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Training",
+        "AGENT EMAIL":  "cconger@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:17",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 08:57:54",
+        "LOGIN TIME":  "03:57:36"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Training",
+        "AGENT EMAIL":  "cconger@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 08:58:01",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:30:45",
+        "LOGIN TIME":  "04:32:43"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Training",
+        "AGENT EMAIL":  "krasmussen@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:05:20",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 13:31:37",
+        "LOGIN TIME":  "08:26:16"
+    },
+    {
+        "DATE":  "2021/12/17",
+        "AGENT GROUP":  "US Training",
+        "AGENT EMAIL":  "lsopchak@youngliving.com",
+        "LOGIN TIMESTAMP":  "Fri, 17 Dec 2021 05:00:11",
+        "LOGOUT TIMESTAMP":  "Fri, 17 Dec 2021 07:30:08",
+        "LOGIN TIME":  "02:29:57"
+    }
+]
