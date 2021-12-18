@@ -44,6 +44,8 @@ private/
 settings/
 scratch/
 
+# Temp 
+Output/
 
 # =========================
 # Operating System Files

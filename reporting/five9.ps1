@@ -33,3 +33,4 @@ import-csv $infile | ConvertTo-Json | Add-Content -Path $outfile -Force
 # Upload file to S3
 Write-S3Object -ProfileName $AWSprofile -BucketName $s3Bucket -Key "five9/$prefix/$prefix$filedate.json" -File $outfile
 }
+Get-ChildItem "E:\git\Five9-API\reporting\Output\*.json" | Remove-Item
