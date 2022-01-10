@@ -78,7 +78,7 @@ except requests.exceptions.HTTPError as e:
 criteria_datetime_start = datetime.date.today()
 criteria_datetime_end = datetime.date.today() + datetime.timedelta(days=1)
 report_folder = "ETL"
-report_name = "Call Log - Queue Call Back Offered Registered = 1"
+report_name = "Call Log - Full"
 
 # Criteria object contains required parameters forthe runReport method
 report_criteria = {
