@@ -105,6 +105,6 @@ while report_running is True:
         time.sleep(5)
 # Csv result set is faster to obtain, less verbose response body
 reportResultCsv = client.service.getReportResultCsv(report_run_id)
-csvFilePath = 'Output\CallLog1.csv'
+csvFilePath = 'Output\CallLogs.csv'
 with open(csvFilePath, 'w', encoding='utf-8') as csvf:
     csvf.write(reportResultCsv)
