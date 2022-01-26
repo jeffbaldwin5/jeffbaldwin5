@@ -76,7 +76,7 @@ except requests.exceptions.HTTPError as e:
 # These folder and report names come from 
 # the "Custom Reports" section in Five9 reporting portal
 criteria_datetime_start = datetime.date.today()
-criteria_datetime_end = datetime.date.today() + datetime.timedelta(days=1)
+criteria_datetime_end = datetime.date.today() + datetime.timedelta(days=-1)
 report_folder = "ETL"
 report_name = "Reason Codes by Interval (Global)"
 
