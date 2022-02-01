@@ -1,0 +1,62 @@
+DATE,AGENT GROUP,AGENT EMAIL,1TO Cancel / CALLS,1TO Order / CALLS,1TO Points / CALLS,Abandon - QCB Active Queue / CALLS,Abandon - QCB Inactive Queue / CALLS,Abandon - Tech Free Queue / CALLS,Account Termination / CALLS,Change Referrer - SP or EN / CALLS,Commission Inquiry / CALLS,Diffuser Troubleshooting / CALLS,Gift Certificate / CALLS,No Answer or Response / CALLS,No Disposition / CALLS,Payment Issue / CALLS,Product Inquiry / CALLS,Promo Inquiry / CALLS,Reclassification / CALLS,Reconnect or Enroll / CALLS,Returns / CALLS,S2S Cancel / CALLS,S2S Process Now / CALLS,S2S Processing Time / CALLS,S2S Skip / CALLS,S2S Update Order / CALLS,Shipping Damaged or Leaking / CALLS,Shipping Did Not Order / CALLS,Shipping Missing Item / CALLS,Shipping Missing Package / CALLS,Site Error or Bug / CALLS,Site Navigation / CALLS,Tracking / CALLS,TOTAL / CALLS
+2021/12/19,,,,,,1,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,7
+2021/12/19,4NDM,v-emguzman@youngliving.com,1,1,2,,,,,,,1,,,,,,,,,,,,,1,,,,2,,,,,8
+2021/12/19,4NDM,v-gogonzalez@youngliving.com,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,,,2
+2021/12/19,4NDM,v-lmoncada@youngliving.com,,,1,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,4
+2021/12/19,4NDM,v-nruiz@youngliving.com,,,,,,,,,,,,,1,,,,,,,,3,,1,2,,,,,,,2,9
+2021/12/19,Buwelo,cprimavera@youngliving.com,1,1,,,,,,,,,,,,1,1,,,,,1,,1,,,,,,,,,,6
+2021/12/19,Buwelo,v-afantone@youngliving.com,,1,3,,,,,,,,,,1,,,,,1,2,,2,1,,4,,,,,1,,,16
+2021/12/19,Buwelo,v-aherrera@youngliving.com,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2021/12/19,Buwelo,v-alazarito@youngliving.com,1,1,1,,,,,,,,,,,,,,,,1,,1,,,3,3,,1,,,1,2,15
+2021/12/19,Buwelo,v-amacion@youngliving.com,,2,,,,,,,,,,,,1,,,,,1,,,,,1,1,,1,,1,1,1,10
+2021/12/19,Buwelo,v-anunag@youngliving.com,,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,2
+2021/12/19,Buwelo,v-aroy@youngliving.com,,,1,,,,,,,,,,,,2,,,1,,,,,1,5,,,4,,1,,,15
+2021/12/19,Buwelo,v-csangalang@youngliving.com,,,,,,,,,1,,,,,,2,,,,,1,1,1,,3,,,2,,1,,4,16
+2021/12/19,Buwelo,v-csantos@youngliving.com,,2,1,,,,,,,,,,,,2,,,,2,,,,1,3,,,1,1,,,3,16
+2021/12/19,Buwelo,v-drealo@youngliving.com,,1,,,,,,,,,,,1,,,,,,1,2,2,,,1,2,,2,1,,,,13
+2021/12/19,Buwelo,v-ebugayong@youngliving.com,,,1,,,,,,,,,1,,1,,,,,1,,,,,,,,,,,,,4
+2021/12/19,Buwelo,v-gzerna@youngliving.com,,,,,,,,,,,,,2,1,1,,,,1,,,,,2,,,,,1,,3,11
+2021/12/19,Buwelo,v-icantimbuhan@youngliving.com,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2021/12/19,Buwelo,v-jalterado@youngliving.com,,,1,,,,,,,,,,1,,1,,,1,,,1,,1,,,,,,1,,1,8
+2021/12/19,Buwelo,v-jgayacao@youngliving.com,,1,1,,,,,1,,,,,,2,1,,,1,1,,,,,1,,,1,,,,,10
+2021/12/19,Buwelo,v-jgiba@youngliving.com,,,,,,,1,,,,,,,,,,,,,3,1,,,2,,,,,,,1,8
+2021/12/19,Buwelo,v-joramirez@youngliving.com,,,,,,,,,,1,,,,,4,,,,1,1,,,,1,,,,1,,,3,12
+2021/12/19,Buwelo,v-josdeguzman@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1
+2021/12/19,Buwelo,v-jracion@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1
+2021/12/19,Buwelo,v-jtadeo@youngliving.com,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,,,,,2
+2021/12/19,Buwelo,v-jtaripe@youngliving.com,,,,,,,,,,,,,,1,,,,,1,,,,,,,,2,1,,,,5
+2021/12/19,Buwelo,v-kcorpuz@youngliving.com,1,1,1,,,,,,,,,,5,,1,,,1,1,1,2,,,4,,,1,1,,,3,23
+2021/12/19,Buwelo,v-lbaeshen@youngliving.com,,1,,,,,,,1,,,,,2,,,,1,,,3,,,2,,,4,,2,,,16
+2021/12/19,Buwelo,v-lventurero@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1
+2021/12/19,Buwelo,v-marce@youngliving.com,,,1,,,,,,,,,1,,1,1,1,,,,,1,,,1,,,3,1,1,1,2,15
+2021/12/19,Buwelo,v-mestomago@youngliving.com,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,3
+2021/12/19,Buwelo,v-mjperez@youngliving.com,,,1,,,,,,,,,,,1,,,,,,,2,,,2,,,,,1,,2,9
+2021/12/19,Buwelo,v-mpahayahay@youngliving.com,,,,,,,,,,,,,2,,,,,,1,,1,,1,2,,,,2,,,2,11
+2021/12/19,Buwelo,v-msubrio@youngliving.com,,,,,,,,,,,,,,,1,,,,,,,,,3,1,,2,2,2,,,11
+2021/12/19,Buwelo,v-psalafrania@youngliving.com,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1
+2021/12/19,Buwelo,v-rdaria@youngliving.com,,,1,,,,,,,,1,,,,1,,,1,,,1,,,2,,,1,,,,3,11
+2021/12/19,Buwelo,v-relee@youngliving.com,,,1,,,,,,,1,,,,,,,,,,,,,,5,,,,,,,,7
+2021/12/19,Buwelo,v-rfelicidario@youngliving.com,,,,,,,,,1,,,,,,,,,,,,,,,1,1,,2,,,,,5
+2021/12/19,Buwelo,v-rfung@youngliving.com,,,,,,,,,,,,,2,,2,,1,,,,1,,1,2,,2,4,1,,,2,18
+2021/12/19,Buwelo,v-rrumeral@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1
+2021/12/19,Buwelo,v-shizarsa@youngliving.com,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,1,3
+2021/12/19,Buwelo,v-zmuyco@youngliving.com,,,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,3,5
+2021/12/19,Buwelo Canada,v-jdeluna@youngliving.com,,,1,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,3
+2021/12/19,Buwelo Canada,v-kbalagtas@youngliving.com,,,,,,,,,,,,1,2,1,,,,,,1,1,,,1,,,,,1,,1,9
+2021/12/19,Buwelo Canada,v-kgarcia@youngliving.com,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,,,1,3
+2021/12/19,Buwelo Canada,v-rrumeral@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1
+2021/12/19,Teleperformance,v-dmabasa@youngliving.com,,6,1,,,,,,,,,,2,,1,,1,,1,1,1,,,4,1,,5,,,,,24
+2021/12/19,Teleperformance,v-hagbisit@youngliving.com,,,,,,,,,1,,,,,,4,,,,1,,2,,,1,,,2,,,2,1,14
+2021/12/19,Teleperformance,v-hvalera@youngliving.com,,2,2,,,,,,1,,,,1,,1,,,,,,1,,1,3,,,6,,,,2,20
+2021/12/19,Teleperformance,v-javillar@youngliving.com,,,1,,,,,,,1,,1,,,1,,,,2,1,,1,,3,1,,3,1,,,,16
+2021/12/19,Teleperformance,v-jCorrea@youngliving.com,,,2,,,,,1,1,,,,,,3,,,2,2,1,1,1,1,,,,,1,,,5,21
+2021/12/19,Teleperformance,v-jmisa@youngliving.com,,,1,,,,,,,,,2,1,2,,,,1,,1,2,,,1,,,3,,,,1,15
+2021/12/19,Teleperformance,v-kbodullo@youngliving.com,,1,,,,,1,1,,,,1,,,,,,,5,,3,,1,4,,1,,,,2,1,21
+2021/12/19,Teleperformance,v-ksison@youngliving.com,,1,1,,,,,1,,,,,1,,,,,,3,,,,,,1,,3,,,,1,12
+2021/12/19,Teleperformance,v-lmanzano@youngliving.com,,1,,,,,,,,,,,2,1,,,,1,,,,,,1,,,4,1,,,,11
+2021/12/19,Teleperformance,v-mdelarosa@youngliving.com,,,1,,,,,,1,,,,1,1,2,,,1,2,,3,,,,,1,3,,,,3,19
+2021/12/19,US Team 17,llarsen@youngliving.com,,4,,,,,,,,,,,,,2,,,,1,,3,,,,,,4,,,,2,16
+2021/12/19,US Team 22,jsmokoff@youngliving.com,,2,,,,,,,,,,,,,,,,1,1,,,,,2,,,,,,,,6
+2021/12/19,US Team 41,kpaulsen@youngliving.com,,3,2,,,,,,1,1,,1,1,,2,1,,3,3,1,4,3,2,5,2,,4,1,1,1,3,45
+2021/12/19,US Team 60,dkinsman@youngliving.com,,1,1,,,,,,,1,,1,,,2,,,,1,1,4,,2,1,3,,3,,,2,4,27
+2021/12/19,US Team 62,bmitchell@youngliving.com,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1

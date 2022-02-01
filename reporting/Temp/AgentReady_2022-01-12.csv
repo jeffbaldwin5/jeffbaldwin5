@@ -1,0 +1,1273 @@
+DATE,AGENT GROUP,AGENT EMAIL,CALLS count,READY TIME,NOT READY TIME,AVAILABLE TIME (LOGIN LESS NOT READY),ON ACW TIME,TALK TIME,RING TIME,HANDLE TIME,HOLD TIME
+2022/01/12,,jalvey@youngliving.com,0,06:52:46,01:14:15,06:53:11,,,00:00:24,,
+2022/01/12,,jesmith@youngliving.com,0,01:06:32,01:17:21,01:06:33,,,,,
+2022/01/12,,jrosier@youngliving.com,1,07:17:40,01:39:57,07:18:36,00:00:05,00:00:24,00:00:27,00:00:29,00:00:00
+2022/01/12,,ktrejo@youngliving.com,0,,,,,,,,
+2022/01/12,,mimorales@youngliving.com,0,02:09:32,06:40:27,02:09:57,,,00:00:24,,
+2022/01/12,,mmaxwell@youngliving.com,0,00:54:35,01:15:04,00:54:34,,,,,
+2022/01/12,,mwhitlock@youngliving.com,0,,,,,,,,
+2022/01/12,,tturner@youngliving.com,1,03:36:14,03:17:57,03:40:42,00:00:02,00:03:28,00:00:56,00:03:30,00:00:00
+2022/01/12,,v-derandio@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-acorona@youngliving.com,9,04:52:01,01:07:28,07:20:20,00:01:29,02:26:39,00:00:09,02:28:09,00:38:58
+2022/01/12,4NDM,v-alramos@youngliving.com,7,03:24:47,00:45:20,07:41:57,00:01:43,04:15:16,00:00:07,04:17:01,01:14:53
+2022/01/12,4NDM,v-atorres@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-avsolis@youngliving.com,13,05:37:02,01:20:38,07:13:38,00:02:02,01:31:35,00:00:57,01:33:35,00:26:20
+2022/01/12,4NDM,v-crazo@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-dalvarado@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-dgonzalez@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-drenteria@youngliving.com,13,03:44:50,01:22:47,07:07:59,00:00:29,03:22:20,00:00:13,03:22:49,01:03:11
+2022/01/12,4NDM,v-dsanchezmartinez@youngliving.com,0,,08:36:16,00:00:00,,,,,
+2022/01/12,4NDM,v-emguzman@youngliving.com,7,04:26:13,01:00:04,07:31:05,00:01:35,03:03:07,00:00:07,03:04:43,01:29:13
+2022/01/12,4NDM,v-gamartinez@youngliving.com,7,04:56:53,01:33:52,07:02:28,00:01:51,02:03:34,00:00:08,02:05:25,00:40:30
+2022/01/12,4NDM,v-gplascencia@youngliving.com,15,04:29:03,01:04:27,07:30:24,00:00:47,03:00:10,00:00:16,03:00:59,00:00:41
+2022/01/12,4NDM,v-gquezada@youngliving.com,10,05:05:09,01:04:03,07:34:33,00:00:30,02:28:42,00:00:10,02:29:12,00:21:10
+2022/01/12,4NDM,v-herodriguez@youngliving.com,7,04:55:09,00:58:39,07:05:22,00:00:55,02:08:59,00:00:06,02:09:55,00:46:35
+2022/01/12,4NDM,v-iarredondo@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-icanales@youngliving.com,11,05:21:45,00:59:32,07:37:44,,02:12:36,00:03:24,02:12:36,00:26:38
+2022/01/12,4NDM,v-iorduna@youngliving.com,16,03:38:39,00:43:45,07:52:03,00:02:51,04:10:08,00:00:17,04:13:03,02:06:47
+2022/01/12,4NDM,v-itapia@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-jalara@youngliving.com,0,,08:28:53,00:00:00,,,,,
+2022/01/12,4NDM,v-janaya@youngliving.com,6,05:36:34,01:19:10,07:46:23,00:02:06,02:07:36,00:00:06,02:09:39,00:01:33
+2022/01/12,4NDM,v-jmagallon@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-jmartinezcolin@youngliving.com,22,12:57:55,01:06:54,15:58:29,00:09:50,02:50:13,00:00:22,03:00:05,00:15:50
+2022/01/12,4NDM,v-lchernandez@youngliving.com,1,,07:29:53,00:05:39,00:00:17,00:05:13,00:00:00,00:05:30,00:00:00
+2022/01/12,4NDM,v-lghipolito@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-lmoncada@youngliving.com,8,03:50:43,01:02:53,07:28:42,00:01:38,03:36:10,00:00:08,03:37:48,00:40:54
+2022/01/12,4NDM,v-lvillanueva@youngliving.com,0,,09:10:29,00:00:00,,,,,
+2022/01/12,4NDM,v-mmorales@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-morodriguez@youngliving.com,7,04:22:45,01:36:52,07:02:49,00:00:50,02:39:07,00:00:07,02:39:57,00:47:28
+2022/01/12,4NDM,v-ncontreras@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-nruiz@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-omontfort@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-rguerrero@youngliving.com,0,,08:29:35,00:00:00,,,,,
+2022/01/12,4NDM,v-rsaldiernagar@youngliving.com,0,04:39:25,03:48:45,04:41:43,,,00:02:19,,
+2022/01/12,4NDM,v-spasos@youngliving.com,0,,,,,,,,
+2022/01/12,4NDM,v-vinocente@youngliving.com,6,05:38:52,01:31:57,07:02:02,00:00:58,01:22:04,00:00:06,01:23:02,00:20:15
+2022/01/12,4NDM,v-vnovia@youngliving.com,13,05:51:57,00:48:45,06:47:06,00:02:15,00:49:07,00:03:36,00:51:22,00:10:17
+2022/01/12,4NDM,v-vvillavazo@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,cprimavera@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-aatayan@youngliving.com,8,01:12:52,06:54:40,02:08:33,00:01:02,00:54:27,00:00:08,00:55:30,00:08:14
+2022/01/12,Buwelo,v-acarlos@youngliving.com,6,01:14:42,07:01:48,02:00:46,00:01:41,00:42:56,00:01:10,00:44:37,00:04:12
+2022/01/12,Buwelo,v-acrisostomo@youngliving.com,3,00:30:40,08:05:17,00:53:41,00:00:41,00:22:17,00:00:03,00:22:58,00:01:33
+2022/01/12,Buwelo,v-acudesin@youngliving.com,0,09:25:55,00:00:24,09:25:55,,,,,
+2022/01/12,Buwelo,v-adiaz@youngliving.com,0,,08:51:26,00:00:01,,,,,
+2022/01/12,Buwelo,v-adomangcas@youngliving.com,6,01:24:29,06:18:08,02:35:29,00:00:37,01:09:48,00:00:37,01:10:24,00:13:12
+2022/01/12,Buwelo,v-adonaire@youngliving.com,2,00:15:15,08:36:15,00:32:25,00:00:40,00:16:28,00:00:02,00:17:07,00:04:37
+2022/01/12,Buwelo,v-afantone@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-aherrera@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-alazarito@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-amacion@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-amalit@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-amontallana@youngliving.com,18,03:09:55,01:32:37,07:32:24,00:02:35,04:19:18,00:00:17,04:21:51,01:32:49
+2022/01/12,Buwelo,v-anantonio@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-anunag@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-arebutoc@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-aroy@youngliving.com,9,01:38:38,05:52:47,03:09:27,00:02:05,01:27:27,00:01:17,01:29:33,00:17:32
+2022/01/12,Buwelo,v-asusi@youngliving.com,11,01:55:40,05:41:52,03:20:03,00:01:06,01:23:05,00:00:11,01:24:09,00:09:32
+2022/01/12,Buwelo,v-atelmo@youngliving.com,9,01:15:42,06:12:16,02:51:48,00:02:34,01:33:17,00:00:08,01:35:51,00:21:55
+2022/01/12,Buwelo,v-ationgco@youngliving.com,0,,09:00:07,00:00:00,,,,,
+2022/01/12,Buwelo,v-atubino@youngliving.com,10,01:36:00,05:29:44,03:29:51,00:00:40,01:52:24,00:00:09,01:53:05,00:23:36
+2022/01/12,Buwelo,v-blouie@youngliving.com,2,05:26:55,00:00:25,06:03:16,00:00:38,00:35:36,00:00:01,00:36:15,00:00:00
+2022/01/12,Buwelo,v-breforada@youngliving.com,0,,09:01:28,00:00:00,,,,,
+2022/01/12,Buwelo,v-calejaga@youngliving.com,0,,17:24:54,00:00:00,,,,,
+2022/01/12,Buwelo,v-cbautista@youngliving.com,12,00:48:09,06:40:38,02:16:37,00:04:32,01:22:11,00:01:46,01:26:40,00:19:21
+2022/01/12,Buwelo,v-cbonan@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-ccristobal@youngliving.com,0,07:31:24,00:00:16,07:31:23,,,,,
+2022/01/12,Buwelo,v-cdinco@youngliving.com,0,,08:56:27,00:00:02,,,,,
+2022/01/12,Buwelo,v-cestrada@youngliving.com,24,03:31:03,01:33:30,07:25:59,00:06:30,03:47:53,00:00:24,03:54:21,00:36:43
+2022/01/12,Buwelo,v-cgarrido@youngliving.com,11,01:47:15,04:12:24,04:46:44,00:02:33,02:56:41,00:00:11,02:59:13,00:50:58
+2022/01/12,Buwelo,v-cpansalin@youngliving.com,0,,09:06:45,00:00:00,,,,,
+2022/01/12,Buwelo,v-crevilla@youngliving.com,1,,08:49:44,00:09:07,00:00:04,00:08:53,00:00:00,00:08:58,00:01:31
+2022/01/12,Buwelo,v-crivera@youngliving.com,0,,08:30:19,00:00:02,,,,,
+2022/01/12,Buwelo,v-csangalang@youngliving.com,27,03:15:53,01:37:43,07:19:43,00:04:02,03:57:37,00:00:22,04:01:38,00:27:10
+2022/01/12,Buwelo,v-csulit@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-ctayobana@youngliving.com,2,08:53:02,00:00:17,08:59:21,00:00:35,00:05:42,00:00:02,00:06:17,00:00:00
+2022/01/12,Buwelo,v-ddarullo@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-dmontelijao@youngliving.com,0,,08:59:31,00:00:01,,,,,
+2022/01/12,Buwelo,v-drealo@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-dvanzuela@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-eancaya@youngliving.com,12,02:00:41,05:17:56,03:46:58,00:03:05,01:41:33,00:01:37,01:44:38,00:14:47
+2022/01/12,Buwelo,v-ebarilla@youngliving.com,15,02:24:42,02:48:38,06:02:19,00:01:55,03:35:10,00:00:14,03:37:04,00:32:16
+2022/01/12,Buwelo,v-ebugayong@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-ecandare@youngliving.com,0,,09:04:44,00:00:00,,,,,
+2022/01/12,Buwelo,v-eperez@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-equinto@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-erico@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-fcolico@youngliving.com,7,01:11:06,06:15:51,02:46:43,00:01:04,01:34:23,00:00:08,01:35:27,00:16:23
+2022/01/12,Buwelo,v-gbaloy@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-gbatuyong@youngliving.com,0,10:04:27,00:00:19,10:04:27,,,,,
+2022/01/12,Buwelo,v-geclarino@youngliving.com,2,08:11:52,01:05:57,08:26:53,00:00:48,00:14:12,00:00:02,00:14:59,00:00:00
+2022/01/12,Buwelo,v-gedeza@youngliving.com,14,01:39:04,06:08:38,02:53:57,00:01:17,01:13:03,00:00:11,01:14:22,00:16:23
+2022/01/12,Buwelo,v-gmalinao@youngliving.com,11,01:48:52,05:35:23,03:22:19,00:01:30,01:31:39,00:00:11,01:33:10,00:15:18
+2022/01/12,Buwelo,v-gzerna@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-hbalanag@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-hmonreal@youngliving.com,10,01:45:47,05:56:09,02:59:27,00:01:54,01:11:34,00:00:10,01:13:27,00:10:28
+2022/01/12,Buwelo,v-icantimbuhan@youngliving.com,0,,09:00:07,00:00:00,,,,,
+2022/01/12,Buwelo,v-imallari@youngliving.com,0,,08:59:39,00:00:00,,,,,
+2022/01/12,Buwelo,v-jacson@youngliving.com,0,,08:57:41,00:00:01,,,,,
+2022/01/12,Buwelo,v-jalip@youngliving.com,12,01:46:29,05:52:32,03:11:03,00:04:32,01:19:45,00:00:13,01:24:18,00:04:17
+2022/01/12,Buwelo,v-jalterado@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-jamendoza@youngliving.com,12,03:05:22,02:17:21,05:03:01,00:02:03,01:55:21,00:00:13,01:57:23,00:22:04
+2022/01/12,Buwelo,v-jamlog@youngliving.com,0,,09:05:44,00:00:00,,,,,
+2022/01/12,Buwelo,v-jbalmaceda@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-jbencio@youngliving.com,0,,08:57:16,00:00:01,,,,,
+2022/01/12,Buwelo,v-jbugay@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-jcuenca@youngliving.com,0,,08:00:23,00:00:00,,,,,
+2022/01/12,Buwelo,v-jfamanilay@youngliving.com,10,01:30:17,05:51:15,03:09:30,00:01:20,01:37:40,00:00:10,01:38:59,00:21:39
+2022/01/12,Buwelo,v-jfernandez@youngliving.com,8,01:02:57,05:41:27,03:06:58,00:01:40,02:02:09,00:00:08,02:03:50,00:26:22
+2022/01/12,Buwelo,v-jfredeluces@youngliving.com,10,01:43:12,05:51:28,03:07:16,00:01:25,01:22:23,00:00:10,01:23:50,00:14:10
+2022/01/12,Buwelo,v-jgayacao@youngliving.com,6,01:04:05,05:43:18,01:57:19,00:02:48,00:49:48,00:00:35,00:52:37,00:15:12
+2022/01/12,Buwelo,v-jgiba@youngliving.com,29,02:39:13,01:59:40,06:51:40,00:10:58,04:00:43,00:00:29,04:11:47,01:13:07
+2022/01/12,Buwelo,v-jguinto@youngliving.com,0,,08:55:09,00:00:00,,,,,
+2022/01/12,Buwelo,v-jhadley@youngliving.com,12,01:23:22,05:59:11,03:04:44,00:01:59,01:39:10,00:00:08,01:41:10,00:16:55
+2022/01/12,Buwelo,v-jjosue@youngliving.com,13,01:57:28,05:20:53,03:40:55,00:01:46,01:41:26,00:00:13,01:43:12,00:28:26
+2022/01/12,Buwelo,v-jmenor@youngliving.com,11,01:38:40,06:06:02,03:07:16,00:01:15,01:26:11,00:00:08,01:27:25,00:06:05
+2022/01/12,Buwelo,v-jminas@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-jnavarro@youngliving.com,13,01:43:42,05:03:36,04:04:31,00:01:48,02:18:44,00:00:15,02:20:32,00:40:11
+2022/01/12,Buwelo,v-joramirez@youngliving.com,16,01:58:33,03:27:46,05:30:22,00:05:09,03:26:20,00:00:16,03:31:29,00:53:17
+2022/01/12,Buwelo,v-josdeguzman@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-jracion@youngliving.com,9,01:39:51,05:41:07,03:17:35,00:01:19,01:35:19,00:01:07,01:36:37,00:14:38
+2022/01/12,Buwelo,v-jrogado@youngliving.com,0,,06:08:27,00:00:00,,,,,
+2022/01/12,Buwelo,v-jsantos@youngliving.com,0,,09:08:47,00:00:00,,,,,
+2022/01/12,Buwelo,v-jtadeo@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-jtantay@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-jtaripe@youngliving.com,6,00:47:24,07:08:28,01:34:56,00:02:27,00:44:53,00:00:05,00:47:21,00:04:02
+2022/01/12,Buwelo,v-kborja@youngliving.com,5,01:12:31,06:59:19,01:50:22,00:00:43,00:37:00,00:00:05,00:37:43,00:06:47
+2022/01/12,Buwelo,v-kcorpuz@youngliving.com,2,00:23:45,08:18:29,00:31:29,00:00:20,00:07:14,00:00:01,00:07:34,00:00:00
+2022/01/12,Buwelo,v-kmacapagal@youngliving.com,12,01:25:07,05:49:59,02:58:58,00:02:12,01:31:24,00:00:12,01:33:35,00:04:30
+2022/01/12,Buwelo,v-ktalion@youngliving.com,11,01:49:35,05:57:31,02:54:03,00:00:53,01:03:09,00:00:10,01:04:01,00:05:59
+2022/01/12,Buwelo,v-lbaeshen@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-lignacio@youngliving.com,12,01:38:12,04:35:16,04:25:44,00:01:33,02:45:37,00:00:11,02:47:09,00:42:56
+2022/01/12,Buwelo,v-llazaro@youngliving.com,6,00:43:29,05:33:20,01:43:08,00:00:46,00:58:45,00:00:06,00:59:30,00:24:54
+2022/01/12,Buwelo,v-ltejoc@youngliving.com,0,,09:04:26,00:00:00,,,,,
+2022/01/12,Buwelo,v-lventurero@youngliving.com,6,00:43:07,07:03:59,01:56:41,00:00:53,01:12:34,00:00:06,01:13:27,00:05:07
+2022/01/12,Buwelo,v-maarce@youngliving.com,7,01:11:04,06:54:04,02:11:36,00:02:11,00:58:12,00:00:07,01:00:23,00:02:11
+2022/01/12,Buwelo,v-maboy@youngliving.com,14,02:40:17,04:20:04,04:46:01,00:01:42,02:03:47,00:00:15,02:05:23,00:35:16
+2022/01/12,Buwelo,v-macaspac@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-mamolat@youngliving.com,0,,09:02:31,00:00:01,,,,,
+2022/01/12,Buwelo,v-marce@youngliving.com,0,00:02:19,09:06:10,00:02:21,,,,,
+2022/01/12,Buwelo,v-mbada@youngliving.com,0,,09:06:46,00:00:00,,,,,
+2022/01/12,Buwelo,v-mbartolome@youngliving.com,11,01:17:04,01:13:40,02:36:40,00:00:41,01:17:17,00:01:40,01:17:58,00:05:29
+2022/01/12,Buwelo,v-mdrio@youngliving.com,0,,08:52:54,00:00:00,,,,,
+2022/01/12,Buwelo,v-mestomago@youngliving.com,0,,08:58:06,00:00:00,,,,,
+2022/01/12,Buwelo,v-mferreira@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-mforelo@youngliving.com,0,,09:01:00,00:00:00,,,,,
+2022/01/12,Buwelo,v-mgaberia@youngliving.com,0,,08:56:12,00:00:01,,,,,
+2022/01/12,Buwelo,v-mgarcia@youngliving.com,22,02:37:14,01:46:39,07:03:28,00:02:49,04:22:41,00:00:22,04:25:28,01:45:52
+2022/01/12,Buwelo,v-miaclan@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-mjperez@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-mjucutan@youngliving.com,10,01:52:56,05:53:31,03:20:19,00:01:15,01:25:37,00:00:08,01:26:52,00:16:28
+2022/01/12,Buwelo,v-mmanglicmot@youngliving.com,26,03:36:08,01:46:57,07:16:56,00:03:43,03:36:27,00:00:26,03:40:13,00:30:34
+2022/01/12,Buwelo,v-mmejala@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-mpahayahay@youngliving.com,3,00:39:41,02:59:36,01:07:40,00:00:49,00:26:34,00:00:02,00:27:23,00:04:40
+2022/01/12,Buwelo,v-msantos@youngliving.com,1,17:46:54,01:41:14,17:51:34,00:00:30,00:04:09,00:00:01,00:04:39,00:00:00
+2022/01/12,Buwelo,v-mserrano@youngliving.com,11,01:46:50,06:03:38,03:01:44,00:02:19,01:12:23,00:00:11,01:14:42,00:19:59
+2022/01/12,Buwelo,v-mservidad@youngliving.com,0,,08:47:47,00:00:01,,,,,
+2022/01/12,Buwelo,v-msubrio@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-mtimbal@youngliving.com,8,01:20:41,05:29:40,03:28:23,00:01:02,02:06:29,00:00:08,02:07:30,00:40:18
+2022/01/12,Buwelo,v-nacuna@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-nortega@youngliving.com,6,00:43:03,06:46:19,02:40:27,00:01:34,01:55:39,00:00:06,01:57:13,00:10:20
+2022/01/12,Buwelo,v-pagacoscos@youngliving.com,2,00:20:11,07:45:23,00:38:20,00:00:48,00:17:18,00:00:02,00:18:06,00:00:55
+2022/01/12,Buwelo,v-pbasa@youngliving.com,0,,09:12:51,00:00:01,,,,,
+2022/01/12,Buwelo,v-pdumalasa@youngliving.com,1,06:58:39,01:07:36,07:21:03,00:00:06,00:22:17,00:00:01,00:22:23,00:00:53
+2022/01/12,Buwelo,v-psalafrania@youngliving.com,0,,09:15:10,00:00:00,,,,,
+2022/01/12,Buwelo,v-rasanas@youngliving.com,0,,09:03:03,00:00:00,,,,,
+2022/01/12,Buwelo,v-rbobadilla@youngliving.com,26,02:52:03,01:34:00,07:16:26,00:01:23,04:22:22,00:00:27,04:23:44,01:30:19
+2022/01/12,Buwelo,v-rconcepcion@youngliving.com,0,,07:53:00,00:00:01,,,,,
+2022/01/12,Buwelo,v-rdaria@youngliving.com,4,02:39:38,05:08:06,03:30:16,00:01:39,00:48:53,00:00:04,00:50:32,00:09:34
+2022/01/12,Buwelo,v-relee@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-rerese@youngliving.com,0,,09:07:06,00:00:00,,,,,
+2022/01/12,Buwelo,v-rfelicidario@youngliving.com,15,02:42:19,04:37:28,04:16:25,00:02:34,01:31:10,00:00:15,01:33:46,00:17:02
+2022/01/12,Buwelo,v-rfung@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-rhallare@youngliving.com,0,09:03:37,00:00:15,09:03:37,,,,,
+2022/01/12,Buwelo,v-rjbautista@youngliving.com,0,,08:44:50,00:00:00,,,,,
+2022/01/12,Buwelo,v-rlee@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-rmendigorin@youngliving.com,12,01:40:58,05:29:21,03:36:36,00:00:49,01:53:31,00:00:10,01:54:19,00:27:12
+2022/01/12,Buwelo,v-robautista@youngliving.com,17,02:09:03,03:45:43,04:56:53,00:01:32,02:45:44,00:00:17,02:47:16,00:18:31
+2022/01/12,Buwelo,v-roenero@youngliving.com,19,03:59:25,02:13:51,06:43:21,00:04:03,02:39:20,00:00:20,02:43:23,00:31:59
+2022/01/12,Buwelo,v-rrumeral@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-sanonat@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-sbuna@youngliving.com,0,,09:44:58,00:00:00,,,,,
+2022/01/12,Buwelo,v-shizarsa@youngliving.com,14,01:17:30,05:00:14,02:51:30,00:02:14,01:30:12,00:00:10,01:32:26,00:24:29
+2022/01/12,Buwelo,v-signacio@youngliving.com,7,01:01:33,06:10:08,02:57:57,00:01:15,01:53:56,00:00:56,01:55:12,00:18:19
+2022/01/12,Buwelo,v-slegaspi@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-tmayor@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-vcalumpang@youngliving.com,12,01:55:30,05:26:50,03:30:05,00:01:35,01:32:43,00:00:12,01:34:17,00:11:45
+2022/01/12,Buwelo,v-wsamson@youngliving.com,6,01:00:52,06:15:38,02:41:11,00:01:26,01:37:51,00:01:01,01:39:16,00:39:59
+2022/01/12,Buwelo,v-ymapa@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo,v-zmuyco@youngliving.com,0,,08:35:35,00:00:00,,,,,
+2022/01/12,Buwelo Canada,v-acudesin@youngliving.com,0,09:25:55,00:00:24,09:25:55,,,,,
+2022/01/12,Buwelo Canada,v-amontales@youngliving.com,5,00:31:35,07:34:51,01:01:24,00:00:25,00:29:14,00:00:05,00:29:40,00:03:23
+2022/01/12,Buwelo Canada,v-blouie@youngliving.com,2,05:26:55,00:00:25,06:03:16,00:00:38,00:35:36,00:00:01,00:36:15,00:00:00
+2022/01/12,Buwelo Canada,v-caninag@youngliving.com,0,,09:16:50,00:00:00,,,,,
+2022/01/12,Buwelo Canada,v-ccristobal@youngliving.com,0,07:31:24,00:00:16,07:31:23,,,,,
+2022/01/12,Buwelo Canada,v-csulit@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Canada,v-ddarullo@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Canada,v-gbatuyong@youngliving.com,0,10:04:27,00:00:19,10:04:27,,,,,
+2022/01/12,Buwelo Canada,v-geclarino@youngliving.com,2,08:11:52,01:05:57,08:26:53,00:00:48,00:14:12,00:00:02,00:14:59,00:00:00
+2022/01/12,Buwelo Canada,v-jbugay@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Canada,v-jdeluna@youngliving.com,16,04:33:09,01:35:24,07:24:04,00:02:23,02:44:44,00:03:25,02:47:07,00:18:03
+2022/01/12,Buwelo Canada,v-jroldan@youngliving.com,0,,09:12:12,00:00:00,,,,,
+2022/01/12,Buwelo Canada,v-kbalagtas@youngliving.com,0,,08:59:26,00:00:00,,,,,
+2022/01/12,Buwelo Canada,v-kgarcia@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Canada,v-mferreira@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Canada,v-msantos@youngliving.com,1,17:46:54,01:41:14,17:51:34,00:00:30,00:04:09,00:00:01,00:04:39,00:00:00
+2022/01/12,Buwelo Canada,v-msilva@youngliving.com,0,05:13:18,03:55:26,05:13:17,,,,,
+2022/01/12,Buwelo Canada,v-ngutierrez@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Canada,v-osantos@youngliving.com,1,07:23:28,01:31:49,07:30:01,00:00:13,00:06:19,00:00:01,00:06:32,00:00:00
+2022/01/12,Buwelo Canada,v-rdangaran@youngliving.com,16,04:41:36,01:37:22,07:08:07,00:05:53,02:20:15,00:00:16,02:26:11,00:25:15
+2022/01/12,Buwelo Canada,v-rhallare@youngliving.com,0,09:03:37,00:00:15,09:03:37,,,,,
+2022/01/12,Buwelo Canada,v-rlee@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Canada,v-rpendos@youngliving.com,0,,09:00:13,00:00:00,,,,,
+2022/01/12,Buwelo Canada,v-rramos@youngliving.com,16,02:37:07,03:02:05,05:47:09,00:00:15,03:07:57,00:01:26,03:08:13,00:45:44
+2022/01/12,Buwelo Canada,v-rrumeral@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Training,v-abactad@youngliving.com,17,03:02:18,01:37:43,07:16:12,00:03:00,04:10:32,00:00:17,04:13:32,00:32:15
+2022/01/12,Buwelo Training,v-amalit@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Training,v-amontallana@youngliving.com,18,03:09:55,01:32:37,07:32:24,00:02:35,04:19:18,00:00:17,04:21:51,01:32:49
+2022/01/12,Buwelo Training,v-andelacruz@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Training,v-clacbayo@youngliving.com,18,03:45:14,01:31:40,07:25:02,00:02:31,03:36:41,00:00:19,03:39:17,00:57:27
+2022/01/12,Buwelo Training,v-cpalmaria@youngliving.com,23,02:47:27,01:28:48,07:33:29,00:01:44,04:43:48,00:00:23,04:45:32,00:31:34
+2022/01/12,Buwelo Training,v-cpascua@youngliving.com,29,03:29:14,01:30:32,07:30:09,00:04:02,03:55:36,00:00:29,03:59:45,00:22:10
+2022/01/12,Buwelo Training,v-dmarzan@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Training,v-eedquiban@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Training,v-heclarinal@youngliving.com,18,03:16:43,01:53:51,07:02:03,00:02:56,03:41:58,00:00:19,03:44:53,00:20:11
+2022/01/12,Buwelo Training,v-iegnisaban@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Training,v-jalagon@youngliving.com,22,03:25:57,01:50:08,07:13:15,00:06:41,03:38:16,00:00:17,03:44:57,00:40:07
+2022/01/12,Buwelo Training,v-jarosario@youngliving.com,24,02:18:06,01:30:09,07:30:13,00:06:22,05:05:05,00:00:24,05:11:35,01:02:18
+2022/01/12,Buwelo Training,v-jcastrence@youngliving.com,32,03:28:00,01:39:42,07:31:23,00:03:08,03:58:46,00:00:29,04:01:51,00:42:19
+2022/01/12,Buwelo Training,v-jeguzman@youngliving.com,29,02:50:00,01:37:38,07:32:05,00:08:54,04:32:10,00:00:26,04:41:02,01:06:34
+2022/01/12,Buwelo Training,v-jogonzales@youngliving.com,23,02:31:32,02:09:26,06:41:34,00:03:26,04:05:25,00:00:22,04:08:52,01:21:53
+2022/01/12,Buwelo Training,v-jpedlaoan@youngliving.com,22,04:08:40,01:30:45,07:22:14,00:04:09,03:08:42,00:00:20,03:12:51,00:30:19
+2022/01/12,Buwelo Training,v-jsanangel@youngliving.com,17,03:36:52,01:45:29,07:12:54,00:02:54,03:32:42,00:00:19,03:35:36,01:00:18
+2022/01/12,Buwelo Training,v-kabad@youngliving.com,20,04:05:19,01:14:56,07:32:28,00:04:45,03:21:55,00:00:20,03:26:40,00:31:17
+2022/01/12,Buwelo Training,v-kalibasa@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Training,v-kpayumo@youngliving.com,25,02:51:11,01:34:53,07:33:45,00:09:26,04:32:20,00:00:27,04:41:42,00:48:08
+2022/01/12,Buwelo Training,v-lbueno@youngliving.com,17,03:37:02,01:24:08,07:35:26,00:04:16,03:53:48,00:00:18,03:58:02,01:22:05
+2022/01/12,Buwelo Training,v-mdiaz@youngliving.com,18,02:02:21,01:36:34,07:36:10,00:01:30,05:31:49,00:00:17,05:33:19,00:47:12
+2022/01/12,Buwelo Training,v-mgarcia@youngliving.com,22,02:37:14,01:46:39,07:03:28,00:02:49,04:22:41,00:00:22,04:25:28,01:45:52
+2022/01/12,Buwelo Training,v-myodico@youngliving.com,21,03:45:25,01:31:05,07:28:18,00:02:36,03:38:41,00:00:19,03:41:18,01:04:42
+2022/01/12,Buwelo Training,v-rrabadon@youngliving.com,24,04:08:07,01:38:22,07:51:36,00:02:48,03:40:09,00:00:26,03:42:56,00:38:06
+2022/01/12,Buwelo Training,v-rtacbas@youngliving.com,23,03:00:18,01:29:29,07:32:14,00:05:47,04:25:39,00:00:23,04:31:24,00:45:59
+2022/01/12,Buwelo Training,v-smuyco@youngliving.com,24,03:06:50,01:29:40,07:30:46,00:04:40,04:18:42,00:00:23,04:23:20,00:10:22
+2022/01/12,Buwelo Training,v-srejuso@youngliving.com,0,,,,,,,,
+2022/01/12,Buwelo Training,v-tsantos@youngliving.com,19,03:53:08,01:34:42,07:24:45,00:05:46,03:24:21,00:00:17,03:30:09,00:50:30
+2022/01/12,Buwelo Training,v-wyugto@youngliving.com,0,,,,,,,,
+2022/01/12,Canada Filter,abarron@youngliving.com,19,02:20:22,01:15:56,04:10:37,00:08:45,01:41:05,00:00:19,01:49:50,00:03:22
+2022/01/12,Canada Filter,abarrows@youngliving.com,31,01:29:19,01:16:56,07:17:04,00:04:33,05:41:38,00:00:27,05:46:10,00:13:49
+2022/01/12,Canada Filter,abellazetin@youngliving.com,0,,07:43:42,00:00:00,,,,,
+2022/01/12,Canada Filter,brevoir@youngliving.com,26,02:08:45,02:06:29,06:21:30,00:08:53,03:56:49,00:06:28,04:05:44,00:17:05
+2022/01/12,Canada Filter,cwhite@youngliving.com,25,02:49:03,01:10:17,06:23:32,00:10:05,03:23:54,00:00:26,03:33:58,00:17:56
+2022/01/12,Canada Filter,ditaylor@youngliving.com,1,,08:34:41,00:01:37,00:00:08,00:01:07,00:00:00,00:01:15,00:00:00
+2022/01/12,Canada Filter,dlark@youngliving.com,35,02:57:39,02:58:01,07:37:38,00:04:59,04:30:14,00:04:22,04:35:14,00:02:22
+2022/01/12,Canada Filter,dliddiard@youngliving.com,0,,06:36:37,00:00:00,,,,,
+2022/01/12,Canada Filter,fodiley@youngliving.com,0,,09:46:40,00:00:00,,,,,
+2022/01/12,Canada Filter,gediaz@youngliving.com,0,,,,,,,,
+2022/01/12,Canada Filter,gpack@youngliving.com,2,07:23:32,00:56:32,08:01:00,00:00:14,00:37:03,00:00:09,00:37:18,00:00:00
+2022/01/12,Canada Filter,jcarver@youngliving.com,17,01:30:11,01:17:13,07:05:49,00:04:57,05:29:27,00:00:12,05:34:24,00:27:02
+2022/01/12,Canada Filter,jwheat@youngliving.com,0,,,,,,,,
+2022/01/12,Canada Filter,ksorensen@youngliving.com,0,,,,,,,,
+2022/01/12,Canada Filter,liguzman@youngliving.com,0,,08:35:27,00:00:01,,,,,
+2022/01/12,Canada Filter,mdorton@youngliving.com,17,01:56:18,01:52:16,06:31:32,00:04:14,04:30:24,00:00:16,04:34:38,00:41:04
+2022/01/12,Canada Filter,mhowells@youngliving.com,0,,06:58:10,00:00:00,,,,,
+2022/01/12,Canada Filter,molsen@youngliving.com,0,,,,,,,,
+2022/01/12,Canada Filter,mprince@youngliving.com,0,,,,,,,,
+2022/01/12,Canada Filter,mrobinson@youngliving.com,0,,08:38:26,00:00:00,,,,,
+2022/01/12,Canada Filter,rcarter@youngliving.com,0,,10:06:49,00:00:00,,,,,
+2022/01/12,Canada Filter,sdunn@youngliving.com,56,00:07:47,07:32:58,02:11:41,00:03:55,01:40:09,00:00:00,01:43:59,00:00:00
+2022/01/12,Canada Filter,smurphy@youngliving.com,0,,,,,,,,
+2022/01/12,Canada Filter,sujohnson@youngliving.com,26,02:06:48,01:11:41,04:54:25,00:02:21,02:44:19,00:00:26,02:46:39,00:09:25
+2022/01/12,Canada Filter,swagner@youngliving.com,26,02:48:38,02:19:00,06:15:14,00:04:19,03:21:32,00:00:25,03:25:53,00:12:45
+2022/01/12,Canada Filter,tfano@youngliving.com,1,,08:46:49,00:10:48,00:00:30,00:10:15,00:00:04,00:10:45,00:00:00
+2022/01/12,Canada Filter,tgalloway@youngliving.com,0,,08:28:56,00:00:00,,,,,
+2022/01/12,Canada Filter,toropeza@youngliving.com,3,00:46:34,00:02:42,01:27:37,00:01:10,00:39:17,00:00:36,00:40:27,00:05:19
+2022/01/12,Canada Filter,twoodis@youngliving.com,15,01:21:47,02:16:20,06:11:31,00:03:24,04:42:38,00:03:14,04:46:00,00:16:03
+2022/01/12,Canada Filter,vstulce@youngliving.com,28,02:22:33,02:21:02,05:14:02,00:06:33,02:43:34,00:00:24,02:50:09,00:03:21
+2022/01/12,Canada Filter,wmyrup@youngliving.com,20,00:51:02,02:35:02,04:01:42,00:04:08,03:04:17,00:01:42,03:08:23,00:00:00
+2022/01/12,Canada Filter,yaragon@youngliving.com,0,,08:33:56,00:00:01,,,,,
+2022/01/12,Diamond Support,icastro@youngliving.com,5,06:40:13,01:27:00,07:14:03,00:02:30,00:29:48,00:01:29,00:32:18,00:00:00
+2022/01/12,Diamond Support,jahebert@youngliving.com,2,,08:27:16,00:18:07,00:01:00,00:16:53,00:00:00,00:17:53,00:00:00
+2022/01/12,Diamond Support,jewhite@youngliving.com,1,02:32:14,05:58:27,02:38:09,00:00:05,00:05:27,00:00:22,00:05:32,00:00:00
+2022/01/12,Diamond Support,jgould@youngliving.com,1,01:41:52,00:00:41,02:44:22,00:00:30,01:01:44,00:00:16,01:02:14,00:00:00
+2022/01/12,Diamond Support,ntravis@youngliving.com,0,,05:13:44,00:00:00,,,,,
+2022/01/12,Diamond Support,sagonzalez@youngliving.com,0,,,,,,,,
+2022/01/12,Diamond Support,shlarson@youngliving.com,0,,,,,,,,
+2022/01/12,Diamond Support,sulrich@youngliving.com,2,00:58:27,06:33:51,01:55:08,00:00:42,00:55:22,00:00:09,00:56:04,00:02:05
+2022/01/12,Diamond Support,trichins@youngliving.com,8,05:17:18,01:13:18,07:23:21,00:04:00,02:00:27,00:00:43,02:04:27,00:11:22
+2022/01/12,Leadership Support,aadams@youngliving.com,0,,,,,,,,
+2022/01/12,Leadership Support,alavila@youngliving.com,1,01:07:30,07:01:13,01:29:52,00:00:08,00:22:05,00:00:10,00:22:13,00:05:14
+2022/01/12,Leadership Support,aloera@youngliving.com,2,00:19:07,06:50:01,00:46:57,00:00:12,00:27:19,00:00:10,00:27:31,00:06:58
+2022/01/12,Leadership Support,bgastelum@youngliving.com,10,04:36:19,02:45:35,05:39:20,00:01:36,00:59:18,00:01:33,01:00:53,00:17:11
+2022/01/12,Leadership Support,bhorne@youngliving.com,21,03:01:43,03:01:11,05:28:42,00:04:22,02:17:58,00:04:20,02:22:20,00:22:49
+2022/01/12,Leadership Support,dbradshaw@youngliving.com,16,02:22:29,02:09:35,06:22:26,00:04:30,03:52:32,00:02:46,03:57:03,00:45:04
+2022/01/12,Leadership Support,dhilton@youngliving.com,17,04:17:30,01:38:38,06:52:46,00:06:54,02:25:18,00:02:58,02:32:12,00:17:38
+2022/01/12,Leadership Support,hlopez@youngliving.com,24,03:19:21,01:51:36,06:39:43,00:10:18,03:03:46,00:05:25,03:14:03,00:51:43
+2022/01/12,Leadership Support,hmoore@youngliving.com,5,00:25:31,00:04:10,00:59:05,00:01:51,00:30:46,00:00:33,00:32:36,00:04:08
+2022/01/12,Leadership Support,lshepherd@youngliving.com,13,02:20:08,04:30:18,04:19:45,00:02:30,01:55:03,00:02:02,01:57:34,00:00:00
+2022/01/12,Leadership Support,muribe@youngliving.com,0,,08:22:49,00:00:00,,,,,
+2022/01/12,Leadership Support,mvazquez@youngliving.com,20,04:44:36,01:26:58,07:09:11,00:04:52,02:16:32,00:02:57,02:21:26,00:22:48
+2022/01/12,Leadership Support,nledezma@youngliving.com,2,01:11:56,06:34:55,01:28:44,00:00:20,00:16:02,00:00:26,00:16:22,00:05:22
+2022/01/12,Leadership Support,nramos@youngliving.com,23,03:23:50,05:03:30,05:53:09,00:06:12,02:17:50,00:05:13,02:23:57,00:16:08
+2022/01/12,Leadership Support,prawlins@youngliving.com,24,04:13:04,01:27:48,07:03:49,00:00:53,02:45:33,00:03:42,02:46:26,00:45:01
+2022/01/12,Leadership Support,sbencomo@youngliving.com,0,,,,,,,,
+2022/01/12,Leadership Support,sbentsen@youngliving.com,13,03:45:45,01:27:00,06:24:34,00:02:35,02:34:15,00:01:08,02:36:50,00:00:00
+2022/01/12,Leadership Support,schavez@youngliving.com,2,00:45:38,07:36:45,00:53:49,00:00:41,00:07:05,00:00:26,00:07:45,00:00:00
+2022/01/12,Leadership Support,sroberts@youngliving.com,4,00:56:50,06:42:28,01:42:10,00:00:09,00:45:06,00:00:04,00:45:15,00:00:00
+2022/01/12,Leadership Support,sypeterson@youngliving.com,14,02:02:27,00:36:18,04:18:27,00:05:18,02:07:01,00:03:39,02:12:22,00:43:25
+2022/01/12,Tech Free Filter,abarron@youngliving.com,19,02:20:22,01:15:56,04:10:37,00:08:45,01:41:05,00:00:19,01:49:50,00:03:22
+2022/01/12,Tech Free Filter,abarrows@youngliving.com,31,01:29:19,01:16:56,07:17:04,00:04:33,05:41:38,00:00:27,05:46:10,00:13:49
+2022/01/12,Tech Free Filter,abellazetin@youngliving.com,0,,07:43:42,00:00:00,,,,,
+2022/01/12,Tech Free Filter,brevoir@youngliving.com,26,02:08:45,02:06:29,06:21:30,00:08:53,03:56:49,00:06:28,04:05:44,00:17:05
+2022/01/12,Tech Free Filter,cwhite@youngliving.com,25,02:49:03,01:10:17,06:23:32,00:10:05,03:23:54,00:00:26,03:33:58,00:17:56
+2022/01/12,Tech Free Filter,ditaylor@youngliving.com,1,,08:34:41,00:01:37,00:00:08,00:01:07,00:00:00,00:01:15,00:00:00
+2022/01/12,Tech Free Filter,dlark@youngliving.com,35,02:57:39,02:58:01,07:37:38,00:04:59,04:30:14,00:04:22,04:35:14,00:02:22
+2022/01/12,Tech Free Filter,dliddiard@youngliving.com,0,,06:36:37,00:00:00,,,,,
+2022/01/12,Tech Free Filter,fodiley@youngliving.com,0,,09:46:40,00:00:00,,,,,
+2022/01/12,Tech Free Filter,gediaz@youngliving.com,0,,,,,,,,
+2022/01/12,Tech Free Filter,gpack@youngliving.com,2,07:23:32,00:56:32,08:01:00,00:00:14,00:37:03,00:00:09,00:37:18,00:00:00
+2022/01/12,Tech Free Filter,jcarver@youngliving.com,17,01:30:11,01:17:13,07:05:49,00:04:57,05:29:27,00:00:12,05:34:24,00:27:02
+2022/01/12,Tech Free Filter,jwheat@youngliving.com,0,,,,,,,,
+2022/01/12,Tech Free Filter,ksorensen@youngliving.com,0,,,,,,,,
+2022/01/12,Tech Free Filter,liguzman@youngliving.com,0,,08:35:27,00:00:01,,,,,
+2022/01/12,Tech Free Filter,mdorton@youngliving.com,17,01:56:18,01:52:16,06:31:32,00:04:14,04:30:24,00:00:16,04:34:38,00:41:04
+2022/01/12,Tech Free Filter,mhowells@youngliving.com,0,,06:58:10,00:00:00,,,,,
+2022/01/12,Tech Free Filter,molsen@youngliving.com,0,,,,,,,,
+2022/01/12,Tech Free Filter,mprince@youngliving.com,0,,,,,,,,
+2022/01/12,Tech Free Filter,mrobinson@youngliving.com,0,,08:38:26,00:00:00,,,,,
+2022/01/12,Tech Free Filter,rcarter@youngliving.com,0,,10:06:49,00:00:00,,,,,
+2022/01/12,Tech Free Filter,sdunn@youngliving.com,56,00:07:47,07:32:58,02:11:41,00:03:55,01:40:09,00:00:00,01:43:59,00:00:00
+2022/01/12,Tech Free Filter,smurphy@youngliving.com,0,,,,,,,,
+2022/01/12,Tech Free Filter,sujohnson@youngliving.com,26,02:06:48,01:11:41,04:54:25,00:02:21,02:44:19,00:00:26,02:46:39,00:09:25
+2022/01/12,Tech Free Filter,swagner@youngliving.com,26,02:48:38,02:19:00,06:15:14,00:04:19,03:21:32,00:00:25,03:25:53,00:12:45
+2022/01/12,Tech Free Filter,tfano@youngliving.com,1,,08:46:49,00:10:48,00:00:30,00:10:15,00:00:04,00:10:45,00:00:00
+2022/01/12,Tech Free Filter,tgalloway@youngliving.com,0,,08:28:56,00:00:00,,,,,
+2022/01/12,Tech Free Filter,toropeza@youngliving.com,3,00:46:34,00:02:42,01:27:37,00:01:10,00:39:17,00:00:36,00:40:27,00:05:19
+2022/01/12,Tech Free Filter,twoodis@youngliving.com,15,01:21:47,02:16:20,06:11:31,00:03:24,04:42:38,00:03:14,04:46:00,00:16:03
+2022/01/12,Tech Free Filter,vstulce@youngliving.com,28,02:22:33,02:21:02,05:14:02,00:06:33,02:43:34,00:00:24,02:50:09,00:03:21
+2022/01/12,Tech Free Filter,wmyrup@youngliving.com,20,00:51:02,02:35:02,04:01:42,00:04:08,03:04:17,00:01:42,03:08:23,00:00:00
+2022/01/12,Tech Free Filter,yaragon@youngliving.com,0,,08:33:56,00:00:01,,,,,
+2022/01/12,Teleperformance,v-abaribar@youngliving.com,18,03:46:08,01:44:36,06:57:18,00:03:23,03:07:24,00:00:18,03:10:44,00:54:33
+2022/01/12,Teleperformance,v-ablanco@youngliving.com,21,02:18:12,01:30:13,07:31:21,00:06:46,05:05:52,00:00:22,05:12:40,01:22:20
+2022/01/12,Teleperformance,v-aedullantes@youngliving.com,19,02:05:15,01:31:42,07:37:27,00:00:14,05:31:56,00:00:00,05:32:10,01:01:16
+2022/01/12,Teleperformance,v-ajavellana@youngliving.com,30,03:00:32,01:41:21,07:15:08,00:04:12,04:09:25,00:00:26,04:13:38,01:12:14
+2022/01/12,Teleperformance,v-algarcia@youngliving.com,0,,08:25:07,00:00:00,,,,,
+2022/01/12,Teleperformance,v-annova@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-aobiso@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-arncruz@youngliving.com,14,03:12:08,01:29:19,06:31:15,00:02:03,03:16:47,00:00:14,03:18:45,01:13:52
+2022/01/12,Teleperformance,v-arobles@youngliving.com,20,02:37:02,01:34:14,07:07:59,00:08:01,04:22:29,00:00:21,04:30:31,01:34:52
+2022/01/12,Teleperformance,v-arosil@youngliving.com,0,,08:50:44,00:00:00,,,,,
+2022/01/12,Teleperformance,v-asantos@youngliving.com,13,02:42:36,01:33:15,04:15:34,00:00:49,01:30:13,00:00:13,01:31:00,00:38:47
+2022/01/12,Teleperformance,v-bgarillo@youngliving.com,14,01:57:52,03:33:47,05:46:13,00:03:58,03:44:06,00:00:16,03:48:01,00:48:19
+2022/01/12,Teleperformance,v-carriola@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-ccarlos@youngliving.com,0,,09:07:01,00:00:00,,,,,
+2022/01/12,Teleperformance,v-cdadis@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-cfernandez@youngliving.com,21,02:17:54,01:28:24,07:33:13,00:03:30,05:11:06,00:00:19,05:14:37,02:00:23
+2022/01/12,Teleperformance,v-ctandas@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-ctayamin@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-cvaldez@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-dchan@youngliving.com,0,,00:58:42,00:00:00,,,,,
+2022/01/12,Teleperformance,v-dcostas@youngliving.com,20,01:58:01,01:58:45,08:03:23,00:01:48,06:03:07,00:00:20,06:04:51,02:28:02
+2022/01/12,Teleperformance,v-dmabasa@youngliving.com,20,02:36:56,02:12:55,06:51:15,00:06:09,04:07:45,00:00:20,04:13:52,01:19:51
+2022/01/12,Teleperformance,v-eboron@youngliving.com,0,,09:12:00,00:00:00,,,,,
+2022/01/12,Teleperformance,v-ehermosa@youngliving.com,13,01:13:19,01:12:54,02:57:36,00:04:22,01:39:39,00:00:14,01:44:01,00:43:24
+2022/01/12,Teleperformance,v-evelasco@youngliving.com,0,,08:05:45,00:00:00,,,,,
+2022/01/12,Teleperformance,v-fibanez@youngliving.com,0,,05:44:54,00:00:00,,,,,
+2022/01/12,Teleperformance,v-fismael@youngliving.com,15,02:22:36,03:17:37,05:49:19,00:03:21,03:23:01,00:00:16,03:26:22,00:32:20
+2022/01/12,Teleperformance,v-fmariwa@youngliving.com,18,02:38:31,02:13:24,06:12:03,00:02:10,03:30:53,00:00:18,03:33:06,00:52:50
+2022/01/12,Teleperformance,v-ggupong@youngliving.com,19,02:19:34,01:53:38,05:10:59,00:00:38,02:50:17,00:00:18,02:50:55,00:58:12
+2022/01/12,Teleperformance,v-gsantuyo@youngliving.com,15,02:07:53,02:50:33,06:07:58,00:01:07,03:58:41,00:00:15,03:59:46,01:08:31
+2022/01/12,Teleperformance,v-hagbisit@youngliving.com,21,02:34:21,02:10:09,05:49:52,00:06:02,03:09:01,00:00:21,03:15:05,01:14:10
+2022/01/12,Teleperformance,v-jamongo@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-jbalasabas@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-jCorrea@youngliving.com,20,02:47:27,01:29:50,07:02:48,00:02:16,04:12:37,00:00:21,04:14:54,00:47:03
+2022/01/12,Teleperformance,v-jgamboa@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-jguevarra@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-jmisa@youngliving.com,16,02:12:25,02:35:04,05:58:40,00:02:30,03:43:18,00:00:16,03:45:46,01:26:49
+2022/01/12,Teleperformance,v-jmondejar@youngliving.com,14,02:09:07,03:01:06,05:43:50,00:03:14,03:31:09,00:00:14,03:34:25,01:23:25
+2022/01/12,Teleperformance,v-jrecto@youngliving.com,22,02:17:33,02:48:57,06:26:38,00:04:06,04:04:27,00:00:23,04:08:30,00:47:48
+2022/01/12,Teleperformance,v-jTesorero@youngliving.com,23,02:48:47,01:38:01,06:52:58,00:02:15,04:01:23,00:00:24,04:03:37,00:47:46
+2022/01/12,Teleperformance,v-jurgelles@youngliving.com,13,01:47:51,03:00:31,04:25:09,00:02:17,02:34:42,00:00:14,02:36:57,00:52:19
+2022/01/12,Teleperformance,v-kbodullo@youngliving.com,17,01:45:01,02:19:01,06:48:08,00:06:09,04:56:37,00:00:17,05:02:43,02:07:03
+2022/01/12,Teleperformance,v-krbodullo@youngliving.com,14,01:34:07,02:23:15,04:33:15,00:01:16,02:57:34,00:00:14,02:58:52,01:04:11
+2022/01/12,Teleperformance,v-ksison@youngliving.com,16,01:28:22,01:56:54,06:09:03,00:01:50,04:38:18,00:00:15,04:40:09,01:55:30
+2022/01/12,Teleperformance,v-kvaleros@youngliving.com,14,02:07:50,01:36:43,05:56:09,00:00:35,03:47:26,00:00:15,03:48:01,01:40:02
+2022/01/12,Teleperformance,v-lallig@youngliving.com,19,03:33:32,01:23:16,07:36:00,00:02:29,03:59:33,00:00:20,04:02:02,00:53:46
+2022/01/12,Teleperformance,v-ldaisog@youngliving.com,12,02:14:26,02:07:03,06:28:04,00:01:05,04:12:21,00:00:12,04:13:25,01:36:16
+2022/01/12,Teleperformance,v-lrabacal@youngliving.com,12,03:31:19,01:42:00,06:42:05,00:02:53,03:07:38,00:00:12,03:10:32,00:57:14
+2022/01/12,Teleperformance,v-mbanta@youngliving.com,15,03:17:33,01:43:49,06:29:37,00:03:13,03:08:25,00:00:16,03:11:39,00:54:33
+2022/01/12,Teleperformance,v-mcalma@youngliving.com,18,02:40:15,01:55:38,07:07:50,00:04:25,04:22:45,00:00:18,04:27:09,01:31:59
+2022/01/12,Teleperformance,v-mcasinillo@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-mdelarosa@youngliving.com,23,02:58:33,02:05:56,07:03:23,00:03:31,04:00:49,00:00:24,04:04:20,01:19:47
+2022/01/12,Teleperformance,v-mengle@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-mmalones@youngliving.com,15,04:32:54,01:40:17,06:57:24,00:01:14,02:22:56,00:00:16,02:24:09,00:26:54
+2022/01/12,Teleperformance,v-mmortez@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-msaunar@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-muy@youngliving.com,22,02:24:28,02:26:08,06:07:31,00:02:50,03:39:34,00:00:20,03:42:24,00:34:46
+2022/01/12,Teleperformance,v-nesponilla@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-nsadiwa@youngliving.com,0,,09:04:55,00:00:00,,,,,
+2022/01/12,Teleperformance,v-pcalica@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-ralmirol@youngliving.com,20,02:48:12,00:42:00,06:50:53,00:06:10,03:56:04,00:00:20,04:02:10,01:04:30
+2022/01/12,Teleperformance,v-ramaro@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-rdaquiojr@youngliving.com,11,02:46:43,03:03:29,05:39:24,00:03:35,02:48:51,00:00:11,02:52:28,00:34:48
+2022/01/12,Teleperformance,v-rdumlao@youngliving.com,0,,09:16:19,00:00:00,,,,,
+2022/01/12,Teleperformance,v-rinaldo@youngliving.com,17,02:15:06,02:57:09,06:05:17,00:02:50,03:46:55,00:00:18,03:49:45,01:07:11
+2022/01/12,Teleperformance,v-rmalavega@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-rnieva@youngliving.com,17,02:26:06,02:55:59,05:48:56,00:06:46,03:15:40,00:00:18,03:22:27,00:54:48
+2022/01/12,Teleperformance,v-rpresilda@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-rreyes@youngliving.com,21,02:30:06,01:56:17,06:41:18,00:02:13,04:08:23,00:00:20,04:10:36,01:09:34
+2022/01/12,Teleperformance,v-rteves@youngliving.com,17,02:34:05,03:03:13,05:56:10,00:02:58,03:18:41,00:00:17,03:21:41,00:27:25
+2022/01/12,Teleperformance,v-rVillarama@youngliving.com,0,,,,,,,,
+2022/01/12,Teleperformance,v-sricario@youngliving.com,16,02:22:05,01:54:09,05:58:24,00:05:13,03:30:12,00:00:14,03:35:26,00:43:07
+2022/01/12,Teleperformance,v-watay@youngliving.com,24,02:54:10,01:29:19,07:53:15,00:02:16,04:56:13,00:00:25,04:58:30,01:15:26
+2022/01/12,Teleperformance,v-zmarcelo@youngliving.com,20,02:24:21,02:06:40,06:16:51,00:03:42,03:48:24,00:00:22,03:52:06,01:18:29
+2022/01/12,US M07,adrake@youngliving.com,0,,,,,,,,
+2022/01/12,US M07,cbicknell@youngliving.com,0,07:47:32,00:43:16,07:47:33,,,,,
+2022/01/12,US M07,japerkins@youngliving.com,0,06:58:13,01:49:41,06:58:13,,,,,
+2022/01/12,US M07,jbougard@youngliving.com,0,,,,,,,,
+2022/01/12,US M07,lbarrera@youngliving.com,0,08:22:29,00:33:47,08:22:29,,,,,
+2022/01/12,US M07,tbenally@youngliving.com,0,,08:28:30,00:00:02,,,,,
+2022/01/12,US M07,tfano@youngliving.com,1,,08:46:49,00:10:48,00:00:30,00:10:15,00:00:04,00:10:45,00:00:00
+2022/01/12,US M10,glindsey@youngliving.com,0,00:55:50,00:00:04,00:55:51,,,,,
+2022/01/12,US M11,dhancock@youngliving.com,0,09:07:23,00:00:19,09:07:23,,,,,
+2022/01/12,US M11,ehaunga@youngliving.com,0,06:42:15,00:01:05,06:42:14,,,,,
+2022/01/12,US M11,rchavez@youngliving.com,0,08:03:38,00:00:58,08:03:38,,,,,
+2022/01/12,US M11,thampton@youngliving.com,0,,,,,,,,
+2022/01/12,US M13,abroadhead@youngliving.com,1,07:04:25,01:33:02,07:25:37,00:00:30,00:20:37,00:00:04,00:21:07,00:04:53
+2022/01/12,US M13,dtoro@youngliving.com,0,,08:48:57,00:00:01,,,,,
+2022/01/12,US M13,fcollins@youngliving.com,0,,,,,,,,
+2022/01/12,US M13,khoward@youngliving.com,0,03:13:58,00:00:56,03:13:58,,,,,
+2022/01/12,US M13,nstratton@youngliving.com,0,08:03:45,00:33:15,08:03:45,,,,,
+2022/01/12,US M13,pking@youngliving.com,0,08:39:47,00:22:44,08:39:46,,,,,
+2022/01/12,US M13,vcarlson@youngliving.com,0,,08:38:04,00:00:00,,,,,
+2022/01/12,US M14,adrake@youngliving.com,0,,,,,,,,
+2022/01/12,US M14,cbicknell@youngliving.com,0,07:47:32,00:43:16,07:47:33,,,,,
+2022/01/12,US M14,glindsey@youngliving.com,0,00:55:50,00:00:04,00:55:51,,,,,
+2022/01/12,US M14,lbarrera@youngliving.com,0,08:22:29,00:33:47,08:22:29,,,,,
+2022/01/12,US M14,nstratton@youngliving.com,0,08:03:45,00:33:15,08:03:45,,,,,
+2022/01/12,US M14,pking@youngliving.com,0,08:39:47,00:22:44,08:39:46,,,,,
+2022/01/12,US M14,vcarlson@youngliving.com,0,,08:38:04,00:00:00,,,,,
+2022/01/12,US Team 01,ehaunga@youngliving.com,0,06:42:15,00:01:05,06:42:14,,,,,
+2022/01/12,US Team 02,cbristow@youngliving.com,0,,08:16:33,00:00:02,,,,,
+2022/01/12,US Team 02,cpainecura@youngliving.com,0,,14:57:59,00:00:00,,,,,
+2022/01/12,US Team 02,gescobar@youngliving.com,0,,08:16:35,00:00:00,,,,,
+2022/01/12,US Team 02,jciriako@youngliving.com,0,,08:29:39,00:00:00,,,,,
+2022/01/12,US Team 02,nfarr@youngliving.com,0,,08:26:12,00:00:00,,,,,
+2022/01/12,US Team 02,rbrinkerhoff@youngliving.com,0,,07:28:06,00:00:00,,,,,
+2022/01/12,US Team 02,rhansen@youngliving.com,0,,05:16:46,00:00:00,,,,,
+2022/01/12,US Team 02,xcuascut@youngliving.com,0,,08:31:06,00:00:00,,,,,
+2022/01/12,US Team 03,abroadhead@youngliving.com,1,07:04:25,01:33:02,07:25:37,00:00:30,00:20:37,00:00:04,00:21:07,00:04:53
+2022/01/12,US Team 03,cconger@youngliving.com,10,01:03:24,03:58:50,02:19:03,00:04:45,01:08:40,00:02:13,01:13:28,00:01:15
+2022/01/12,US Team 03,krasmussen@youngliving.com,34,03:15:11,01:06:25,07:17:57,00:11:17,03:44:21,00:07:05,03:55:42,00:23:43
+2022/01/12,US Team 03,ksorensen@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 03,mpettit@youngliving.com,0,,07:41:32,00:00:00,,,,,
+2022/01/12,US Team 03,mrobinson@youngliving.com,0,,08:38:26,00:00:00,,,,,
+2022/01/12,US Team 03,rbalzly@youngliving.com,0,,08:48:02,00:00:00,,,,,
+2022/01/12,US Team 03,toropeza@youngliving.com,3,00:46:34,00:02:42,01:27:37,00:01:10,00:39:17,00:00:36,00:40:27,00:05:19
+2022/01/12,US Team 03,wmyrup@youngliving.com,20,00:51:02,02:35:02,04:01:42,00:04:08,03:04:17,00:01:42,03:08:23,00:00:00
+2022/01/12,US Team 10,adrake@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 10,afawson@youngliving.com,13,01:32:14,00:18:18,03:48:42,00:06:01,02:07:49,00:02:24,02:13:48,00:25:15
+2022/01/12,US Team 10,alazo@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 10,bballinger@youngliving.com,23,02:47:00,01:22:52,07:12:00,00:02:48,04:19:05,00:03:04,04:21:51,00:35:42
+2022/01/12,US Team 10,bswiantek@youngliving.com,18,02:12:20,01:01:47,04:28:11,00:03:41,02:11:47,00:00:18,02:15:26,00:07:33
+2022/01/12,US Team 10,cchristiansen@youngliving.com,20,01:57:30,00:59:22,06:30:09,00:04:12,04:25:56,00:02:34,04:30:08,00:43:53
+2022/01/12,US Team 10,iaumavae@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 10,lgarza@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 10,mdone@youngliving.com,26,02:24:05,02:22:50,06:05:24,00:09:02,03:27:52,00:03:30,03:36:53,00:28:42
+2022/01/12,US Team 10,mfiloteo@youngliving.com,17,00:36:17,00:29:27,03:36:08,00:05:58,02:51:03,00:01:54,02:57:03,00:42:23
+2022/01/12,US Team 10,sanderson@youngliving.com,0,,04:14:30,00:00:00,,,,,
+2022/01/12,US Team 10,scurtis@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 10,siverson@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 10,smadrigal@youngliving.com,13,01:02:15,02:02:48,03:09:05,00:01:19,02:02:52,00:01:58,02:04:10,00:22:40
+2022/01/12,US Team 12,abarron@youngliving.com,19,02:20:22,01:15:56,04:10:37,00:08:45,01:41:05,00:00:19,01:49:50,00:03:22
+2022/01/12,US Team 12,brevoir@youngliving.com,26,02:08:45,02:06:29,06:21:30,00:08:53,03:56:49,00:06:28,04:05:44,00:17:05
+2022/01/12,US Team 12,dlark@youngliving.com,35,02:57:39,02:58:01,07:37:38,00:04:59,04:30:14,00:04:22,04:35:14,00:02:22
+2022/01/12,US Team 12,dtoro@youngliving.com,0,,08:48:57,00:00:01,,,,,
+2022/01/12,US Team 12,fodiley@youngliving.com,0,,09:46:40,00:00:00,,,,,
+2022/01/12,US Team 12,gpack@youngliving.com,2,07:23:32,00:56:32,08:01:00,00:00:14,00:37:03,00:00:09,00:37:18,00:00:00
+2022/01/12,US Team 12,lsopchak@youngliving.com,14,01:31:07,01:08:35,02:59:32,00:05:27,01:19:51,00:03:09,01:25:17,00:06:11
+2022/01/12,US Team 12,mhowells@youngliving.com,0,,06:58:10,00:00:00,,,,,
+2022/01/12,US Team 12,shughes@youngliving.com,0,,04:14:49,00:00:00,,,,,
+2022/01/12,US Team 12,swagner@youngliving.com,26,02:48:38,02:19:00,06:15:14,00:04:19,03:21:32,00:00:25,03:25:53,00:12:45
+2022/01/12,US Team 12,twoodis@youngliving.com,15,01:21:47,02:16:20,06:11:31,00:03:24,04:42:38,00:03:14,04:46:00,00:16:03
+2022/01/12,US Team 12,vstulce@youngliving.com,28,02:22:33,02:21:02,05:14:02,00:06:33,02:43:34,00:00:24,02:50:09,00:03:21
+2022/01/12,US Team 13,abarrows@youngliving.com,31,01:29:19,01:16:56,07:17:04,00:04:33,05:41:38,00:00:27,05:46:10,00:13:49
+2022/01/12,US Team 13,abellazetin@youngliving.com,0,,07:43:42,00:00:00,,,,,
+2022/01/12,US Team 13,jbougard@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 13,jcarver@youngliving.com,17,01:30:11,01:17:13,07:05:49,00:04:57,05:29:27,00:00:12,05:34:24,00:27:02
+2022/01/12,US Team 13,jtrinidad@youngliving.com,0,,07:59:29,00:00:00,,,,,
+2022/01/12,US Team 13,kdemita@youngliving.com,2,00:16:56,00:23:59,00:55:29,00:00:32,00:37:49,00:00:13,00:38:20,00:23:20
+2022/01/12,US Team 13,krichins@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 13,mdorton@youngliving.com,17,01:56:18,01:52:16,06:31:32,00:04:14,04:30:24,00:00:16,04:34:38,00:41:04
+2022/01/12,US Team 13,scoleman@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 13,sphillips@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 15,chcarter@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 15,crowley@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 15,jfranks@youngliving.com,0,,08:43:22,00:00:00,,,,,
+2022/01/12,US Team 15,kiharding@youngliving.com,0,,06:08:35,00:00:01,,,,,
+2022/01/12,US Team 15,kwaldvogel@youngliving.com,0,,08:07:58,00:00:00,,,,,
+2022/01/12,US Team 15,larredondo@youngliving.com,0,,07:09:49,00:00:00,,,,,
+2022/01/12,US Team 15,pmiller@youngliving.com,0,,08:50:56,00:00:00,,,,,
+2022/01/12,US Team 15,snelson@youngliving.com,0,,08:43:20,00:00:00,,,,,
+2022/01/12,US Team 15,vcarlson@youngliving.com,0,,08:38:04,00:00:00,,,,,
+2022/01/12,US Team 16,thampton@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 17,afox@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 17,bneilsen@youngliving.com,0,,08:44:31,00:00:00,,,,,
+2022/01/12,US Team 17,cbustamante@youngliving.com,22,02:29:03,02:09:23,08:23:15,00:00:50,05:51:26,00:00:20,05:52:16,00:03:36
+2022/01/12,US Team 17,herickson@youngliving.com,0,,10:25:14,00:00:00,,,,,
+2022/01/12,US Team 17,jwhitlock@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 17,kdean@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 17,llarsen@youngliving.com,17,01:18:15,02:12:22,06:48:33,00:03:16,05:25:59,00:00:12,05:29:10,00:22:52
+2022/01/12,US Team 17,mpratt@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 17,rgeorge@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 17,sujohnson@youngliving.com,26,02:06:48,01:11:41,04:54:25,00:02:21,02:44:19,00:00:26,02:46:39,00:09:25
+2022/01/12,US Team 21,rchavez@youngliving.com,0,08:03:38,00:00:58,08:03:38,,,,,
+2022/01/12,US Team 22,bchristison@youngliving.com,0,,06:17:30,00:00:00,,,,,
+2022/01/12,US Team 22,caharris@youngliving.com,30,02:58:23,01:27:11,07:04:39,00:10:08,03:50:30,00:05:38,04:00:39,00:00:00
+2022/01/12,US Team 22,djacobs@youngliving.com,15,00:54:37,00:35:37,03:55:41,00:00:00,03:00:46,00:00:15,03:00:46,00:00:00
+2022/01/12,US Team 22,ezarate@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 22,jacord@youngliving.com,21,02:07:48,00:58:01,05:02:12,00:02:27,02:48:18,00:03:43,02:50:42,00:28:20
+2022/01/12,US Team 22,jsmokoff@youngliving.com,21,02:45:31,00:54:37,06:16:18,00:03:40,03:26:21,00:00:21,03:30:02,00:26:24
+2022/01/12,US Team 22,kcarter@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 22,kramirez@youngliving.com,30,03:00:45,01:21:17,06:46:59,00:13:29,03:27:58,00:04:42,03:41:31,00:30:43
+2022/01/12,US Team 22,kwoolsey@youngliving.com,0,,05:39:26,00:00:00,,,,,
+2022/01/12,US Team 22,lbarrera@youngliving.com,0,08:22:29,00:33:47,08:22:29,,,,,
+2022/01/12,US Team 22,mbourne@youngliving.com,2,07:35:20,00:53:07,07:43:34,00:00:32,00:07:35,00:00:08,00:08:06,00:00:00
+2022/01/12,US Team 22,rmoreno@youngliving.com,25,01:40:25,00:37:00,04:55:09,00:04:39,03:08:52,00:00:22,03:13:30,00:05:06
+2022/01/12,US Team 29,thampton@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 31,dhancock@youngliving.com,0,09:07:23,00:00:19,09:07:23,,,,,
+2022/01/12,US Team 36,cmorales@youngliving.com,0,,05:51:22,00:00:00,,,,,
+2022/01/12,US Team 36,esmith@youngliving.com,0,,11:01:29,00:00:00,,,,,
+2022/01/12,US Team 36,jobird@youngliving.com,0,,08:48:14,00:00:00,,,,,
+2022/01/12,US Team 36,kethompson@youngliving.com,0,,08:30:55,00:00:02,,,,,
+2022/01/12,US Team 36,pgunderson@youngliving.com,0,,08:40:15,00:00:01,,,,,
+2022/01/12,US Team 36,rmenjivar@youngliving.com,0,,10:15:57,00:00:00,,,,,
+2022/01/12,US Team 36,samundsen@youngliving.com,0,,05:14:36,00:00:01,,,,,
+2022/01/12,US Team 36,tfox@youngliving.com,0,,08:29:32,00:00:00,,,,,
+2022/01/12,US Team 36,tromero@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 39,aallred@youngliving.com,0,,08:29:34,00:00:00,,,,,
+2022/01/12,US Team 39,cmcculloch@youngliving.com,0,,08:35:07,00:00:00,,,,,
+2022/01/12,US Team 39,eestrada@youngliving.com,0,,08:35:00,00:00:00,,,,,
+2022/01/12,US Team 39,khoward@youngliving.com,0,03:13:58,00:00:56,03:13:58,,,,,
+2022/01/12,US Team 39,liguzman@youngliving.com,0,,08:35:27,00:00:01,,,,,
+2022/01/12,US Team 39,vwakefield@youngliving.com,0,,08:40:11,00:00:00,,,,,
+2022/01/12,US Team 41,ditaylor@youngliving.com,1,,08:34:41,00:01:37,00:00:08,00:01:07,00:00:00,00:01:15,00:00:00
+2022/01/12,US Team 41,dliddiard@youngliving.com,0,,06:36:37,00:00:00,,,,,
+2022/01/12,US Team 41,fcollins@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 41,kpaulsen@youngliving.com,37,03:52:51,01:08:55,07:26:20,00:13:28,03:14:39,00:04:45,03:28:07,00:20:21
+2022/01/12,US Team 41,kwybrant@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 41,sdunn@youngliving.com,56,00:07:47,07:32:58,02:11:41,00:03:55,01:40:09,00:00:00,01:43:59,00:00:00
+2022/01/12,US Team 41,tboyce@youngliving.com,8,01:34:44,02:17:25,03:03:43,00:02:17,01:25:29,00:01:12,01:27:48,00:03:54
+2022/01/12,US Team 41,yaragon@youngliving.com,0,,08:33:56,00:00:01,,,,,
+2022/01/12,US Team 44,amerod@youngliving.com,0,,04:58:30,00:00:00,,,,,
+2022/01/12,US Team 44,ecauteruccio@youngliving.com,0,,08:31:01,00:00:00,,,,,
+2022/01/12,US Team 44,gbustamante@youngliving.com,0,,05:47:19,00:00:00,,,,,
+2022/01/12,US Team 44,hjohnson@youngliving.com,0,,06:37:04,00:00:00,,,,,
+2022/01/12,US Team 44,jpirir@youngliving.com,0,,07:28:46,00:00:01,,,,,
+2022/01/12,US Team 44,pking@youngliving.com,0,08:39:47,00:22:44,08:39:46,,,,,
+2022/01/12,US Team 44,vcauteruccio@youngliving.com,0,,08:32:25,00:00:00,,,,,
+2022/01/12,US Team 44,yshikano@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 44,zbingham@youngliving.com,0,,06:34:07,00:00:00,,,,,
+2022/01/12,US Team 47,bmanwaring@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 47,eburke@youngliving.com,0,,11:00:42,00:00:00,,,,,
+2022/01/12,US Team 47,gbosen@youngliving.com,0,,08:31:43,00:00:01,,,,,
+2022/01/12,US Team 47,jehernandez@youngliving.com,0,,07:53:37,00:00:01,,,,,
+2022/01/12,US Team 47,jstephens@youngliving.com,0,,08:01:20,00:00:01,,,,,
+2022/01/12,US Team 47,jvannosdol@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 47,khaws@youngliving.com,0,,08:38:19,00:00:00,,,,,
+2022/01/12,US Team 47,lcarranza@youngliving.com,0,,08:33:51,00:00:00,,,,,
+2022/01/12,US Team 47,mcamara@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 47,mrawlins@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 47,nstratton@youngliving.com,0,08:03:45,00:33:15,08:03:45,,,,,
+2022/01/12,US Team 47,polarsen@youngliving.com,0,,06:00:25,00:00:00,,,,,
+2022/01/12,US Team 47,tgalloway@youngliving.com,0,,08:28:56,00:00:00,,,,,
+2022/01/12,US Team 47,vtomas@youngliving.com,0,,07:46:17,00:00:00,,,,,
+2022/01/12,US Team 47,yagarcia@youngliving.com,0,,08:03:17,00:00:00,,,,,
+2022/01/12,US Team 52,afeliz@youngliving.com,0,,06:14:07,00:00:00,,,,,
+2022/01/12,US Team 52,amichaud@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 52,bbarrus@youngliving.com,23,02:18:59,01:59:55,06:30:10,00:07:26,04:01:02,00:02:41,04:08:29,00:34:15
+2022/01/12,US Team 52,bmendoza@youngliving.com,0,,06:01:28,00:00:00,,,,,
+2022/01/12,US Team 52,cbicknell@youngliving.com,0,07:47:32,00:43:16,07:47:33,,,,,
+2022/01/12,US Team 52,jenis@youngliving.com,19,02:16:52,00:55:06,07:10:10,00:03:02,04:47:12,00:03:00,04:50:13,01:01:38
+2022/01/12,US Team 52,jjennings@youngliving.com,17,02:15:21,01:53:48,06:37:52,00:03:24,04:15:08,00:03:27,04:18:30,01:38:07
+2022/01/12,US Team 52,jlazarte@youngliving.com,0,,05:01:19,00:00:01,,,,,
+2022/01/12,US Team 52,jmorales@youngliving.com,0,,08:31:07,00:00:01,,,,,
+2022/01/12,US Team 52,kgarcia@youngliving.com,0,,06:29:04,00:00:00,,,,,
+2022/01/12,US Team 52,mnielson@youngliving.com,32,03:29:55,01:17:17,08:47:37,00:04:24,05:08:08,00:04:50,05:12:29,00:37:36
+2022/01/12,US Team 52,nroberts@youngliving.com,0,,08:38:24,00:00:00,,,,,
+2022/01/12,US Team 52,ricgarcia@youngliving.com,1,,07:38:30,00:03:28,,00:03:25,00:00:00,00:03:25,00:00:00
+2022/01/12,US Team 52,rshimabukuro@youngliving.com,0,,10:34:47,00:00:01,,,,,
+2022/01/12,US Team 52,taguilar@youngliving.com,21,02:20:15,02:27:21,06:01:50,00:08:03,03:30:23,00:02:57,03:38:29,01:03:31
+2022/01/12,US Team 53,bchaffin@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 53,bwray@youngliving.com,15,02:34:20,00:34:18,04:30:33,00:02:42,01:49:11,00:04:22,01:51:52,00:08:47
+2022/01/12,US Team 53,cwhite@youngliving.com,25,02:49:03,01:10:17,06:23:32,00:10:05,03:23:54,00:00:26,03:33:58,00:17:56
+2022/01/12,US Team 53,dahansen@youngliving.com,9,01:25:59,00:15:22,03:42:44,00:00:07,02:15:00,00:01:38,02:15:07,00:29:50
+2022/01/12,US Team 53,gediaz@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 53,jagonzalez@youngliving.com,0,,08:32:42,00:00:00,,,,,
+2022/01/12,US Team 53,jwheat@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 53,krosenlof@youngliving.com,0,,08:29:08,00:00:01,,,,,
+2022/01/12,US Team 53,maherrera@youngliving.com,0,,07:32:30,00:00:01,,,,,
+2022/01/12,US Team 53,mmaag@youngliving.com,17,01:54:35,01:28:15,07:07:25,00:05:59,05:04:28,00:02:24,05:10:26,00:38:24
+2022/01/12,US Team 53,smurphy@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 53,tbenally@youngliving.com,0,,08:28:30,00:00:02,,,,,
+2022/01/12,US Team 53,trcarter@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 56,stwilson@youngliving.com,0,,08:25:45,00:00:00,,,,,
+2022/01/12,US Team 60,aolsen@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 60,bkurylo@youngliving.com,17,02:36:42,01:07:53,07:21:07,00:04:24,04:34:29,00:05:01,04:38:52,00:00:00
+2022/01/12,US Team 60,carasmussen@youngliving.com,8,00:58:04,00:27:16,03:33:02,00:01:27,02:31:37,00:01:53,02:33:05,00:31:36
+2022/01/12,US Team 60,dkinsman@youngliving.com,17,02:31:51,00:18:10,05:13:49,00:02:01,02:37:30,00:02:26,02:39:27,00:10:30
+2022/01/12,US Team 60,jmorey@youngliving.com,10,01:18:48,00:54:35,03:09:25,00:02:03,01:47:43,00:00:48,01:49:44,00:10:40
+2022/01/12,US Team 60,kawilliams@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 60,sking@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 60,tmuagututia@youngliving.com,18,04:03:51,01:47:19,06:41:40,00:05:24,02:28:27,00:03:57,02:33:20,00:36:51
+2022/01/12,US Team 61,escadden@youngliving.com,14,01:35:24,00:37:08,04:22:53,00:01:29,02:43:50,00:01:40,02:45:18,00:18:26
+2022/01/12,US Team 61,japerkins@youngliving.com,0,06:58:13,01:49:41,06:58:13,,,,,
+2022/01/12,US Team 61,joevans@youngliving.com,18,02:25:00,01:48:17,06:39:44,00:03:12,04:08:40,00:01:53,04:11:21,00:50:00
+2022/01/12,US Team 61,jschwalbe@youngliving.com,0,,07:31:26,00:00:00,,,,,
+2022/01/12,US Team 61,molsen@youngliving.com,0,,,,,,,,
+2022/01/12,US Team 61,msobotka@youngliving.com,5,00:44:00,00:18:14,01:51:53,00:00:42,01:06:04,00:01:05,01:06:47,00:15:45
+2022/01/12,US Team 61,rcarter@youngliving.com,0,,10:06:49,00:00:00,,,,,
+2022/01/12,US Team 61,sdraper-pinuelas@youngliving.com,3,01:10:25,01:47:03,02:08:14,00:01:07,00:55:47,00:00:57,00:56:53,00:12:10
+2022/01/12,US Team 61,sjeli@youngliving.com,5,00:55:47,00:26:12,03:33:06,00:00:21,02:35:56,00:01:00,02:36:17,00:56:47
+2022/01/12,US Team 61,tnielson@youngliving.com,18,02:23:32,01:58:12,06:33:58,00:02:24,04:06:44,00:00:15,04:08:45,00:26:01
+2022/01/12,US Team 62,agroves@youngliving.com,1,07:11:35,01:31:20,07:31:10,00:00:30,00:18:40,00:00:00,00:19:10,00:00:00
+2022/01/12,US Team 62,bmitchell@youngliving.com,0,00:00:09,09:01:22,00:00:07,,,,,
+2022/01/12,US Team 62,ddraper@youngliving.com,6,05:53:02,00:15:56,07:11:11,00:01:41,01:14:56,00:00:00,01:16:35,00:00:00
+2022/01/12,US Team 62,djensen@youngliving.com,4,07:14:20,01:02:09,07:30:37,00:00:07,00:15:05,00:00:10,00:15:12,00:00:00
+2022/01/12,US Team 62,ltoa@youngliving.com,1,07:17:18,00:46:12,07:47:10,00:00:25,00:29:13,00:00:13,00:29:39,00:00:00
+2022/01/12,US Team 62,mstruyk@youngliving.com,0,09:25:09,00:59:26,09:25:09,,,,,
+2022/01/12,US Team 62,rwiley@youngliving.com,0,07:56:44,01:50:54,07:56:46,,,,,
+2022/01/13,,jalvey@youngliving.com,0,,,,,,,,
+2022/01/13,,jesmith@youngliving.com,0,,,,,,,,
+2022/01/13,,jrosier@youngliving.com,0,,,,,,,,
+2022/01/13,,ktrejo@youngliving.com,0,,,,,,,,
+2022/01/13,,mimorales@youngliving.com,0,,,,,,,,
+2022/01/13,,mmaxwell@youngliving.com,0,,,,,,,,
+2022/01/13,,mwhitlock@youngliving.com,0,,,,,,,,
+2022/01/13,,tturner@youngliving.com,0,,,,,,,,
+2022/01/13,,v-derandio@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-acorona@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-alramos@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-atorres@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-avsolis@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-crazo@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-dalvarado@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-dgonzalez@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-drenteria@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-dsanchezmartinez@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-emguzman@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-gamartinez@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-gplascencia@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-gquezada@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-herodriguez@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-iarredondo@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-icanales@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-iorduna@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-itapia@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-jalara@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-janaya@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-jmagallon@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-jmartinezcolin@youngliving.com,0,00:01:00,,00:01:00,,,,,
+2022/01/13,4NDM,v-lchernandez@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-lghipolito@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-lmoncada@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-lvillanueva@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-mmorales@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-morodriguez@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-ncontreras@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-nruiz@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-omontfort@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-rguerrero@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-rsaldiernagar@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-spasos@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-vinocente@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-vnovia@youngliving.com,0,,,,,,,,
+2022/01/13,4NDM,v-vvillavazo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,cprimavera@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-aatayan@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-acarlos@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-acrisostomo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-acudesin@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-adiaz@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-adomangcas@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-adonaire@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-afantone@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-aherrera@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-alazarito@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-amacion@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-amalit@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-amontallana@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-anantonio@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-anunag@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-arebutoc@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-aroy@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-asusi@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-atelmo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ationgco@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-atubino@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-blouie@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-breforada@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-calejaga@youngliving.com,0,,00:01:00,00:00:00,,,,,
+2022/01/13,Buwelo,v-cbautista@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-cbonan@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ccristobal@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-cdinco@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-cestrada@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-cgarrido@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-cpansalin@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-crevilla@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-crivera@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-csangalang@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-csulit@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ctayobana@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ddarullo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-dmontelijao@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-drealo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-dvanzuela@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-eancaya@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ebarilla@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ebugayong@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ecandare@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-eperez@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-equinto@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-erico@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-fcolico@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-gbaloy@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-gbatuyong@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-geclarino@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-gedeza@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-gmalinao@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-gzerna@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-hbalanag@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-hmonreal@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-icantimbuhan@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-imallari@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jacson@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jalip@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jalterado@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jamendoza@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jamlog@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jbalmaceda@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jbencio@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jbugay@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jcuenca@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jfamanilay@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jfernandez@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jfredeluces@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jgayacao@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jgiba@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jguinto@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jhadley@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jjosue@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jmenor@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jminas@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jnavarro@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-joramirez@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-josdeguzman@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jracion@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jrogado@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jsantos@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jtadeo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jtantay@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-jtaripe@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-kborja@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-kcorpuz@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-kmacapagal@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ktalion@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-lbaeshen@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-lignacio@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-llazaro@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ltejoc@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-lventurero@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-maarce@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-maboy@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-macaspac@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mamolat@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-marce@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mbada@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mbartolome@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mdrio@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mestomago@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mferreira@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mforelo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mgaberia@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mgarcia@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-miaclan@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mjperez@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mjucutan@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mmanglicmot@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mmejala@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mpahayahay@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-msantos@youngliving.com,0,00:01:00,,00:01:00,,,,,
+2022/01/13,Buwelo,v-mserrano@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mservidad@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-msubrio@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-mtimbal@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-nacuna@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-nortega@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-pagacoscos@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-pbasa@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-pdumalasa@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-psalafrania@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rasanas@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rbobadilla@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rconcepcion@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rdaria@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-relee@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rerese@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rfelicidario@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rfung@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rhallare@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rjbautista@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rlee@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rmendigorin@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-robautista@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-roenero@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-rrumeral@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-sanonat@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-sbuna@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-shizarsa@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-signacio@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-slegaspi@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-tmayor@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-vcalumpang@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-wsamson@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-ymapa@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo,v-zmuyco@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-acudesin@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-amontales@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-blouie@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-caninag@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-ccristobal@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-csulit@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-ddarullo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-gbatuyong@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-geclarino@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-jbugay@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-jdeluna@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-jroldan@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-kbalagtas@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-kgarcia@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-mferreira@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-msantos@youngliving.com,0,00:01:00,,00:01:00,,,,,
+2022/01/13,Buwelo Canada,v-msilva@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-ngutierrez@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-osantos@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-rdangaran@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-rhallare@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-rlee@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-rpendos@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-rramos@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Canada,v-rrumeral@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-abactad@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-amalit@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-amontallana@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-andelacruz@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-clacbayo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-cpalmaria@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-cpascua@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-dmarzan@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-eedquiban@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-heclarinal@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-iegnisaban@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-jalagon@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-jarosario@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-jcastrence@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-jeguzman@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-jogonzales@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-jpedlaoan@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-jsanangel@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-kabad@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-kalibasa@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-kpayumo@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-lbueno@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-mdiaz@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-mgarcia@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-myodico@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-rrabadon@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-rtacbas@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-smuyco@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-srejuso@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-tsantos@youngliving.com,0,,,,,,,,
+2022/01/13,Buwelo Training,v-wyugto@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,abarron@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,abarrows@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,abellazetin@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,brevoir@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,cwhite@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,ditaylor@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,dlark@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,dliddiard@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,fodiley@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,gediaz@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,gpack@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,jcarver@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,jwheat@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,ksorensen@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,liguzman@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,mdorton@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,mhowells@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,molsen@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,mprince@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,mrobinson@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,rcarter@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,sdunn@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,smurphy@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,sujohnson@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,swagner@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,tfano@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,tgalloway@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,toropeza@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,twoodis@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,vstulce@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,wmyrup@youngliving.com,0,,,,,,,,
+2022/01/13,Canada Filter,yaragon@youngliving.com,0,,,,,,,,
+2022/01/13,Diamond Support,icastro@youngliving.com,0,,,,,,,,
+2022/01/13,Diamond Support,jahebert@youngliving.com,0,,,,,,,,
+2022/01/13,Diamond Support,jewhite@youngliving.com,0,,,,,,,,
+2022/01/13,Diamond Support,jgould@youngliving.com,0,,,,,,,,
+2022/01/13,Diamond Support,ntravis@youngliving.com,0,,,,,,,,
+2022/01/13,Diamond Support,sagonzalez@youngliving.com,0,,,,,,,,
+2022/01/13,Diamond Support,shlarson@youngliving.com,0,,,,,,,,
+2022/01/13,Diamond Support,sulrich@youngliving.com,0,,,,,,,,
+2022/01/13,Diamond Support,trichins@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,aadams@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,alavila@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,aloera@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,bgastelum@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,bhorne@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,dbradshaw@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,dhilton@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,hlopez@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,hmoore@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,lshepherd@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,muribe@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,mvazquez@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,nledezma@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,nramos@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,prawlins@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,sbencomo@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,sbentsen@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,schavez@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,sroberts@youngliving.com,0,,,,,,,,
+2022/01/13,Leadership Support,sypeterson@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,abarron@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,abarrows@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,abellazetin@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,brevoir@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,cwhite@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,ditaylor@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,dlark@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,dliddiard@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,fodiley@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,gediaz@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,gpack@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,jcarver@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,jwheat@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,ksorensen@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,liguzman@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,mdorton@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,mhowells@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,molsen@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,mprince@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,mrobinson@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,rcarter@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,sdunn@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,smurphy@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,sujohnson@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,swagner@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,tfano@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,tgalloway@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,toropeza@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,twoodis@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,vstulce@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,wmyrup@youngliving.com,0,,,,,,,,
+2022/01/13,Tech Free Filter,yaragon@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-abaribar@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ablanco@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-aedullantes@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ajavellana@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-algarcia@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-annova@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-aobiso@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-arncruz@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-arobles@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-arosil@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-asantos@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-bgarillo@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-carriola@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ccarlos@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-cdadis@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-cfernandez@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ctandas@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ctayamin@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-cvaldez@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-dchan@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-dcostas@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-dmabasa@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-eboron@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ehermosa@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-evelasco@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-fibanez@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-fismael@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-fmariwa@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ggupong@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-gsantuyo@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-hagbisit@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jamongo@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jbalasabas@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jCorrea@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jgamboa@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jguevarra@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jmisa@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jmondejar@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jrecto@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jTesorero@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-jurgelles@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-kbodullo@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-krbodullo@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ksison@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-kvaleros@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-lallig@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ldaisog@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-lrabacal@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-mbanta@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-mcalma@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-mcasinillo@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-mdelarosa@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-mengle@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-mmalones@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-mmortez@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-msaunar@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-muy@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-nesponilla@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-nsadiwa@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-pcalica@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ralmirol@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-ramaro@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-rdaquiojr@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-rdumlao@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-rinaldo@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-rmalavega@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-rnieva@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-rpresilda@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-rreyes@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-rteves@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-rVillarama@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-sricario@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-watay@youngliving.com,0,,,,,,,,
+2022/01/13,Teleperformance,v-zmarcelo@youngliving.com,0,,,,,,,,
+2022/01/13,US M07,adrake@youngliving.com,0,,,,,,,,
+2022/01/13,US M07,cbicknell@youngliving.com,0,,,,,,,,
+2022/01/13,US M07,japerkins@youngliving.com,0,,,,,,,,
+2022/01/13,US M07,jbougard@youngliving.com,0,,,,,,,,
+2022/01/13,US M07,lbarrera@youngliving.com,0,,,,,,,,
+2022/01/13,US M07,tbenally@youngliving.com,0,,,,,,,,
+2022/01/13,US M07,tfano@youngliving.com,0,,,,,,,,
+2022/01/13,US M10,glindsey@youngliving.com,0,,,,,,,,
+2022/01/13,US M11,dhancock@youngliving.com,0,,,,,,,,
+2022/01/13,US M11,ehaunga@youngliving.com,0,,,,,,,,
+2022/01/13,US M11,rchavez@youngliving.com,0,,,,,,,,
+2022/01/13,US M11,thampton@youngliving.com,0,,,,,,,,
+2022/01/13,US M13,abroadhead@youngliving.com,0,,,,,,,,
+2022/01/13,US M13,dtoro@youngliving.com,0,,,,,,,,
+2022/01/13,US M13,fcollins@youngliving.com,0,,,,,,,,
+2022/01/13,US M13,khoward@youngliving.com,0,,,,,,,,
+2022/01/13,US M13,nstratton@youngliving.com,0,,,,,,,,
+2022/01/13,US M13,pking@youngliving.com,0,,,,,,,,
+2022/01/13,US M13,vcarlson@youngliving.com,0,,,,,,,,
+2022/01/13,US M14,adrake@youngliving.com,0,,,,,,,,
+2022/01/13,US M14,cbicknell@youngliving.com,0,,,,,,,,
+2022/01/13,US M14,glindsey@youngliving.com,0,,,,,,,,
+2022/01/13,US M14,lbarrera@youngliving.com,0,,,,,,,,
+2022/01/13,US M14,nstratton@youngliving.com,0,,,,,,,,
+2022/01/13,US M14,pking@youngliving.com,0,,,,,,,,
+2022/01/13,US M14,vcarlson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 01,ehaunga@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 02,cbristow@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 02,cpainecura@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 02,gescobar@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 02,jciriako@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 02,nfarr@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 02,rbrinkerhoff@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 02,rhansen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 02,xcuascut@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 03,abroadhead@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 03,cconger@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 03,krasmussen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 03,ksorensen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 03,mpettit@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 03,mrobinson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 03,rbalzly@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 03,toropeza@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 03,wmyrup@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,adrake@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,afawson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,alazo@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,bballinger@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,bswiantek@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,cchristiansen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,iaumavae@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,lgarza@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,mdone@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,mfiloteo@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,sanderson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,scurtis@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,siverson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 10,smadrigal@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,abarron@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,brevoir@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,dlark@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,dtoro@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,fodiley@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,gpack@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,lsopchak@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,mhowells@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,shughes@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,swagner@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,twoodis@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 12,vstulce@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,abarrows@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,abellazetin@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,jbougard@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,jcarver@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,jtrinidad@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,kdemita@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,krichins@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,mdorton@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,scoleman@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 13,sphillips@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 15,chcarter@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 15,crowley@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 15,jfranks@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 15,kiharding@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 15,kwaldvogel@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 15,larredondo@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 15,pmiller@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 15,snelson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 15,vcarlson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 16,thampton@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,afox@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,bneilsen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,cbustamante@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,herickson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,jwhitlock@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,kdean@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,llarsen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,mpratt@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,rgeorge@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 17,sujohnson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 21,rchavez@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,bchristison@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,caharris@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,djacobs@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,ezarate@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,jacord@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,jsmokoff@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,kcarter@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,kramirez@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,kwoolsey@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,lbarrera@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,mbourne@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 22,rmoreno@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 29,thampton@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 31,dhancock@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 36,cmorales@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 36,esmith@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 36,jobird@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 36,kethompson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 36,pgunderson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 36,rmenjivar@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 36,samundsen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 36,tfox@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 36,tromero@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 39,aallred@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 39,cmcculloch@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 39,eestrada@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 39,khoward@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 39,liguzman@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 39,vwakefield@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 41,ditaylor@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 41,dliddiard@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 41,fcollins@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 41,kpaulsen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 41,kwybrant@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 41,sdunn@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 41,tboyce@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 41,yaragon@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 44,amerod@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 44,ecauteruccio@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 44,gbustamante@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 44,hjohnson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 44,jpirir@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 44,pking@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 44,vcauteruccio@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 44,yshikano@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 44,zbingham@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,bmanwaring@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,eburke@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,gbosen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,jehernandez@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,jstephens@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,jvannosdol@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,khaws@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,lcarranza@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,mcamara@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,mrawlins@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,nstratton@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,polarsen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,tgalloway@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,vtomas@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 47,yagarcia@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,afeliz@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,amichaud@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,bbarrus@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,bmendoza@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,cbicknell@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,jenis@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,jjennings@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,jlazarte@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,jmorales@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,kgarcia@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,mnielson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,nroberts@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,ricgarcia@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,rshimabukuro@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 52,taguilar@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,bchaffin@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,bwray@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,cwhite@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,dahansen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,gediaz@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,jagonzalez@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,jwheat@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,krosenlof@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,maherrera@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,mmaag@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,smurphy@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,tbenally@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 53,trcarter@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 56,stwilson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 60,aolsen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 60,bkurylo@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 60,carasmussen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 60,dkinsman@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 60,jmorey@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 60,kawilliams@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 60,sking@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 60,tmuagututia@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,escadden@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,japerkins@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,joevans@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,jschwalbe@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,molsen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,msobotka@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,rcarter@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,sdraper-pinuelas@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,sjeli@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 61,tnielson@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 62,agroves@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 62,bmitchell@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 62,ddraper@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 62,djensen@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 62,ltoa@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 62,mstruyk@youngliving.com,0,,,,,,,,
+2022/01/13,US Team 62,rwiley@youngliving.com,0,,,,,,,,

@@ -1,0 +1,58 @@
+DATE,TIME,AGENT GROUP,AGENT EMAIL,AGENT NAME,CALL ID,CALLS UNANSWERED BY AGENT,DISPOSITION
+2021/12/20,09:21:22,US Team 10,afawson@youngliving.com,Allison Fawson,1598584,1,No Answer or Response
+2021/12/20,16:18:23,US Team 53,bwray@youngliving.com,Brook Wray,1601760,1,
+2021/12/20,17:11:21,US Team 53,bwray@youngliving.com,Brook Wray,1601943,1,
+2021/12/20,17:19:59,US Team 53,bwray@youngliving.com,Brook Wray,1601967,1,
+2021/12/20,17:43:31,US Team 53,bwray@youngliving.com,Brook Wray,1602068,1,
+2021/12/20,19:21:16,US Team 53,bwray@youngliving.com,Brook Wray,1602292,1,
+2021/12/20,19:58:12,US Team 53,bwray@youngliving.com,Brook Wray,1602347,1,
+2021/12/20,20:56:17,US Team 53,bwray@youngliving.com,Brook Wray,1602388,1,
+2021/12/20,09:03:00,US Team 12,dlark@youngliving.com,Denise Lark,1598512,1,
+2021/12/20,09:03:18,US Team 12,dlark@youngliving.com,Denise Lark,1598525,1,
+2021/12/20,05:59:59,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1597359,1,
+2021/12/20,09:08:40,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1598468,1,
+2021/12/20,10:20:04,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1599044,1,
+2021/12/20,11:52:27,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1599834,1,
+2021/12/20,13:25:41,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1600733,1,
+2021/12/20,09:23:53,Diamond Support,icastro@youngliving.com,Ivannia Castro,1598718,1,
+2021/12/20,11:01:43,Diamond Support,icastro@youngliving.com,Ivannia Castro,1599547,1,
+2021/12/20,13:38:38,,jalvey@youngliving.com,Jessica Alvey,1600836,1,
+2021/12/20,08:26:15,Diamond Support,jewhite@youngliving.com,Jesse White,1598203,1,
+2021/12/20,12:28:13,Diamond Support,jewhite@youngliving.com,Jesse White,1600298,1,
+2021/12/20,14:26:03,Diamond Support,jewhite@youngliving.com,Jesse White,1601182,1,
+2021/12/20,05:59:08,Canada Filter,jgriffin@youngliving.com,Jason Griffin,1597377,1,
+2021/12/20,17:23:46,US Team 60,jmorey@youngliving.com,Joyce Morey,1601981,1,
+2021/12/20,12:07:19,US Team 61,joevans@youngliving.com,Josh Evans,1600037,1,
+2021/12/20,08:36:37,Canada Filter,jrobinson@youngliving.com,James Robinson,1598296,1,
+2021/12/20,13:03:45,US Team 03,krasmussen@youngliving.com,Keylee Rasmussen,1600560,1,
+2021/12/20,10:33:36,US Team 13,krichins@youngliving.com,Katherine Richins,1599131,1,No Disposition
+2021/12/20,08:59:39,,ktrejo@youngliving.com,Kiara Trejo,1598494,1,
+2021/12/20,14:23:27,US Team 10,lgarza@youngliving.com,Laila Garza,1601142,1,
+2021/12/20,08:34:55,US Team 61,mcartagena@youngliving.com,Madelin Cartegena,1598249,1,
+2021/12/20,08:57:36,US Team 61,mcartagena@youngliving.com,Madelin Cartegena,1598370,1,
+2021/12/20,09:32:19,US Team 61,mcartagena@youngliving.com,Madelin Cartegena,1598690,1,
+2021/12/20,09:04:01,US Team 22,nayudan@youngliving.com,Natasha Ayudan,1598438,1,No Answer or Response
+2021/12/20,10:45:37,Leadership Support,sbencomo@youngliving.com,Susie Bencomo,1599404,1,
+2021/12/20,11:39:04,US Team 13,sphillips@youngliving.com,Susan Phillips,1599709,1,
+2021/12/20,08:51:39,US M08,taanderson@youngliving.com,Taylor Anderson,1598415,1,
+2021/12/20,14:27:18,US Team 60,tmuagututia@youngliving.com,Tautaipaopao Muagututia,1601180,1,
+2021/12/20,06:47:17,US Team 03,toropeza@youngliving.com,Triscilla Oropeza,1597573,1,
+2021/12/20,10:26:25,US Team 12,twoodis@youngliving.com,Terrie Woodis,1599208,1,
+2021/12/20,11:44:26,Teleperformance,v-aedullantes@youngliving.com,Angelica Edullantes,1599771,1,No Answer or Response
+2021/12/20,12:17:20,Teleperformance,v-alicerio@youngliving.com,Angelo Licerio,1600156,1,No Answer or Response
+2021/12/20,11:54:42,Teleperformance,v-aobiso@youngliving.com,Arnold Obiso,1599883,1,No Answer or Response
+2021/12/20,11:06:12,4NDM,v-crazo@youngliving.com,Carlos Razo,1599570,1,
+2021/12/20,15:05:19,4NDM,v-crazo@youngliving.com,Carlos Razo,1601415,1,
+2021/12/20,11:53:03,Teleperformance,v-gsantuyo@youngliving.com,Genie Rose Santuyo,1599834,1,Payment Issue
+2021/12/20,11:16:54,Teleperformance,v-javillar@youngliving.com,Jacqueline Villar,1599507,1,
+2021/12/20,08:28:20,Teleperformance,v-jCorrea@youngliving.com,Jhuan Rainielle Correa,1598191,1,No Answer or Response
+2021/12/20,06:11:59,4NDM,v-lvillanueva@youngliving.com,Lisette Mariana Villanueva,1597422,1,
+2021/12/20,08:15:10,4NDM,v-lvillanueva@youngliving.com,Lisette Mariana Villanueva,1598112,1,
+2021/12/20,12:34:26,Buwelo,v-mforelo@youngliving.com,Michle Angelo Forelo,1600329,1,
+2021/12/20,13:44:50,Buwelo,v-mforelo@youngliving.com,Michle Angelo Forelo,1600877,1,
+2021/12/20,11:42:21,Teleperformance,v-mmalones@youngliving.com,Mary Rose Malones,1599734,1,No Answer or Response
+2021/12/20,11:09:40,4NDM,v-mmorales@youngliving.com,Marco Morales,1599599,1,
+2021/12/20,13:32:14,4NDM,v-mmorales@youngliving.com,Marco Morales,1600777,1,
+2021/12/20,13:46:35,4NDM,v-mmorales@youngliving.com,Marco Morales,1600892,1,
+2021/12/20,14:09:19,Buwelo Canada,v-rdangaran@youngliving.com,Rovie Dangaran,1601063,1,
+2021/12/20,18:20:46,4NDM,v-vnovia@youngliving.com,Valeria Berenice Gama Novia,1602175,1,

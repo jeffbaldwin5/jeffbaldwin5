@@ -1,0 +1,720 @@
+DATE,AGENT GROUP,AGENT EMAIL,LOGIN TIMESTAMP,LOGOUT TIMESTAMP,LOGIN TIME
+2021/12/29,,alax@youngliving.com,"Wed, 29 Dec 2021 07:17:46","Wed, 29 Dec 2021 09:50:24",02:32:38
+2021/12/29,,alax@youngliving.com,"Wed, 29 Dec 2021 10:16:08","Wed, 29 Dec 2021 15:31:55",05:15:47
+2021/12/29,,ashaw@youngliving.com,"Wed, 29 Dec 2021 07:56:21","Wed, 29 Dec 2021 14:44:08",06:47:47
+2021/12/29,,jalvey@youngliving.com,"Wed, 29 Dec 2021 13:08:31","Wed, 29 Dec 2021 13:59:59",00:51:28
+2021/12/29,,jalvey@youngliving.com,"Wed, 29 Dec 2021 14:06:43","Wed, 29 Dec 2021 22:18:44",08:12:01
+2021/12/29,,jesmith@youngliving.com,"Wed, 29 Dec 2021 08:56:17","Wed, 29 Dec 2021 09:14:48",00:18:31
+2021/12/29,,jesmith@youngliving.com,"Wed, 29 Dec 2021 09:17:00","Wed, 29 Dec 2021 09:21:04",00:04:04
+2021/12/29,,jesmith@youngliving.com,"Wed, 29 Dec 2021 13:03:25","Wed, 29 Dec 2021 21:49:07",08:45:42
+2021/12/29,,mbran@youngliving.com,"Wed, 29 Dec 2021 08:04:16","Wed, 29 Dec 2021 16:37:45",08:33:29
+2021/12/29,,mmaxwell@youngliving.com,"Wed, 29 Dec 2021 07:19:01","Wed, 29 Dec 2021 11:12:26",03:53:25
+2021/12/29,,mwhitlock@youngliving.com,"Wed, 29 Dec 2021 05:07:42","Wed, 29 Dec 2021 09:01:15",03:53:33
+2021/12/29,,mwhitlock@youngliving.com,"Wed, 29 Dec 2021 09:01:25","Wed, 29 Dec 2021 09:01:46",00:00:21
+2021/12/29,,mwhitlock@youngliving.com,"Wed, 29 Dec 2021 09:01:52","Wed, 29 Dec 2021 13:36:26",04:34:34
+2021/12/29,,srodiles@youngliving.com,"Wed, 29 Dec 2021 17:00:31","Wed, 29 Dec 2021 21:02:05",04:01:34
+2021/12/29,,v-franopa@youngliving.com,"Wed, 29 Dec 2021 06:29:41","Wed, 29 Dec 2021 11:52:46",05:23:05
+2021/12/29,,v-franopa@youngliving.com,"Wed, 29 Dec 2021 11:57:34","Wed, 29 Dec 2021 15:30:04",03:32:30
+2021/12/29,,v-gguerrero@youngliving.com,"Wed, 29 Dec 2021 08:19:46","Wed, 29 Dec 2021 17:22:05",09:02:19
+2021/12/29,4NDM,v-acorona@youngliving.com,"Wed, 29 Dec 2021 07:00:20","Wed, 29 Dec 2021 15:34:33",08:34:13
+2021/12/29,4NDM,v-alramos@youngliving.com,"Wed, 29 Dec 2021 12:31:20","Wed, 29 Dec 2021 21:02:10",08:30:50
+2021/12/29,4NDM,v-avsolis@youngliving.com,"Wed, 29 Dec 2021 04:51:03","Wed, 29 Dec 2021 09:06:12",04:15:09
+2021/12/29,4NDM,v-avsolis@youngliving.com,"Wed, 29 Dec 2021 09:06:12","Wed, 29 Dec 2021 13:31:07",04:24:55
+2021/12/29,4NDM,v-dgonzalez@youngliving.com,"Wed, 29 Dec 2021 11:28:43","Wed, 29 Dec 2021 20:04:15",08:35:33
+2021/12/29,4NDM,v-drenteria@youngliving.com,"Wed, 29 Dec 2021 09:25:54","Wed, 29 Dec 2021 18:00:12",08:34:18
+2021/12/29,4NDM,v-dsanchezmartinez@youngliving.com,"Wed, 29 Dec 2021 04:55:00","Wed, 29 Dec 2021 13:52:44",08:57:43
+2021/12/29,4NDM,v-gamartinez@youngliving.com,"Wed, 29 Dec 2021 12:26:13","Wed, 29 Dec 2021 21:01:17",08:35:04
+2021/12/29,4NDM,v-gplascencia@youngliving.com,"Wed, 29 Dec 2021 11:25:21","Wed, 29 Dec 2021 20:00:02",08:34:41
+2021/12/29,4NDM,v-gquezada@youngliving.com,"Wed, 29 Dec 2021 11:24:27","Wed, 29 Dec 2021 20:03:29",08:39:02
+2021/12/29,4NDM,v-herodriguez@youngliving.com,"Wed, 29 Dec 2021 06:02:33","Wed, 29 Dec 2021 14:30:39",08:28:07
+2021/12/29,4NDM,v-icanales@youngliving.com,"Wed, 29 Dec 2021 08:32:29","Wed, 29 Dec 2021 08:38:42",00:06:13
+2021/12/29,4NDM,v-icanales@youngliving.com,"Wed, 29 Dec 2021 08:53:58","Wed, 29 Dec 2021 16:30:49",07:36:51
+2021/12/29,4NDM,v-iorduna@youngliving.com,"Wed, 29 Dec 2021 09:25:57","Wed, 29 Dec 2021 18:00:10",08:34:14
+2021/12/29,4NDM,v-jalara@youngliving.com,"Wed, 29 Dec 2021 12:29:48","Wed, 29 Dec 2021 21:00:29",08:30:40
+2021/12/29,4NDM,v-janaya@youngliving.com,"Wed, 29 Dec 2021 05:06:42","Wed, 29 Dec 2021 13:49:24",08:42:42
+2021/12/29,4NDM,v-jmartinezcolin@youngliving.com,"Wed, 29 Dec 2021 06:53:43","Wed, 29 Dec 2021 06:54:40",00:00:57
+2021/12/29,4NDM,v-lchernandez@youngliving.com,"Wed, 29 Dec 2021 13:27:19","Wed, 29 Dec 2021 21:01:19",07:34:01
+2021/12/29,4NDM,v-lmoncada@youngliving.com,"Wed, 29 Dec 2021 12:26:28","Wed, 29 Dec 2021 21:00:33",08:34:05
+2021/12/29,4NDM,v-morodriguez@youngliving.com,"Wed, 29 Dec 2021 12:26:23","Wed, 29 Dec 2021 21:02:39",08:36:16
+2021/12/29,4NDM,v-omontfort@youngliving.com,"Wed, 29 Dec 2021 11:24:13","Wed, 29 Dec 2021 20:01:22",08:37:09
+2021/12/29,4NDM,v-rguerrero@youngliving.com,"Wed, 29 Dec 2021 05:02:39","Wed, 29 Dec 2021 13:34:20",08:31:41
+2021/12/29,4NDM,v-rsaldiernagar@youngliving.com,"Wed, 29 Dec 2021 08:14:34","Wed, 29 Dec 2021 15:26:42",07:12:08
+2021/12/29,4NDM,v-spasos@youngliving.com,"Wed, 29 Dec 2021 12:24:54","Wed, 29 Dec 2021 21:15:06",08:50:12
+2021/12/29,4NDM,v-vinocente@youngliving.com,"Wed, 29 Dec 2021 05:54:11","Wed, 29 Dec 2021 14:30:28",08:36:17
+2021/12/29,Buwelo,cprimavera@youngliving.com,"Wed, 29 Dec 2021 05:11:39","Wed, 29 Dec 2021 05:57:05",00:45:26
+2021/12/29,Buwelo,cprimavera@youngliving.com,"Wed, 29 Dec 2021 05:57:05","Wed, 29 Dec 2021 14:09:51",08:12:46
+2021/12/29,Buwelo,v-aatayan@youngliving.com,"Wed, 29 Dec 2021 05:06:48","Wed, 29 Dec 2021 14:02:39",08:55:51
+2021/12/29,Buwelo,v-acarlos@youngliving.com,"Wed, 29 Dec 2021 12:01:08","Wed, 29 Dec 2021 21:25:25",09:24:17
+2021/12/29,Buwelo,v-acrisostomo@youngliving.com,"Wed, 29 Dec 2021 12:10:24","Wed, 29 Dec 2021 21:02:17",08:51:52
+2021/12/29,Buwelo,v-acudesin@youngliving.com,"Wed, 29 Dec 2021 06:10:03","Wed, 29 Dec 2021 16:15:27",10:05:24
+2021/12/29,Buwelo,v-adiaz@youngliving.com,"Wed, 29 Dec 2021 05:05:25","Wed, 29 Dec 2021 14:40:40",09:35:15
+2021/12/29,Buwelo,v-adomangcas@youngliving.com,"Wed, 29 Dec 2021 12:04:22","Wed, 29 Dec 2021 21:02:18",08:57:56
+2021/12/29,Buwelo,v-adonaire@youngliving.com,"Wed, 29 Dec 2021 06:00:32","Wed, 29 Dec 2021 15:07:38",09:07:05
+2021/12/29,Buwelo,v-afantone@youngliving.com,"Wed, 29 Dec 2021 12:29:29","Wed, 29 Dec 2021 12:31:02",00:01:33
+2021/12/29,Buwelo,v-afantone@youngliving.com,"Wed, 29 Dec 2021 12:31:25","Wed, 29 Dec 2021 21:05:44",08:34:19
+2021/12/29,Buwelo,v-alazarito@youngliving.com,"Wed, 29 Dec 2021 05:06:38","Wed, 29 Dec 2021 14:01:26",08:54:48
+2021/12/29,Buwelo,v-amalit@youngliving.com,"Wed, 29 Dec 2021 07:45:26","Wed, 29 Dec 2021 17:13:54",09:28:28
+2021/12/29,Buwelo,v-amontallana@youngliving.com,"Wed, 29 Dec 2021 07:53:41","Wed, 29 Dec 2021 17:13:57",09:20:16
+2021/12/29,Buwelo,v-anantonio@youngliving.com,"Wed, 29 Dec 2021 12:04:15","Wed, 29 Dec 2021 21:29:38",09:25:23
+2021/12/29,Buwelo,v-anunag@youngliving.com,"Wed, 29 Dec 2021 06:01:40","Wed, 29 Dec 2021 15:02:20",09:00:40
+2021/12/29,Buwelo,v-anunag@youngliving.com,"Wed, 29 Dec 2021 15:02:37","Wed, 29 Dec 2021 15:04:19",00:01:42
+2021/12/29,Buwelo,v-apada@youngliving.com,"Wed, 29 Dec 2021 12:04:31","Wed, 29 Dec 2021 21:11:50",09:07:20
+2021/12/29,Buwelo,v-aroy@youngliving.com,"Wed, 29 Dec 2021 12:02:24","Wed, 29 Dec 2021 21:02:20",08:59:57
+2021/12/29,Buwelo,v-asusi@youngliving.com,"Wed, 29 Dec 2021 12:01:35","Wed, 29 Dec 2021 21:03:32",09:01:57
+2021/12/29,Buwelo,v-atelmo@youngliving.com,"Wed, 29 Dec 2021 06:18:54","Wed, 29 Dec 2021 06:19:41",00:00:47
+2021/12/29,Buwelo,v-atelmo@youngliving.com,"Wed, 29 Dec 2021 06:19:50","Wed, 29 Dec 2021 06:20:26",00:00:35
+2021/12/29,Buwelo,v-atelmo@youngliving.com,"Wed, 29 Dec 2021 06:20:52","Wed, 29 Dec 2021 06:22:12",00:01:21
+2021/12/29,Buwelo,v-atelmo@youngliving.com,"Wed, 29 Dec 2021 06:22:21","Wed, 29 Dec 2021 06:22:57",00:00:37
+2021/12/29,Buwelo,v-atelmo@youngliving.com,"Wed, 29 Dec 2021 06:23:06","Wed, 29 Dec 2021 16:25:06",10:02:00
+2021/12/29,Buwelo,v-ationgco@youngliving.com,"Wed, 29 Dec 2021 04:59:17","Wed, 29 Dec 2021 10:46:51",05:47:34
+2021/12/29,Buwelo,v-ationgco@youngliving.com,"Wed, 29 Dec 2021 10:54:58","Wed, 29 Dec 2021 14:03:15",03:08:17
+2021/12/29,Buwelo,v-atubino@youngliving.com,"Wed, 29 Dec 2021 06:04:56","Wed, 29 Dec 2021 17:24:29",11:19:33
+2021/12/29,Buwelo,v-avalete@youngliving.com,"Wed, 29 Dec 2021 05:26:53","Wed, 29 Dec 2021 05:27:10",00:00:18
+2021/12/29,Buwelo,v-avalete@youngliving.com,"Wed, 29 Dec 2021 05:27:11","Wed, 29 Dec 2021 14:00:19",08:33:08
+2021/12/29,Buwelo,v-blouie@youngliving.com,"Wed, 29 Dec 2021 06:19:50","Wed, 29 Dec 2021 15:07:31",08:47:41
+2021/12/29,Buwelo,v-breforada@youngliving.com,"Wed, 29 Dec 2021 05:00:53","Wed, 29 Dec 2021 14:01:46",09:00:52
+2021/12/29,Buwelo,v-calejaga@youngliving.com,"Wed, 29 Dec 2021 06:09:33","Wed, 29 Dec 2021 15:02:25",08:52:51
+2021/12/29,Buwelo,v-cbautista@youngliving.com,"Wed, 29 Dec 2021 12:03:52","Wed, 29 Dec 2021 13:59:31",01:55:38
+2021/12/29,Buwelo,v-cbautista@youngliving.com,"Wed, 29 Dec 2021 14:03:07","Wed, 29 Dec 2021 21:02:41",06:59:34
+2021/12/29,Buwelo,v-cbonan@youngliving.com,"Wed, 29 Dec 2021 05:14:34","Wed, 29 Dec 2021 14:01:35",08:47:01
+2021/12/29,Buwelo,v-ccristobal@youngliving.com,"Wed, 29 Dec 2021 12:09:12","Wed, 29 Dec 2021 21:30:06",09:20:54
+2021/12/29,Buwelo,v-cdinco@youngliving.com,"Wed, 29 Dec 2021 05:03:18","Wed, 29 Dec 2021 14:15:12",09:11:54
+2021/12/29,Buwelo,v-cestrada@youngliving.com,"Wed, 29 Dec 2021 06:02:09","Wed, 29 Dec 2021 15:01:31",08:59:22
+2021/12/29,Buwelo,v-cgarrido@youngliving.com,"Wed, 29 Dec 2021 06:02:16","Wed, 29 Dec 2021 15:29:59",09:27:43
+2021/12/29,Buwelo,v-cpansalin@youngliving.com,"Wed, 29 Dec 2021 05:00:51","Wed, 29 Dec 2021 14:02:46",09:01:54
+2021/12/29,Buwelo,v-crevilla@youngliving.com,"Wed, 29 Dec 2021 05:04:22","Wed, 29 Dec 2021 09:32:24",04:28:02
+2021/12/29,Buwelo,v-crevilla@youngliving.com,"Wed, 29 Dec 2021 10:00:23","Wed, 29 Dec 2021 14:05:30",04:05:07
+2021/12/29,Buwelo,v-csangalang@youngliving.com,"Wed, 29 Dec 2021 05:01:16","Wed, 29 Dec 2021 14:06:03",09:04:47
+2021/12/29,Buwelo,v-ctayobana@youngliving.com,"Wed, 29 Dec 2021 07:48:51","Wed, 29 Dec 2021 17:25:32",09:36:42
+2021/12/29,Buwelo,v-dmontelijao@youngliving.com,"Wed, 29 Dec 2021 05:00:40","Wed, 29 Dec 2021 14:01:34",09:00:54
+2021/12/29,Buwelo,v-eancaya@youngliving.com,"Wed, 29 Dec 2021 12:09:02","Wed, 29 Dec 2021 21:04:20",08:55:18
+2021/12/29,Buwelo,v-ebarilla@youngliving.com,"Wed, 29 Dec 2021 12:11:49","Wed, 29 Dec 2021 21:03:56",08:52:06
+2021/12/29,Buwelo,v-ecandare@youngliving.com,"Wed, 29 Dec 2021 04:56:51","Wed, 29 Dec 2021 13:51:53",08:55:02
+2021/12/29,Buwelo,v-edonaire@youngliving.com,"Wed, 29 Dec 2021 11:03:07","Wed, 29 Dec 2021 20:04:39",09:01:32
+2021/12/29,Buwelo,v-erico@youngliving.com,"Wed, 29 Dec 2021 15:06:52","Wed, 29 Dec 2021 21:36:44",06:29:52
+2021/12/29,Buwelo,v-fcolico@youngliving.com,"Wed, 29 Dec 2021 06:08:14","Wed, 29 Dec 2021 15:01:37",08:53:23
+2021/12/29,Buwelo,v-gbatuyong@youngliving.com,"Wed, 29 Dec 2021 10:52:30","Wed, 29 Dec 2021 21:00:22",10:07:52
+2021/12/29,Buwelo,v-geclarino@youngliving.com,"Wed, 29 Dec 2021 04:55:50","Wed, 29 Dec 2021 14:36:18",09:40:28
+2021/12/29,Buwelo,v-gedeza@youngliving.com,"Wed, 29 Dec 2021 12:09:39","Wed, 29 Dec 2021 21:07:59",08:58:20
+2021/12/29,Buwelo,v-gmalinao@youngliving.com,"Wed, 29 Dec 2021 12:04:51","Wed, 29 Dec 2021 21:05:15",09:00:24
+2021/12/29,Buwelo,v-hbalanag@youngliving.com,"Wed, 29 Dec 2021 12:13:55","Wed, 29 Dec 2021 21:10:59",08:57:04
+2021/12/29,Buwelo,v-hmonreal@youngliving.com,"Wed, 29 Dec 2021 06:05:40","Wed, 29 Dec 2021 15:07:05",09:01:26
+2021/12/29,Buwelo,v-icantimbuhan@youngliving.com,"Wed, 29 Dec 2021 06:14:36","Wed, 29 Dec 2021 15:19:29",09:04:53
+2021/12/29,Buwelo,v-imallari@youngliving.com,"Wed, 29 Dec 2021 04:54:41","Wed, 29 Dec 2021 14:00:02",09:05:21
+2021/12/29,Buwelo,v-jacson@youngliving.com,"Wed, 29 Dec 2021 05:05:09","Wed, 29 Dec 2021 14:14:26",09:09:17
+2021/12/29,Buwelo,v-jalip@youngliving.com,"Wed, 29 Dec 2021 06:00:44","Wed, 29 Dec 2021 16:05:18",10:04:34
+2021/12/29,Buwelo,v-jamendoza@youngliving.com,"Wed, 29 Dec 2021 12:08:16","Wed, 29 Dec 2021 21:35:17",09:27:01
+2021/12/29,Buwelo,v-jamlog@youngliving.com,"Wed, 29 Dec 2021 06:00:47","Wed, 29 Dec 2021 15:05:44",09:04:57
+2021/12/29,Buwelo,v-jbalmaceda@youngliving.com,"Wed, 29 Dec 2021 11:02:03","Wed, 29 Dec 2021 21:26:02",10:23:59
+2021/12/29,Buwelo,v-jbencio@youngliving.com,"Wed, 29 Dec 2021 04:55:46","Wed, 29 Dec 2021 14:01:12",09:05:27
+2021/12/29,Buwelo,v-jcuenca@youngliving.com,"Wed, 29 Dec 2021 12:02:53","Wed, 29 Dec 2021 21:41:03",09:38:10
+2021/12/29,Buwelo,v-jfernandez@youngliving.com,"Wed, 29 Dec 2021 11:02:55","Wed, 29 Dec 2021 20:17:44",09:14:49
+2021/12/29,Buwelo,v-jfredeluces@youngliving.com,"Wed, 29 Dec 2021 12:04:55","Wed, 29 Dec 2021 21:06:29",09:01:34
+2021/12/29,Buwelo,v-jgayacao@youngliving.com,"Wed, 29 Dec 2021 13:04:25","Wed, 29 Dec 2021 21:28:50",08:24:25
+2021/12/29,Buwelo,v-jgiba@youngliving.com,"Wed, 29 Dec 2021 05:11:18","Wed, 29 Dec 2021 14:01:56",08:50:38
+2021/12/29,Buwelo,v-jguinto@youngliving.com,"Wed, 29 Dec 2021 12:08:29","Wed, 29 Dec 2021 21:10:02",09:01:33
+2021/12/29,Buwelo,v-jhadley@youngliving.com,"Wed, 29 Dec 2021 05:03:29","Wed, 29 Dec 2021 15:07:45",10:04:16
+2021/12/29,Buwelo,v-jjosue@youngliving.com,"Wed, 29 Dec 2021 06:01:52","Wed, 29 Dec 2021 16:09:40",10:07:47
+2021/12/29,Buwelo,v-jmenor@youngliving.com,"Wed, 29 Dec 2021 05:59:53","Wed, 29 Dec 2021 15:07:03",09:07:10
+2021/12/29,Buwelo,v-jminas@youngliving.com,"Wed, 29 Dec 2021 04:59:18","Wed, 29 Dec 2021 14:12:26",09:13:08
+2021/12/29,Buwelo,v-jnavarro@youngliving.com,"Wed, 29 Dec 2021 06:04:55","Wed, 29 Dec 2021 15:20:19",09:15:25
+2021/12/29,Buwelo,v-jracion@youngliving.com,"Wed, 29 Dec 2021 11:58:30","Wed, 29 Dec 2021 11:58:56",00:00:26
+2021/12/29,Buwelo,v-jracion@youngliving.com,"Wed, 29 Dec 2021 12:01:49","Wed, 29 Dec 2021 21:07:28",09:05:39
+2021/12/29,Buwelo,v-jrogado@youngliving.com,"Wed, 29 Dec 2021 06:02:24","Wed, 29 Dec 2021 07:50:44",01:48:20
+2021/12/29,Buwelo,v-jrogado@youngliving.com,"Wed, 29 Dec 2021 08:58:34","Wed, 29 Dec 2021 14:02:56",05:04:22
+2021/12/29,Buwelo,v-jsantos@youngliving.com,"Wed, 29 Dec 2021 08:03:59","Wed, 29 Dec 2021 17:14:13",09:10:15
+2021/12/29,Buwelo,v-jtadeo@youngliving.com,"Wed, 29 Dec 2021 05:01:40","Wed, 29 Dec 2021 14:35:38",09:33:58
+2021/12/29,Buwelo,v-jtantay@youngliving.com,"Wed, 29 Dec 2021 05:03:11","Wed, 29 Dec 2021 14:06:41",09:03:30
+2021/12/29,Buwelo,v-jtaripe@youngliving.com,"Wed, 29 Dec 2021 05:16:31","Wed, 29 Dec 2021 14:01:54",08:45:22
+2021/12/29,Buwelo,v-kborja@youngliving.com,"Wed, 29 Dec 2021 05:08:15","Wed, 29 Dec 2021 14:02:08",08:53:53
+2021/12/29,Buwelo,v-kcorpuz@youngliving.com,"Wed, 29 Dec 2021 08:00:41","Wed, 29 Dec 2021 17:11:43",09:11:02
+2021/12/29,Buwelo,v-kmacapagal@youngliving.com,"Wed, 29 Dec 2021 11:02:49","Wed, 29 Dec 2021 20:01:56",08:59:07
+2021/12/29,Buwelo,v-ktalion@youngliving.com,"Wed, 29 Dec 2021 05:58:18","Wed, 29 Dec 2021 06:11:51",00:13:33
+2021/12/29,Buwelo,v-ktalion@youngliving.com,"Wed, 29 Dec 2021 06:22:48","Wed, 29 Dec 2021 06:32:44",00:09:55
+2021/12/29,Buwelo,v-ktalion@youngliving.com,"Wed, 29 Dec 2021 06:32:53","Wed, 29 Dec 2021 15:01:28",08:28:35
+2021/12/29,Buwelo,v-lbaeshen@youngliving.com,"Wed, 29 Dec 2021 05:06:53","Wed, 29 Dec 2021 14:01:27",08:54:34
+2021/12/29,Buwelo,v-lignacio@youngliving.com,"Wed, 29 Dec 2021 06:01:14","Wed, 29 Dec 2021 15:05:38",09:04:24
+2021/12/29,Buwelo,v-llazaro@youngliving.com,"Wed, 29 Dec 2021 06:01:54","Wed, 29 Dec 2021 16:12:42",10:10:48
+2021/12/29,Buwelo,v-ltejoc@youngliving.com,"Wed, 29 Dec 2021 05:18:50","Wed, 29 Dec 2021 14:12:16",08:53:26
+2021/12/29,Buwelo,v-lventurero@youngliving.com,"Wed, 29 Dec 2021 05:25:26","Wed, 29 Dec 2021 14:01:59",08:36:33
+2021/12/29,Buwelo,v-maarce@youngliving.com,"Wed, 29 Dec 2021 05:03:34","Wed, 29 Dec 2021 14:05:11",09:01:38
+2021/12/29,Buwelo,v-maboy@youngliving.com,"Wed, 29 Dec 2021 06:00:09","Wed, 29 Dec 2021 15:00:29",09:00:20
+2021/12/29,Buwelo,v-macaspac@youngliving.com,"Wed, 29 Dec 2021 05:02:24","Wed, 29 Dec 2021 14:02:02",08:59:38
+2021/12/29,Buwelo,v-mamolat@youngliving.com,"Wed, 29 Dec 2021 05:02:00","Wed, 29 Dec 2021 14:01:33",08:59:33
+2021/12/29,Buwelo,v-marce@youngliving.com,"Wed, 29 Dec 2021 07:55:18","Wed, 29 Dec 2021 17:14:37",09:19:19
+2021/12/29,Buwelo,v-mbada@youngliving.com,"Wed, 29 Dec 2021 04:51:33","Wed, 29 Dec 2021 14:02:41",09:11:08
+2021/12/29,Buwelo,v-mbartolome@youngliving.com,"Wed, 29 Dec 2021 12:03:45","Wed, 29 Dec 2021 21:03:49",09:00:04
+2021/12/29,Buwelo,v-mdrio@youngliving.com,"Wed, 29 Dec 2021 04:59:18","Wed, 29 Dec 2021 14:38:05",09:38:48
+2021/12/29,Buwelo,v-mestomago@youngliving.com,"Wed, 29 Dec 2021 05:18:31","Wed, 29 Dec 2021 14:15:17",08:56:46
+2021/12/29,Buwelo,v-mforelo@youngliving.com,"Wed, 29 Dec 2021 05:04:52","Wed, 29 Dec 2021 14:05:11",09:00:19
+2021/12/29,Buwelo,v-mgaberia@youngliving.com,"Wed, 29 Dec 2021 05:00:41","Wed, 29 Dec 2021 14:02:34",09:01:53
+2021/12/29,Buwelo,v-mgarcia@youngliving.com,"Wed, 29 Dec 2021 07:47:36","Wed, 29 Dec 2021 07:48:07",00:00:30
+2021/12/29,Buwelo,v-mgarcia@youngliving.com,"Wed, 29 Dec 2021 07:51:17","Wed, 29 Dec 2021 17:10:42",09:19:26
+2021/12/29,Buwelo,v-miaclan@youngliving.com,"Wed, 29 Dec 2021 15:05:47","Wed, 29 Dec 2021 15:08:09",00:02:22
+2021/12/29,Buwelo,v-miaclan@youngliving.com,"Wed, 29 Dec 2021 15:11:24","Wed, 29 Dec 2021 15:11:40",00:00:16
+2021/12/29,Buwelo,v-miaclan@youngliving.com,"Wed, 29 Dec 2021 15:12:10","Wed, 29 Dec 2021 15:15:22",00:03:13
+2021/12/29,Buwelo,v-miaclan@youngliving.com,"Wed, 29 Dec 2021 15:15:31","Wed, 29 Dec 2021 15:19:13",00:03:42
+2021/12/29,Buwelo,v-miaclan@youngliving.com,"Wed, 29 Dec 2021 15:19:23","Wed, 29 Dec 2021 15:22:48",00:03:24
+2021/12/29,Buwelo,v-miaclan@youngliving.com,"Wed, 29 Dec 2021 18:16:50","Wed, 29 Dec 2021 21:07:36",02:50:46
+2021/12/29,Buwelo,v-mjucutan@youngliving.com,"Wed, 29 Dec 2021 11:56:56","Wed, 29 Dec 2021 21:05:15",09:08:18
+2021/12/29,Buwelo,v-mmanglicmot@youngliving.com,"Wed, 29 Dec 2021 06:00:30","Wed, 29 Dec 2021 15:00:27",08:59:57
+2021/12/29,Buwelo,v-mpahayahay@youngliving.com,"Wed, 29 Dec 2021 05:08:28","Wed, 29 Dec 2021 14:01:35",08:53:07
+2021/12/29,Buwelo,v-msantos@youngliving.com,"Wed, 29 Dec 2021 04:37:14","Wed, 29 Dec 2021 14:03:17",09:26:04
+2021/12/29,Buwelo,v-mservidad@youngliving.com,"Wed, 29 Dec 2021 05:00:49","Wed, 29 Dec 2021 14:07:13",09:06:25
+2021/12/29,Buwelo,v-msubrio@youngliving.com,"Wed, 29 Dec 2021 05:05:27","Wed, 29 Dec 2021 05:56:33",00:51:07
+2021/12/29,Buwelo,v-msubrio@youngliving.com,"Wed, 29 Dec 2021 05:56:33","Wed, 29 Dec 2021 14:24:23",08:27:50
+2021/12/29,Buwelo,v-mtimbal@youngliving.com,"Wed, 29 Dec 2021 12:05:23","Wed, 29 Dec 2021 21:07:46",09:02:24
+2021/12/29,Buwelo,v-nacuna@youngliving.com,"Wed, 29 Dec 2021 15:06:28","Wed, 29 Dec 2021 21:09:07",06:02:38
+2021/12/29,Buwelo,v-nortega@youngliving.com,"Wed, 29 Dec 2021 05:58:13","Wed, 29 Dec 2021 15:02:19",09:04:05
+2021/12/29,Buwelo,v-pagacoscos@youngliving.com,"Wed, 29 Dec 2021 12:03:59","Wed, 29 Dec 2021 21:09:11",09:05:12
+2021/12/29,Buwelo,v-pbasa@youngliving.com,"Wed, 29 Dec 2021 06:00:25","Wed, 29 Dec 2021 15:16:41",09:16:16
+2021/12/29,Buwelo,v-pdumalasa@youngliving.com,"Wed, 29 Dec 2021 07:46:15","Wed, 29 Dec 2021 17:08:22",09:22:07
+2021/12/29,Buwelo,v-rasanas@youngliving.com,"Wed, 29 Dec 2021 05:14:45","Wed, 29 Dec 2021 14:02:19",08:47:33
+2021/12/29,Buwelo,v-rerese@youngliving.com,"Wed, 29 Dec 2021 04:59:00","Wed, 29 Dec 2021 14:02:28",09:03:28
+2021/12/29,Buwelo,v-rfelicidario@youngliving.com,"Wed, 29 Dec 2021 06:05:59","Wed, 29 Dec 2021 15:06:33",09:00:34
+2021/12/29,Buwelo,v-rfung@youngliving.com,"Wed, 29 Dec 2021 05:05:10","Wed, 29 Dec 2021 12:13:57",07:08:48
+2021/12/29,Buwelo,v-rhallare@youngliving.com,"Wed, 29 Dec 2021 12:22:58","Wed, 29 Dec 2021 21:27:45",09:04:46
+2021/12/29,Buwelo,v-rjbautista@youngliving.com,"Wed, 29 Dec 2021 04:59:00","Wed, 29 Dec 2021 14:10:22",09:11:22
+2021/12/29,Buwelo,v-rmata@youngliving.com,"Wed, 29 Dec 2021 12:00:12","Wed, 29 Dec 2021 21:02:14",09:02:03
+2021/12/29,Buwelo,v-rmendigorin@youngliving.com,"Wed, 29 Dec 2021 06:01:30","Wed, 29 Dec 2021 16:10:39",10:09:09
+2021/12/29,Buwelo,v-robautista@youngliving.com,"Wed, 29 Dec 2021 06:16:22","Wed, 29 Dec 2021 12:11:46",05:55:24
+2021/12/29,Buwelo,v-robautista@youngliving.com,"Wed, 29 Dec 2021 12:17:46","Wed, 29 Dec 2021 15:05:40",02:47:54
+2021/12/29,Buwelo,v-roenero@youngliving.com,"Wed, 29 Dec 2021 12:11:38","Wed, 29 Dec 2021 21:03:57",08:52:19
+2021/12/29,Buwelo,v-rrumeral@youngliving.com,"Wed, 29 Dec 2021 04:52:25","Wed, 29 Dec 2021 14:07:34",09:15:09
+2021/12/29,Buwelo,v-sanonat@youngliving.com,"Wed, 29 Dec 2021 12:00:10","Wed, 29 Dec 2021 21:00:08",08:59:58
+2021/12/29,Buwelo,v-sbuna@youngliving.com,"Wed, 29 Dec 2021 04:52:22","Wed, 29 Dec 2021 06:30:48",01:38:26
+2021/12/29,Buwelo,v-sbuna@youngliving.com,"Wed, 29 Dec 2021 06:35:29","Wed, 29 Dec 2021 07:35:26",00:59:56
+2021/12/29,Buwelo,v-sbuna@youngliving.com,"Wed, 29 Dec 2021 07:40:33","Wed, 29 Dec 2021 14:00:01",06:19:28
+2021/12/29,Buwelo,v-shizarsa@youngliving.com,"Wed, 29 Dec 2021 06:02:44","Wed, 29 Dec 2021 15:03:30",09:00:46
+2021/12/29,Buwelo,v-signacio@youngliving.com,"Wed, 29 Dec 2021 12:02:40","Wed, 29 Dec 2021 21:41:26",09:38:46
+2021/12/29,Buwelo,v-tsario@youngliving.com,"Wed, 29 Dec 2021 05:05:30","Wed, 29 Dec 2021 14:16:17",09:10:47
+2021/12/29,Buwelo,v-vcalumpang@youngliving.com,"Wed, 29 Dec 2021 06:01:29","Wed, 29 Dec 2021 06:10:46",00:09:17
+2021/12/29,Buwelo,v-vcalumpang@youngliving.com,"Wed, 29 Dec 2021 06:21:36","Wed, 29 Dec 2021 15:39:53",09:18:18
+2021/12/29,Buwelo,v-wsamson@youngliving.com,"Wed, 29 Dec 2021 12:04:56","Wed, 29 Dec 2021 21:02:41",08:57:45
+2021/12/29,Buwelo,v-ymapa@youngliving.com,"Wed, 29 Dec 2021 04:59:10","Wed, 29 Dec 2021 14:01:23",09:02:13
+2021/12/29,Buwelo,v-zmuyco@youngliving.com,"Wed, 29 Dec 2021 06:22:11","Wed, 29 Dec 2021 15:00:20",08:38:09
+2021/12/29,Buwelo Canada,v-acudesin@youngliving.com,"Wed, 29 Dec 2021 06:10:03","Wed, 29 Dec 2021 16:15:27",10:05:24
+2021/12/29,Buwelo Canada,v-amontales@youngliving.com,"Wed, 29 Dec 2021 05:05:04","Wed, 29 Dec 2021 14:00:47",08:55:43
+2021/12/29,Buwelo Canada,v-blouie@youngliving.com,"Wed, 29 Dec 2021 06:19:50","Wed, 29 Dec 2021 15:07:31",08:47:41
+2021/12/29,Buwelo Canada,v-caninag@youngliving.com,"Wed, 29 Dec 2021 12:00:15","Wed, 29 Dec 2021 21:02:16",09:02:01
+2021/12/29,Buwelo Canada,v-ccristobal@youngliving.com,"Wed, 29 Dec 2021 12:09:12","Wed, 29 Dec 2021 21:30:06",09:20:54
+2021/12/29,Buwelo Canada,v-gbatuyong@youngliving.com,"Wed, 29 Dec 2021 10:52:30","Wed, 29 Dec 2021 21:00:22",10:07:52
+2021/12/29,Buwelo Canada,v-geclarino@youngliving.com,"Wed, 29 Dec 2021 04:55:50","Wed, 29 Dec 2021 14:36:18",09:40:28
+2021/12/29,Buwelo Canada,v-jdeluna@youngliving.com,"Wed, 29 Dec 2021 12:03:31","Wed, 29 Dec 2021 21:02:07",08:58:37
+2021/12/29,Buwelo Canada,v-jroldan@youngliving.com,"Wed, 29 Dec 2021 12:00:46","Wed, 29 Dec 2021 21:41:09",09:40:23
+2021/12/29,Buwelo Canada,v-kbalagtas@youngliving.com,"Wed, 29 Dec 2021 06:15:34","Wed, 29 Dec 2021 15:07:00",08:51:26
+2021/12/29,Buwelo Canada,v-masilva@youngliving.com,"Wed, 29 Dec 2021 05:00:30","Wed, 29 Dec 2021 10:30:24",05:29:54
+2021/12/29,Buwelo Canada,v-masilva@youngliving.com,"Wed, 29 Dec 2021 10:36:57","Wed, 29 Dec 2021 14:00:21",03:23:24
+2021/12/29,Buwelo Canada,v-msantos@youngliving.com,"Wed, 29 Dec 2021 04:37:14","Wed, 29 Dec 2021 14:03:17",09:26:04
+2021/12/29,Buwelo Canada,v-msilva@youngliving.com,"Wed, 29 Dec 2021 04:55:38","Wed, 29 Dec 2021 14:05:04",09:09:26
+2021/12/29,Buwelo Canada,v-ngutierrez@youngliving.com,"Wed, 29 Dec 2021 15:04:08","Wed, 29 Dec 2021 21:04:56",06:00:47
+2021/12/29,Buwelo Canada,v-osantos@youngliving.com,"Wed, 29 Dec 2021 04:58:02","Wed, 29 Dec 2021 14:00:14",09:02:12
+2021/12/29,Buwelo Canada,v-rdangaran@youngliving.com,"Wed, 29 Dec 2021 12:09:48","Wed, 29 Dec 2021 21:03:41",08:53:53
+2021/12/29,Buwelo Canada,v-rhallare@youngliving.com,"Wed, 29 Dec 2021 12:22:58","Wed, 29 Dec 2021 21:27:45",09:04:46
+2021/12/29,Buwelo Canada,v-rpendos@youngliving.com,"Wed, 29 Dec 2021 12:15:55","Wed, 29 Dec 2021 21:02:20",08:46:25
+2021/12/29,Buwelo Canada,v-rramos@youngliving.com,"Wed, 29 Dec 2021 12:09:57","Wed, 29 Dec 2021 21:02:50",08:52:53
+2021/12/29,Buwelo Canada,v-rrumeral@youngliving.com,"Wed, 29 Dec 2021 04:52:25","Wed, 29 Dec 2021 14:07:34",09:15:09
+2021/12/29,Buwelo Training,v-abactad@youngliving.com,"Wed, 29 Dec 2021 07:55:44","Wed, 29 Dec 2021 17:14:03",09:18:19
+2021/12/29,Buwelo Training,v-amalit@youngliving.com,"Wed, 29 Dec 2021 07:45:26","Wed, 29 Dec 2021 17:13:54",09:28:28
+2021/12/29,Buwelo Training,v-amontallana@youngliving.com,"Wed, 29 Dec 2021 07:53:41","Wed, 29 Dec 2021 17:13:57",09:20:16
+2021/12/29,Buwelo Training,v-andelacruz@youngliving.com,"Wed, 29 Dec 2021 07:52:49","Wed, 29 Dec 2021 17:13:55",09:21:06
+2021/12/29,Buwelo Training,v-clacbayo@youngliving.com,"Wed, 29 Dec 2021 07:54:58","Wed, 29 Dec 2021 17:13:58",09:19:00
+2021/12/29,Buwelo Training,v-cpalmaria@youngliving.com,"Wed, 29 Dec 2021 07:54:19","Wed, 29 Dec 2021 17:14:09",09:19:51
+2021/12/29,Buwelo Training,v-cpascua@youngliving.com,"Wed, 29 Dec 2021 07:57:09","Wed, 29 Dec 2021 17:13:02",09:15:53
+2021/12/29,Buwelo Training,v-cyandan@youngliving.com,"Wed, 29 Dec 2021 07:50:51","Wed, 29 Dec 2021 15:21:54",07:31:03
+2021/12/29,Buwelo Training,v-cyandan@youngliving.com,"Wed, 29 Dec 2021 15:39:22","Wed, 29 Dec 2021 17:13:55",01:34:32
+2021/12/29,Buwelo Training,v-dmarzan@youngliving.com,"Wed, 29 Dec 2021 07:51:35","Wed, 29 Dec 2021 17:13:55",09:22:20
+2021/12/29,Buwelo Training,v-eedquiban@youngliving.com,"Wed, 29 Dec 2021 07:52:20","Wed, 29 Dec 2021 17:10:46",09:18:26
+2021/12/29,Buwelo Training,v-heclarinal@youngliving.com,"Wed, 29 Dec 2021 07:55:59","Wed, 29 Dec 2021 17:13:57",09:17:58
+2021/12/29,Buwelo Training,v-iegnisaban@youngliving.com,"Wed, 29 Dec 2021 07:50:53","Wed, 29 Dec 2021 17:13:56",09:23:03
+2021/12/29,Buwelo Training,v-jalagon@youngliving.com,"Wed, 29 Dec 2021 07:51:48","Wed, 29 Dec 2021 17:13:53",09:22:05
+2021/12/29,Buwelo Training,v-jarosario@youngliving.com,"Wed, 29 Dec 2021 07:50:47","Wed, 29 Dec 2021 17:13:59",09:23:12
+2021/12/29,Buwelo Training,v-jboniel@youngliving.com,"Wed, 29 Dec 2021 08:02:18","Wed, 29 Dec 2021 17:14:10",09:11:52
+2021/12/29,Buwelo Training,v-jcastrence@youngliving.com,"Wed, 29 Dec 2021 07:47:15","Wed, 29 Dec 2021 17:14:02",09:26:47
+2021/12/29,Buwelo Training,v-jeguzman@youngliving.com,"Wed, 29 Dec 2021 07:54:55","Wed, 29 Dec 2021 17:13:55",09:19:00
+2021/12/29,Buwelo Training,v-jogonzales@youngliving.com,"Wed, 29 Dec 2021 07:50:30","Wed, 29 Dec 2021 17:14:12",09:23:42
+2021/12/29,Buwelo Training,v-jpedlaoan@youngliving.com,"Wed, 29 Dec 2021 07:54:01","Wed, 29 Dec 2021 17:09:43",09:15:42
+2021/12/29,Buwelo Training,v-jsanangel@youngliving.com,"Wed, 29 Dec 2021 08:26:20","Wed, 29 Dec 2021 17:06:18",08:39:58
+2021/12/29,Buwelo Training,v-kabad@youngliving.com,"Wed, 29 Dec 2021 07:54:27","Wed, 29 Dec 2021 17:13:57",09:19:29
+2021/12/29,Buwelo Training,v-kalibasa@youngliving.com,"Wed, 29 Dec 2021 07:55:17","Wed, 29 Dec 2021 17:14:09",09:18:52
+2021/12/29,Buwelo Training,v-kpayumo@youngliving.com,"Wed, 29 Dec 2021 10:49:53","Wed, 29 Dec 2021 17:03:36",06:13:42
+2021/12/29,Buwelo Training,v-lbueno@youngliving.com,"Wed, 29 Dec 2021 07:45:57","Wed, 29 Dec 2021 08:26:56",00:41:00
+2021/12/29,Buwelo Training,v-lbueno@youngliving.com,"Wed, 29 Dec 2021 08:27:05","Wed, 29 Dec 2021 13:52:24",05:25:19
+2021/12/29,Buwelo Training,v-lbueno@youngliving.com,"Wed, 29 Dec 2021 13:55:23","Wed, 29 Dec 2021 17:14:00",03:18:37
+2021/12/29,Buwelo Training,v-mdiaz@youngliving.com,"Wed, 29 Dec 2021 07:55:03","Wed, 29 Dec 2021 17:13:56",09:18:54
+2021/12/29,Buwelo Training,v-mgarcia@youngliving.com,"Wed, 29 Dec 2021 07:47:36","Wed, 29 Dec 2021 07:48:07",00:00:30
+2021/12/29,Buwelo Training,v-mgarcia@youngliving.com,"Wed, 29 Dec 2021 07:51:17","Wed, 29 Dec 2021 17:10:42",09:19:26
+2021/12/29,Buwelo Training,v-mkinkito@youngliving.com,"Wed, 29 Dec 2021 07:53:49","Wed, 29 Dec 2021 17:13:56",09:20:07
+2021/12/29,Buwelo Training,v-myodico@youngliving.com,"Wed, 29 Dec 2021 07:51:25","Wed, 29 Dec 2021 17:14:00",09:22:35
+2021/12/29,Buwelo Training,v-raguirre@youngliving.com,"Wed, 29 Dec 2021 07:51:25","Wed, 29 Dec 2021 07:51:45",00:00:20
+2021/12/29,Buwelo Training,v-raguirre@youngliving.com,"Wed, 29 Dec 2021 07:54:14","Wed, 29 Dec 2021 07:54:22",00:00:08
+2021/12/29,Buwelo Training,v-raguirre@youngliving.com,"Wed, 29 Dec 2021 07:54:55","Wed, 29 Dec 2021 07:58:24",00:03:28
+2021/12/29,Buwelo Training,v-raguirre@youngliving.com,"Wed, 29 Dec 2021 08:03:22","Wed, 29 Dec 2021 17:13:48",09:10:27
+2021/12/29,Buwelo Training,v-rrabadon@youngliving.com,"Wed, 29 Dec 2021 07:56:16","Wed, 29 Dec 2021 17:13:57",09:17:41
+2021/12/29,Buwelo Training,v-rtacbas@youngliving.com,"Wed, 29 Dec 2021 07:37:58","Wed, 29 Dec 2021 17:14:01",09:36:03
+2021/12/29,Buwelo Training,v-smuyco@youngliving.com,"Wed, 29 Dec 2021 07:58:27","Wed, 29 Dec 2021 17:13:50",09:15:22
+2021/12/29,Buwelo Training,v-srejuso@youngliving.com,"Wed, 29 Dec 2021 07:44:52","Wed, 29 Dec 2021 17:14:00",09:29:07
+2021/12/29,Buwelo Training,v-tsantos@youngliving.com,"Wed, 29 Dec 2021 07:59:17","Wed, 29 Dec 2021 17:11:58",09:12:41
+2021/12/29,Buwelo Training,v-wyugto@youngliving.com,"Wed, 29 Dec 2021 07:52:29","Wed, 29 Dec 2021 15:56:41",08:04:12
+2021/12/29,Buwelo Training,v-wyugto@youngliving.com,"Wed, 29 Dec 2021 16:01:23","Wed, 29 Dec 2021 17:14:07",01:12:44
+2021/12/29,Canada Filter,abarron@youngliving.com,"Wed, 29 Dec 2021 05:01:46","Wed, 29 Dec 2021 10:30:05",05:28:19
+2021/12/29,Canada Filter,abarrows@youngliving.com,"Wed, 29 Dec 2021 08:03:06","Wed, 29 Dec 2021 12:37:58",04:34:52
+2021/12/29,Canada Filter,abarrows@youngliving.com,"Wed, 29 Dec 2021 12:37:58","Wed, 29 Dec 2021 16:37:04",03:59:06
+2021/12/29,Canada Filter,abellazetin@youngliving.com,"Wed, 29 Dec 2021 04:54:46","Wed, 29 Dec 2021 13:30:10",08:35:24
+2021/12/29,Canada Filter,brevoir@youngliving.com,"Wed, 29 Dec 2021 05:01:55","Wed, 29 Dec 2021 13:33:03",08:31:09
+2021/12/29,Canada Filter,ditaylor@youngliving.com,"Wed, 29 Dec 2021 05:01:00","Wed, 29 Dec 2021 13:35:44",08:34:43
+2021/12/29,Canada Filter,dliddiard@youngliving.com,"Wed, 29 Dec 2021 09:26:41","Wed, 29 Dec 2021 16:01:26",06:34:45
+2021/12/29,Canada Filter,fodiley@youngliving.com,"Wed, 29 Dec 2021 05:02:55","Wed, 29 Dec 2021 14:30:56",09:28:01
+2021/12/29,Canada Filter,gpack@youngliving.com,"Wed, 29 Dec 2021 08:47:16","Wed, 29 Dec 2021 14:36:29",05:49:13
+2021/12/29,Canada Filter,jcarver@youngliving.com,"Wed, 29 Dec 2021 11:29:28","Wed, 29 Dec 2021 13:12:46",01:43:18
+2021/12/29,Canada Filter,jcarver@youngliving.com,"Wed, 29 Dec 2021 14:12:48","Wed, 29 Dec 2021 20:18:54",06:06:06
+2021/12/29,Canada Filter,liguzman@youngliving.com,"Wed, 29 Dec 2021 06:57:47","Wed, 29 Dec 2021 15:31:24",08:33:37
+2021/12/29,Canada Filter,mdorton@youngliving.com,"Wed, 29 Dec 2021 05:00:13","Wed, 29 Dec 2021 12:37:35",07:37:22
+2021/12/29,Canada Filter,mdorton@youngliving.com,"Wed, 29 Dec 2021 12:37:35","Wed, 29 Dec 2021 14:10:10",01:32:36
+2021/12/29,Canada Filter,mhowells@youngliving.com,"Wed, 29 Dec 2021 05:01:02","Wed, 29 Dec 2021 09:49:36",04:48:34
+2021/12/29,Canada Filter,mhowells@youngliving.com,"Wed, 29 Dec 2021 09:49:56","Wed, 29 Dec 2021 09:50:10",00:00:13
+2021/12/29,Canada Filter,mhowells@youngliving.com,"Wed, 29 Dec 2021 09:50:18","Wed, 29 Dec 2021 10:54:20",01:04:02
+2021/12/29,Canada Filter,mhowells@youngliving.com,"Wed, 29 Dec 2021 10:56:05","Wed, 29 Dec 2021 13:58:38",03:02:33
+2021/12/29,Canada Filter,molsen@youngliving.com,"Wed, 29 Dec 2021 10:30:23","Wed, 29 Dec 2021 12:38:43",02:08:20
+2021/12/29,Canada Filter,molsen@youngliving.com,"Wed, 29 Dec 2021 12:38:43","Wed, 29 Dec 2021 16:00:50",03:22:07
+2021/12/29,Canada Filter,molsen@youngliving.com,"Wed, 29 Dec 2021 16:00:50","Wed, 29 Dec 2021 18:03:16",02:02:26
+2021/12/29,Canada Filter,molsen@youngliving.com,"Wed, 29 Dec 2021 18:03:16","Wed, 29 Dec 2021 21:01:01",02:57:44
+2021/12/29,Canada Filter,mprince@youngliving.com,"Wed, 29 Dec 2021 08:49:21","Wed, 29 Dec 2021 14:22:05",05:32:44
+2021/12/29,Canada Filter,rcarter@youngliving.com,"Wed, 29 Dec 2021 10:00:22","Wed, 29 Dec 2021 20:36:52",10:36:30
+2021/12/29,Canada Filter,sdunn@youngliving.com,"Wed, 29 Dec 2021 04:50:19","Wed, 29 Dec 2021 09:48:48",04:58:29
+2021/12/29,Canada Filter,sdunn@youngliving.com,"Wed, 29 Dec 2021 09:53:34","Wed, 29 Dec 2021 14:30:03",04:36:30
+2021/12/29,Canada Filter,sujohnson@youngliving.com,"Wed, 29 Dec 2021 05:59:42","Wed, 29 Dec 2021 11:02:08",05:02:26
+2021/12/29,Canada Filter,swagner@youngliving.com,"Wed, 29 Dec 2021 05:04:38","Wed, 29 Dec 2021 13:30:04",08:25:26
+2021/12/29,Canada Filter,tfano@youngliving.com,"Wed, 29 Dec 2021 11:58:46","Wed, 29 Dec 2021 21:48:59",09:50:12
+2021/12/29,Canada Filter,toropeza@youngliving.com,"Wed, 29 Dec 2021 05:32:09","Wed, 29 Dec 2021 09:30:30",03:58:21
+2021/12/29,Canada Filter,twoodis@youngliving.com,"Wed, 29 Dec 2021 07:34:16","Wed, 29 Dec 2021 16:00:29",08:26:13
+2021/12/29,Canada Filter,vstulce@youngliving.com,"Wed, 29 Dec 2021 05:00:21","Wed, 29 Dec 2021 08:59:30",03:59:09
+2021/12/29,Canada Filter,vstulce@youngliving.com,"Wed, 29 Dec 2021 09:01:10","Wed, 29 Dec 2021 12:35:34",03:34:23
+2021/12/29,Canada Filter,vstulce@youngliving.com,"Wed, 29 Dec 2021 12:35:34","Wed, 29 Dec 2021 13:31:45",00:56:11
+2021/12/29,Canada Filter,wmyrup@youngliving.com,"Wed, 29 Dec 2021 05:28:40","Wed, 29 Dec 2021 12:16:07",06:47:27
+2021/12/29,Canada Filter,yaragon@youngliving.com,"Wed, 29 Dec 2021 06:54:48","Wed, 29 Dec 2021 15:28:39",08:33:51
+2021/12/29,Diamond Support,jahebert@youngliving.com,"Wed, 29 Dec 2021 07:31:37","Wed, 29 Dec 2021 15:30:48",07:59:10
+2021/12/29,Diamond Support,jewhite@youngliving.com,"Wed, 29 Dec 2021 06:16:46","Wed, 29 Dec 2021 14:29:17",08:12:30
+2021/12/29,Diamond Support,ntravis@youngliving.com,"Wed, 29 Dec 2021 06:54:34","Wed, 29 Dec 2021 15:52:34",08:58:00
+2021/12/29,Diamond Support,sagonzalez@youngliving.com,"Wed, 29 Dec 2021 08:38:33","Wed, 29 Dec 2021 16:38:46",08:00:13
+2021/12/29,Diamond Support,shlarson@youngliving.com,"Wed, 29 Dec 2021 09:58:39","Wed, 29 Dec 2021 17:00:16",07:01:37
+2021/12/29,Diamond Support,sulrich@youngliving.com,"Wed, 29 Dec 2021 07:32:00","Wed, 29 Dec 2021 12:45:26",05:13:25
+2021/12/29,Diamond Support,sulrich@youngliving.com,"Wed, 29 Dec 2021 13:10:32","Wed, 29 Dec 2021 16:42:44",03:32:12
+2021/12/29,Diamond Support,trichins@youngliving.com,"Wed, 29 Dec 2021 07:59:54","Wed, 29 Dec 2021 16:53:09",08:53:15
+2021/12/29,Leadership Support,aadams@youngliving.com,"Wed, 29 Dec 2021 09:29:23","Wed, 29 Dec 2021 09:29:39",00:00:16
+2021/12/29,Leadership Support,aadams@youngliving.com,"Wed, 29 Dec 2021 09:29:54","Wed, 29 Dec 2021 09:30:25",00:00:31
+2021/12/29,Leadership Support,aadams@youngliving.com,"Wed, 29 Dec 2021 09:30:32","Wed, 29 Dec 2021 18:20:31",08:49:59
+2021/12/29,Leadership Support,alavila@youngliving.com,"Wed, 29 Dec 2021 09:29:34","Wed, 29 Dec 2021 18:01:07",08:31:33
+2021/12/29,Leadership Support,aloera@youngliving.com,"Wed, 29 Dec 2021 13:28:03","Wed, 29 Dec 2021 21:00:36",07:32:33
+2021/12/29,Leadership Support,bgastelum@youngliving.com,"Wed, 29 Dec 2021 06:00:49","Wed, 29 Dec 2021 14:38:43",08:37:53
+2021/12/29,Leadership Support,dbradshaw@youngliving.com,"Wed, 29 Dec 2021 15:59:35","Wed, 29 Dec 2021 16:18:57",00:19:21
+2021/12/29,Leadership Support,dhilton@youngliving.com,"Wed, 29 Dec 2021 09:31:37","Wed, 29 Dec 2021 18:01:05",08:29:28
+2021/12/29,Leadership Support,hlopez@youngliving.com,"Wed, 29 Dec 2021 06:00:54","Wed, 29 Dec 2021 14:35:30",08:34:36
+2021/12/29,Leadership Support,hlopez@youngliving.com,"Wed, 29 Dec 2021 14:52:11","Wed, 29 Dec 2021 14:55:57",00:03:47
+2021/12/29,Leadership Support,lshepherd@youngliving.com,"Wed, 29 Dec 2021 06:00:32","Wed, 29 Dec 2021 14:31:58",08:31:26
+2021/12/29,Leadership Support,muribe@youngliving.com,"Wed, 29 Dec 2021 05:56:40","Wed, 29 Dec 2021 16:05:41",10:09:01
+2021/12/29,Leadership Support,nledezma@youngliving.com,"Wed, 29 Dec 2021 09:27:43","Wed, 29 Dec 2021 18:01:44",08:34:01
+2021/12/29,Leadership Support,nramos@youngliving.com,"Wed, 29 Dec 2021 11:26:42","Wed, 29 Dec 2021 18:01:48",06:35:06
+2021/12/29,Leadership Support,prawlins@youngliving.com,"Wed, 29 Dec 2021 06:00:35","Wed, 29 Dec 2021 14:30:39",08:30:05
+2021/12/29,Leadership Support,sbencomo@youngliving.com,"Wed, 29 Dec 2021 06:01:59","Wed, 29 Dec 2021 14:30:49",08:28:50
+2021/12/29,Leadership Support,sbentsen@youngliving.com,"Wed, 29 Dec 2021 06:59:32","Wed, 29 Dec 2021 15:34:42",08:35:10
+2021/12/29,Leadership Support,schavez@youngliving.com,"Wed, 29 Dec 2021 06:01:19","Wed, 29 Dec 2021 09:07:24",03:06:04
+2021/12/29,Leadership Support,schavez@youngliving.com,"Wed, 29 Dec 2021 09:43:29","Wed, 29 Dec 2021 14:37:28",04:53:59
+2021/12/29,Leadership Support,sroberts@youngliving.com,"Wed, 29 Dec 2021 06:00:36","Wed, 29 Dec 2021 14:43:03",08:42:27
+2021/12/29,Leadership Support,sypeterson@youngliving.com,"Wed, 29 Dec 2021 09:36:16","Wed, 29 Dec 2021 18:01:13",08:24:56
+2021/12/29,Tech Free Filter,abarron@youngliving.com,"Wed, 29 Dec 2021 05:01:46","Wed, 29 Dec 2021 10:30:05",05:28:19
+2021/12/29,Tech Free Filter,abarrows@youngliving.com,"Wed, 29 Dec 2021 08:03:06","Wed, 29 Dec 2021 12:37:58",04:34:52
+2021/12/29,Tech Free Filter,abarrows@youngliving.com,"Wed, 29 Dec 2021 12:37:58","Wed, 29 Dec 2021 16:37:04",03:59:06
+2021/12/29,Tech Free Filter,abellazetin@youngliving.com,"Wed, 29 Dec 2021 04:54:46","Wed, 29 Dec 2021 13:30:10",08:35:24
+2021/12/29,Tech Free Filter,brevoir@youngliving.com,"Wed, 29 Dec 2021 05:01:55","Wed, 29 Dec 2021 13:33:03",08:31:09
+2021/12/29,Tech Free Filter,ditaylor@youngliving.com,"Wed, 29 Dec 2021 05:01:00","Wed, 29 Dec 2021 13:35:44",08:34:43
+2021/12/29,Tech Free Filter,dliddiard@youngliving.com,"Wed, 29 Dec 2021 09:26:41","Wed, 29 Dec 2021 16:01:26",06:34:45
+2021/12/29,Tech Free Filter,fodiley@youngliving.com,"Wed, 29 Dec 2021 05:02:55","Wed, 29 Dec 2021 14:30:56",09:28:01
+2021/12/29,Tech Free Filter,gpack@youngliving.com,"Wed, 29 Dec 2021 08:47:16","Wed, 29 Dec 2021 14:36:29",05:49:13
+2021/12/29,Tech Free Filter,jcarver@youngliving.com,"Wed, 29 Dec 2021 11:29:28","Wed, 29 Dec 2021 13:12:46",01:43:18
+2021/12/29,Tech Free Filter,jcarver@youngliving.com,"Wed, 29 Dec 2021 14:12:48","Wed, 29 Dec 2021 20:18:54",06:06:06
+2021/12/29,Tech Free Filter,liguzman@youngliving.com,"Wed, 29 Dec 2021 06:57:47","Wed, 29 Dec 2021 15:31:24",08:33:37
+2021/12/29,Tech Free Filter,mdorton@youngliving.com,"Wed, 29 Dec 2021 05:00:13","Wed, 29 Dec 2021 12:37:35",07:37:22
+2021/12/29,Tech Free Filter,mdorton@youngliving.com,"Wed, 29 Dec 2021 12:37:35","Wed, 29 Dec 2021 14:10:10",01:32:36
+2021/12/29,Tech Free Filter,mhowells@youngliving.com,"Wed, 29 Dec 2021 05:01:02","Wed, 29 Dec 2021 09:49:36",04:48:34
+2021/12/29,Tech Free Filter,mhowells@youngliving.com,"Wed, 29 Dec 2021 09:49:56","Wed, 29 Dec 2021 09:50:10",00:00:13
+2021/12/29,Tech Free Filter,mhowells@youngliving.com,"Wed, 29 Dec 2021 09:50:18","Wed, 29 Dec 2021 10:54:20",01:04:02
+2021/12/29,Tech Free Filter,mhowells@youngliving.com,"Wed, 29 Dec 2021 10:56:05","Wed, 29 Dec 2021 13:58:38",03:02:33
+2021/12/29,Tech Free Filter,molsen@youngliving.com,"Wed, 29 Dec 2021 10:30:23","Wed, 29 Dec 2021 12:38:43",02:08:20
+2021/12/29,Tech Free Filter,molsen@youngliving.com,"Wed, 29 Dec 2021 12:38:43","Wed, 29 Dec 2021 16:00:50",03:22:07
+2021/12/29,Tech Free Filter,molsen@youngliving.com,"Wed, 29 Dec 2021 16:00:50","Wed, 29 Dec 2021 18:03:16",02:02:26
+2021/12/29,Tech Free Filter,molsen@youngliving.com,"Wed, 29 Dec 2021 18:03:16","Wed, 29 Dec 2021 21:01:01",02:57:44
+2021/12/29,Tech Free Filter,mprince@youngliving.com,"Wed, 29 Dec 2021 08:49:21","Wed, 29 Dec 2021 14:22:05",05:32:44
+2021/12/29,Tech Free Filter,rcarter@youngliving.com,"Wed, 29 Dec 2021 10:00:22","Wed, 29 Dec 2021 20:36:52",10:36:30
+2021/12/29,Tech Free Filter,sdunn@youngliving.com,"Wed, 29 Dec 2021 04:50:19","Wed, 29 Dec 2021 09:48:48",04:58:29
+2021/12/29,Tech Free Filter,sdunn@youngliving.com,"Wed, 29 Dec 2021 09:53:34","Wed, 29 Dec 2021 14:30:03",04:36:30
+2021/12/29,Tech Free Filter,sujohnson@youngliving.com,"Wed, 29 Dec 2021 05:59:42","Wed, 29 Dec 2021 11:02:08",05:02:26
+2021/12/29,Tech Free Filter,swagner@youngliving.com,"Wed, 29 Dec 2021 05:04:38","Wed, 29 Dec 2021 13:30:04",08:25:26
+2021/12/29,Tech Free Filter,tfano@youngliving.com,"Wed, 29 Dec 2021 11:58:46","Wed, 29 Dec 2021 21:48:59",09:50:12
+2021/12/29,Tech Free Filter,toropeza@youngliving.com,"Wed, 29 Dec 2021 05:32:09","Wed, 29 Dec 2021 09:30:30",03:58:21
+2021/12/29,Tech Free Filter,twoodis@youngliving.com,"Wed, 29 Dec 2021 07:34:16","Wed, 29 Dec 2021 16:00:29",08:26:13
+2021/12/29,Tech Free Filter,vstulce@youngliving.com,"Wed, 29 Dec 2021 05:00:21","Wed, 29 Dec 2021 08:59:30",03:59:09
+2021/12/29,Tech Free Filter,vstulce@youngliving.com,"Wed, 29 Dec 2021 09:01:10","Wed, 29 Dec 2021 12:35:34",03:34:23
+2021/12/29,Tech Free Filter,vstulce@youngliving.com,"Wed, 29 Dec 2021 12:35:34","Wed, 29 Dec 2021 13:31:45",00:56:11
+2021/12/29,Tech Free Filter,wmyrup@youngliving.com,"Wed, 29 Dec 2021 05:28:40","Wed, 29 Dec 2021 12:16:07",06:47:27
+2021/12/29,Tech Free Filter,yaragon@youngliving.com,"Wed, 29 Dec 2021 06:54:48","Wed, 29 Dec 2021 15:28:39",08:33:51
+2021/12/29,Teleperformance,v-abaribar@youngliving.com,"Wed, 29 Dec 2021 12:43:09","Wed, 29 Dec 2021 21:30:26",08:47:17
+2021/12/29,Teleperformance,v-ablanco@youngliving.com,"Wed, 29 Dec 2021 09:31:50","Wed, 29 Dec 2021 11:47:48",02:15:58
+2021/12/29,Teleperformance,v-ablanco@youngliving.com,"Wed, 29 Dec 2021 11:58:26","Wed, 29 Dec 2021 14:40:48",02:42:21
+2021/12/29,Teleperformance,v-ablanco@youngliving.com,"Wed, 29 Dec 2021 14:55:14","Wed, 29 Dec 2021 17:03:49",02:08:35
+2021/12/29,Teleperformance,v-ablanco@youngliving.com,"Wed, 29 Dec 2021 17:12:25","Wed, 29 Dec 2021 18:44:14",01:31:49
+2021/12/29,Teleperformance,v-ajavellana@youngliving.com,"Wed, 29 Dec 2021 07:42:35","Wed, 29 Dec 2021 16:00:14",08:17:39
+2021/12/29,Teleperformance,v-algarcia@youngliving.com,"Wed, 29 Dec 2021 12:01:53","Wed, 29 Dec 2021 14:34:26",02:32:33
+2021/12/29,Teleperformance,v-algarcia@youngliving.com,"Wed, 29 Dec 2021 15:52:50","Wed, 29 Dec 2021 21:03:00",05:10:10
+2021/12/29,Teleperformance,v-annova@youngliving.com,"Wed, 29 Dec 2021 11:52:15","Wed, 29 Dec 2021 20:30:34",08:38:19
+2021/12/29,Teleperformance,v-aobiso@youngliving.com,"Wed, 29 Dec 2021 07:00:27","Wed, 29 Dec 2021 15:59:13",08:58:46
+2021/12/29,Teleperformance,v-arncruz@youngliving.com,"Wed, 29 Dec 2021 12:45:24","Wed, 29 Dec 2021 12:47:19",00:01:55
+2021/12/29,Teleperformance,v-arncruz@youngliving.com,"Wed, 29 Dec 2021 12:47:38","Wed, 29 Dec 2021 21:05:00",08:17:22
+2021/12/29,Teleperformance,v-arobles@youngliving.com,"Wed, 29 Dec 2021 07:57:31","Wed, 29 Dec 2021 17:02:21",09:04:50
+2021/12/29,Teleperformance,v-arosil@youngliving.com,"Wed, 29 Dec 2021 11:56:39","Wed, 29 Dec 2021 21:02:01",09:05:22
+2021/12/29,Teleperformance,v-asantos@youngliving.com,"Wed, 29 Dec 2021 08:07:35","Wed, 29 Dec 2021 08:56:30",00:48:55
+2021/12/29,Teleperformance,v-asantos@youngliving.com,"Wed, 29 Dec 2021 09:12:58","Wed, 29 Dec 2021 11:05:23",01:52:25
+2021/12/29,Teleperformance,v-asantos@youngliving.com,"Wed, 29 Dec 2021 11:14:42","Wed, 29 Dec 2021 12:01:10",00:46:28
+2021/12/29,Teleperformance,v-asantos@youngliving.com,"Wed, 29 Dec 2021 12:09:08","Wed, 29 Dec 2021 13:10:37",01:01:29
+2021/12/29,Teleperformance,v-asantos@youngliving.com,"Wed, 29 Dec 2021 13:12:33","Wed, 29 Dec 2021 15:00:01",01:47:27
+2021/12/29,Teleperformance,v-asantos@youngliving.com,"Wed, 29 Dec 2021 15:07:53","Wed, 29 Dec 2021 17:00:08",01:52:15
+2021/12/29,Teleperformance,v-bgarillo@youngliving.com,"Wed, 29 Dec 2021 07:01:14","Wed, 29 Dec 2021 16:45:46",09:44:32
+2021/12/29,Teleperformance,v-ccarlos@youngliving.com,"Wed, 29 Dec 2021 11:57:03","Wed, 29 Dec 2021 21:02:01",09:04:58
+2021/12/29,Teleperformance,v-dchan@youngliving.com,"Wed, 29 Dec 2021 11:29:51","Wed, 29 Dec 2021 11:52:30",00:22:39
+2021/12/29,Teleperformance,v-dchan@youngliving.com,"Wed, 29 Dec 2021 13:24:09","Wed, 29 Dec 2021 14:25:31",01:01:22
+2021/12/29,Teleperformance,v-dchan@youngliving.com,"Wed, 29 Dec 2021 16:38:49","Wed, 29 Dec 2021 18:59:30",02:20:41
+2021/12/29,Teleperformance,v-dchan@youngliving.com,"Wed, 29 Dec 2021 19:16:49","Wed, 29 Dec 2021 20:11:30",00:54:41
+2021/12/29,Teleperformance,v-dcostas@youngliving.com,"Wed, 29 Dec 2021 09:30:15","Wed, 29 Dec 2021 18:41:45",09:11:30
+2021/12/29,Teleperformance,v-dmabasa@youngliving.com,"Wed, 29 Dec 2021 07:01:10","Wed, 29 Dec 2021 16:08:10",09:07:00
+2021/12/29,Teleperformance,v-eboron@youngliving.com,"Wed, 29 Dec 2021 10:59:17","Wed, 29 Dec 2021 18:39:12",07:39:55
+2021/12/29,Teleperformance,v-eboron@youngliving.com,"Wed, 29 Dec 2021 18:50:05","Wed, 29 Dec 2021 20:15:40",01:25:35
+2021/12/29,Teleperformance,v-ehermosa@youngliving.com,"Wed, 29 Dec 2021 05:44:41","Wed, 29 Dec 2021 12:29:59",06:45:18
+2021/12/29,Teleperformance,v-ehermosa@youngliving.com,"Wed, 29 Dec 2021 12:52:37","Wed, 29 Dec 2021 14:54:00",02:01:23
+2021/12/29,Teleperformance,v-ehermosa@youngliving.com,"Wed, 29 Dec 2021 14:59:17","Wed, 29 Dec 2021 16:02:53",01:03:36
+2021/12/29,Teleperformance,v-ehermosa@youngliving.com,"Wed, 29 Dec 2021 16:07:43","Wed, 29 Dec 2021 17:36:12",01:28:29
+2021/12/29,Teleperformance,v-evelasco@youngliving.com,"Wed, 29 Dec 2021 11:55:25","Wed, 29 Dec 2021 21:08:36",09:13:11
+2021/12/29,Teleperformance,v-fibanez@youngliving.com,"Wed, 29 Dec 2021 11:25:44","Wed, 29 Dec 2021 12:36:27",01:10:43
+2021/12/29,Teleperformance,v-fibanez@youngliving.com,"Wed, 29 Dec 2021 18:24:47","Wed, 29 Dec 2021 20:30:35",02:05:48
+2021/12/29,Teleperformance,v-fismael@youngliving.com,"Wed, 29 Dec 2021 07:00:36","Wed, 29 Dec 2021 16:00:49",09:00:13
+2021/12/29,Teleperformance,v-fmariwa@youngliving.com,"Wed, 29 Dec 2021 05:43:35","Wed, 29 Dec 2021 12:05:28",06:21:53
+2021/12/29,Teleperformance,v-fmariwa@youngliving.com,"Wed, 29 Dec 2021 12:20:44","Wed, 29 Dec 2021 12:21:03",00:00:18
+2021/12/29,Teleperformance,v-fmariwa@youngliving.com,"Wed, 29 Dec 2021 12:48:08","Wed, 29 Dec 2021 15:23:43",02:35:35
+2021/12/29,Teleperformance,v-ggupong@youngliving.com,"Wed, 29 Dec 2021 05:38:51","Wed, 29 Dec 2021 05:39:23",00:00:32
+2021/12/29,Teleperformance,v-ggupong@youngliving.com,"Wed, 29 Dec 2021 05:39:37","Wed, 29 Dec 2021 06:09:36",00:29:59
+2021/12/29,Teleperformance,v-ggupong@youngliving.com,"Wed, 29 Dec 2021 06:50:34","Wed, 29 Dec 2021 06:50:54",00:00:20
+2021/12/29,Teleperformance,v-ggupong@youngliving.com,"Wed, 29 Dec 2021 06:51:33","Wed, 29 Dec 2021 08:07:39",01:16:06
+2021/12/29,Teleperformance,v-ggupong@youngliving.com,"Wed, 29 Dec 2021 08:07:53","Wed, 29 Dec 2021 15:05:46",06:57:52
+2021/12/29,Teleperformance,v-ggupong@youngliving.com,"Wed, 29 Dec 2021 15:38:45","Wed, 29 Dec 2021 16:38:34",00:59:50
+2021/12/29,Teleperformance,v-ggupong@youngliving.com,"Wed, 29 Dec 2021 16:51:04","Wed, 29 Dec 2021 17:25:21",00:34:16
+2021/12/29,Teleperformance,v-gsantuyo@youngliving.com,"Wed, 29 Dec 2021 05:38:35","Wed, 29 Dec 2021 14:56:39",09:18:04
+2021/12/29,Teleperformance,v-hagbisit@youngliving.com,"Wed, 29 Dec 2021 05:50:18","Wed, 29 Dec 2021 10:44:32",04:54:14
+2021/12/29,Teleperformance,v-hagbisit@youngliving.com,"Wed, 29 Dec 2021 10:52:42","Wed, 29 Dec 2021 12:29:25",01:36:43
+2021/12/29,Teleperformance,v-hagbisit@youngliving.com,"Wed, 29 Dec 2021 12:33:53","Wed, 29 Dec 2021 15:33:30",02:59:37
+2021/12/29,Teleperformance,v-hagbisit@youngliving.com,"Wed, 29 Dec 2021 15:50:41","Wed, 29 Dec 2021 16:05:46",00:15:05
+2021/12/29,Teleperformance,v-hagbisit@youngliving.com,"Wed, 29 Dec 2021 16:06:46","Wed, 29 Dec 2021 18:00:22",01:53:36
+2021/12/29,Teleperformance,v-hJumarang@youngliving.com,"Wed, 29 Dec 2021 11:15:15","Wed, 29 Dec 2021 17:03:49",05:48:34
+2021/12/29,Teleperformance,v-hJumarang@youngliving.com,"Wed, 29 Dec 2021 17:15:23","Wed, 29 Dec 2021 20:00:03",02:44:40
+2021/12/29,Teleperformance,v-jCorrea@youngliving.com,"Wed, 29 Dec 2021 07:23:09","Wed, 29 Dec 2021 16:06:05",08:42:56
+2021/12/29,Teleperformance,v-jguevarra@youngliving.com,"Wed, 29 Dec 2021 06:59:32","Wed, 29 Dec 2021 09:28:24",02:28:52
+2021/12/29,Teleperformance,v-jguevarra@youngliving.com,"Wed, 29 Dec 2021 09:38:42","Wed, 29 Dec 2021 16:00:45",06:22:03
+2021/12/29,Teleperformance,v-jlomibao@youngliving.com,"Wed, 29 Dec 2021 12:45:28","Wed, 29 Dec 2021 21:08:16",08:22:48
+2021/12/29,Teleperformance,v-jmisa@youngliving.com,"Wed, 29 Dec 2021 07:17:50","Wed, 29 Dec 2021 16:03:10",08:45:19
+2021/12/29,Teleperformance,v-jmondejar@youngliving.com,"Wed, 29 Dec 2021 07:12:05","Wed, 29 Dec 2021 16:00:04",08:47:59
+2021/12/29,Teleperformance,v-jrecto@youngliving.com,"Wed, 29 Dec 2021 06:32:31","Wed, 29 Dec 2021 13:15:52",06:43:21
+2021/12/29,Teleperformance,v-jrecto@youngliving.com,"Wed, 29 Dec 2021 13:18:12","Wed, 29 Dec 2021 14:08:51",00:50:39
+2021/12/29,Teleperformance,v-jTesorero@youngliving.com,"Wed, 29 Dec 2021 11:19:11","Wed, 29 Dec 2021 13:44:31",02:25:21
+2021/12/29,Teleperformance,v-jTesorero@youngliving.com,"Wed, 29 Dec 2021 13:50:27","Wed, 29 Dec 2021 14:02:42",00:12:15
+2021/12/29,Teleperformance,v-jTesorero@youngliving.com,"Wed, 29 Dec 2021 14:07:22","Wed, 29 Dec 2021 14:08:41",00:01:19
+2021/12/29,Teleperformance,v-jTesorero@youngliving.com,"Wed, 29 Dec 2021 14:15:09","Wed, 29 Dec 2021 20:00:06",05:44:57
+2021/12/29,Teleperformance,v-jurgelles@youngliving.com,"Wed, 29 Dec 2021 05:48:03","Wed, 29 Dec 2021 11:28:37",05:40:34
+2021/12/29,Teleperformance,v-jurgelles@youngliving.com,"Wed, 29 Dec 2021 11:30:48","Wed, 29 Dec 2021 12:49:22",01:18:34
+2021/12/29,Teleperformance,v-jurgelles@youngliving.com,"Wed, 29 Dec 2021 13:06:19","Wed, 29 Dec 2021 13:06:41",00:00:22
+2021/12/29,Teleperformance,v-jurgelles@youngliving.com,"Wed, 29 Dec 2021 13:06:54","Wed, 29 Dec 2021 13:30:42",00:23:48
+2021/12/29,Teleperformance,v-jurgelles@youngliving.com,"Wed, 29 Dec 2021 13:33:28","Wed, 29 Dec 2021 13:47:45",00:14:17
+2021/12/29,Teleperformance,v-jurgelles@youngliving.com,"Wed, 29 Dec 2021 13:51:57","Wed, 29 Dec 2021 14:41:05",00:49:08
+2021/12/29,Teleperformance,v-kbodullo@youngliving.com,"Wed, 29 Dec 2021 07:00:10","Wed, 29 Dec 2021 07:46:05",00:45:56
+2021/12/29,Teleperformance,v-kbodullo@youngliving.com,"Wed, 29 Dec 2021 07:54:36","Wed, 29 Dec 2021 17:44:44",09:50:07
+2021/12/29,Teleperformance,v-kpenaranda@youngliving.com,"Wed, 29 Dec 2021 07:05:09","Wed, 29 Dec 2021 11:34:26",04:29:16
+2021/12/29,Teleperformance,v-kpenaranda@youngliving.com,"Wed, 29 Dec 2021 12:15:58","Wed, 29 Dec 2021 15:59:47",03:43:49
+2021/12/29,Teleperformance,v-krbodullo@youngliving.com,"Wed, 29 Dec 2021 05:42:21","Wed, 29 Dec 2021 06:09:41",00:27:20
+2021/12/29,Teleperformance,v-krbodullo@youngliving.com,"Wed, 29 Dec 2021 06:52:21","Wed, 29 Dec 2021 15:38:57",08:46:36
+2021/12/29,Teleperformance,v-krbodullo@youngliving.com,"Wed, 29 Dec 2021 15:42:22","Wed, 29 Dec 2021 16:43:30",01:01:09
+2021/12/29,Teleperformance,v-krbodullo@youngliving.com,"Wed, 29 Dec 2021 16:46:52","Wed, 29 Dec 2021 17:25:26",00:38:34
+2021/12/29,Teleperformance,v-ksison@youngliving.com,"Wed, 29 Dec 2021 07:15:50","Wed, 29 Dec 2021 13:06:44",05:50:54
+2021/12/29,Teleperformance,v-ksison@youngliving.com,"Wed, 29 Dec 2021 14:12:42","Wed, 29 Dec 2021 18:14:57",04:02:15
+2021/12/29,Teleperformance,v-kvaleros@youngliving.com,"Wed, 29 Dec 2021 06:21:29","Wed, 29 Dec 2021 06:22:04",00:00:35
+2021/12/29,Teleperformance,v-kvaleros@youngliving.com,"Wed, 29 Dec 2021 06:32:02","Wed, 29 Dec 2021 06:32:41",00:00:39
+2021/12/29,Teleperformance,v-kvaleros@youngliving.com,"Wed, 29 Dec 2021 08:10:31","Wed, 29 Dec 2021 12:41:30",04:30:59
+2021/12/29,Teleperformance,v-kvaleros@youngliving.com,"Wed, 29 Dec 2021 13:12:58","Wed, 29 Dec 2021 13:13:35",00:00:37
+2021/12/29,Teleperformance,v-kvaleros@youngliving.com,"Wed, 29 Dec 2021 13:20:30","Wed, 29 Dec 2021 16:35:30",03:15:00
+2021/12/29,Teleperformance,v-kvaleros@youngliving.com,"Wed, 29 Dec 2021 16:38:57","Wed, 29 Dec 2021 16:41:58",00:03:01
+2021/12/29,Teleperformance,v-kvaleros@youngliving.com,"Wed, 29 Dec 2021 16:42:14","Wed, 29 Dec 2021 16:42:21",00:00:07
+2021/12/29,Teleperformance,v-kvaleros@youngliving.com,"Wed, 29 Dec 2021 16:42:45","Wed, 29 Dec 2021 16:59:21",00:16:36
+2021/12/29,Teleperformance,v-lallig@youngliving.com,"Wed, 29 Dec 2021 12:34:51","Wed, 29 Dec 2021 21:04:45",08:29:54
+2021/12/29,Teleperformance,v-ldaisog@youngliving.com,"Wed, 29 Dec 2021 11:19:07","Wed, 29 Dec 2021 20:13:28",08:54:21
+2021/12/29,Teleperformance,v-ldaisog@youngliving.com,"Wed, 29 Dec 2021 20:20:18","Wed, 29 Dec 2021 20:21:07",00:00:49
+2021/12/29,Teleperformance,v-lmanzano@youngliving.com,"Wed, 29 Dec 2021 07:32:24","Wed, 29 Dec 2021 08:07:56",00:35:32
+2021/12/29,Teleperformance,v-lmanzano@youngliving.com,"Wed, 29 Dec 2021 08:39:37","Wed, 29 Dec 2021 12:08:40",03:29:03
+2021/12/29,Teleperformance,v-lmanzano@youngliving.com,"Wed, 29 Dec 2021 12:31:06","Wed, 29 Dec 2021 16:00:05",03:28:59
+2021/12/29,Teleperformance,v-lrabacal@youngliving.com,"Wed, 29 Dec 2021 12:36:12","Wed, 29 Dec 2021 21:30:22",08:54:10
+2021/12/29,Teleperformance,v-mcalma@youngliving.com,"Wed, 29 Dec 2021 04:50:12","Wed, 29 Dec 2021 14:46:24",09:56:12
+2021/12/29,Teleperformance,v-mdaloran@youngliving.com,"Wed, 29 Dec 2021 11:41:40","Wed, 29 Dec 2021 17:27:48",05:46:08
+2021/12/29,Teleperformance,v-mdaloran@youngliving.com,"Wed, 29 Dec 2021 19:35:04","Wed, 29 Dec 2021 21:00:53",01:25:49
+2021/12/29,Teleperformance,v-mdelarosa@youngliving.com,"Wed, 29 Dec 2021 07:00:32","Wed, 29 Dec 2021 14:02:32",07:02:00
+2021/12/29,Teleperformance,v-mdelarosa@youngliving.com,"Wed, 29 Dec 2021 14:20:23","Wed, 29 Dec 2021 17:31:55",03:11:32
+2021/12/29,Teleperformance,v-mengle@youngliving.com,"Wed, 29 Dec 2021 07:00:10","Wed, 29 Dec 2021 16:06:26",09:06:15
+2021/12/29,Teleperformance,v-mkhatab@youngliving.com,"Wed, 29 Dec 2021 12:47:00","Wed, 29 Dec 2021 21:30:25",08:43:25
+2021/12/29,Teleperformance,v-mmalones@youngliving.com,"Wed, 29 Dec 2021 05:59:27","Wed, 29 Dec 2021 06:55:28",00:56:01
+2021/12/29,Teleperformance,v-mmalones@youngliving.com,"Wed, 29 Dec 2021 07:21:54","Wed, 29 Dec 2021 15:01:31",07:39:37
+2021/12/29,Teleperformance,v-muy@youngliving.com,"Wed, 29 Dec 2021 11:06:02","Wed, 29 Dec 2021 18:44:18",07:38:16
+2021/12/29,Teleperformance,v-muy@youngliving.com,"Wed, 29 Dec 2021 19:13:43","Wed, 29 Dec 2021 20:00:29",00:46:47
+2021/12/29,Teleperformance,v-nesponilla@youngliving.com,"Wed, 29 Dec 2021 11:24:27","Wed, 29 Dec 2021 12:18:48",00:54:21
+2021/12/29,Teleperformance,v-nesponilla@youngliving.com,"Wed, 29 Dec 2021 12:20:38","Wed, 29 Dec 2021 12:21:24",00:00:47
+2021/12/29,Teleperformance,v-nesponilla@youngliving.com,"Wed, 29 Dec 2021 12:21:59","Wed, 29 Dec 2021 16:00:41",03:38:42
+2021/12/29,Teleperformance,v-nsadiwa@youngliving.com,"Wed, 29 Dec 2021 11:55:46","Wed, 29 Dec 2021 21:04:42",09:08:56
+2021/12/29,Teleperformance,v-ralmirol@youngliving.com,"Wed, 29 Dec 2021 05:59:20","Wed, 29 Dec 2021 14:02:40",08:03:19
+2021/12/29,Teleperformance,v-rdaquiojr@youngliving.com,"Wed, 29 Dec 2021 08:12:46","Wed, 29 Dec 2021 17:20:28",09:07:42
+2021/12/29,Teleperformance,v-rinaldo@youngliving.com,"Wed, 29 Dec 2021 07:02:55","Wed, 29 Dec 2021 16:51:12",09:48:17
+2021/12/29,Teleperformance,v-rmalavega@youngliving.com,"Wed, 29 Dec 2021 04:59:08","Wed, 29 Dec 2021 10:05:00",05:05:52
+2021/12/29,Teleperformance,v-rmalavega@youngliving.com,"Wed, 29 Dec 2021 10:09:36","Wed, 29 Dec 2021 10:09:50",00:00:14
+2021/12/29,Teleperformance,v-rmalavega@youngliving.com,"Wed, 29 Dec 2021 14:59:26","Wed, 29 Dec 2021 20:03:52",05:04:26
+2021/12/29,Teleperformance,v-rnieva@youngliving.com,"Wed, 29 Dec 2021 07:05:39","Wed, 29 Dec 2021 16:13:06",09:07:27
+2021/12/29,Teleperformance,v-rpresilda@youngliving.com,"Wed, 29 Dec 2021 05:37:43","Wed, 29 Dec 2021 14:41:33",09:03:50
+2021/12/29,Teleperformance,v-rriel@youngliving.com,"Wed, 29 Dec 2021 11:08:59","Wed, 29 Dec 2021 20:00:05",08:51:06
+2021/12/29,Teleperformance,v-rteves@youngliving.com,"Wed, 29 Dec 2021 07:02:04","Wed, 29 Dec 2021 16:00:10",08:58:06
+2021/12/29,Teleperformance,v-rVillarama@youngliving.com,"Wed, 29 Dec 2021 10:57:55","Wed, 29 Dec 2021 10:58:23",00:00:28
+2021/12/29,Teleperformance,v-rVillarama@youngliving.com,"Wed, 29 Dec 2021 10:59:18","Wed, 29 Dec 2021 13:47:43",02:48:25
+2021/12/29,Teleperformance,v-rVillarama@youngliving.com,"Wed, 29 Dec 2021 13:51:18","Wed, 29 Dec 2021 20:02:14",06:10:56
+2021/12/29,Teleperformance,v-sbrezueka@youngliving.com,"Wed, 29 Dec 2021 11:59:10","Wed, 29 Dec 2021 21:00:46",09:01:36
+2021/12/29,Teleperformance,v-sricario@youngliving.com,"Wed, 29 Dec 2021 07:49:58","Wed, 29 Dec 2021 16:40:30",08:50:32
+2021/12/29,Teleperformance,v-watay@youngliving.com,"Wed, 29 Dec 2021 11:01:28","Wed, 29 Dec 2021 11:02:40",00:01:12
+2021/12/29,Teleperformance,v-watay@youngliving.com,"Wed, 29 Dec 2021 11:48:05","Wed, 29 Dec 2021 20:00:08",08:12:03
+2021/12/29,Teleperformance,v-zmarcelo@youngliving.com,"Wed, 29 Dec 2021 05:45:02","Wed, 29 Dec 2021 06:10:37",00:25:35
+2021/12/29,Teleperformance,v-zmarcelo@youngliving.com,"Wed, 29 Dec 2021 06:48:46","Wed, 29 Dec 2021 09:22:41",02:33:55
+2021/12/29,Teleperformance,v-zmarcelo@youngliving.com,"Wed, 29 Dec 2021 09:41:28","Wed, 29 Dec 2021 12:24:39",02:43:11
+2021/12/29,Teleperformance,v-zmarcelo@youngliving.com,"Wed, 29 Dec 2021 13:28:07","Wed, 29 Dec 2021 17:25:18",03:57:12
+2021/12/29,US M07,cbicknell@youngliving.com,"Wed, 29 Dec 2021 05:52:56","Wed, 29 Dec 2021 14:33:42",08:40:46
+2021/12/29,US M07,japerkins@youngliving.com,"Wed, 29 Dec 2021 11:33:26","Wed, 29 Dec 2021 17:24:44",05:51:17
+2021/12/29,US M07,tfano@youngliving.com,"Wed, 29 Dec 2021 11:58:46","Wed, 29 Dec 2021 21:48:59",09:50:12
+2021/12/29,US M10,glindsey@youngliving.com,"Wed, 29 Dec 2021 05:58:20","Wed, 29 Dec 2021 14:34:26",08:36:06
+2021/12/29,US M11,ehaunga@youngliving.com,"Wed, 29 Dec 2021 05:01:24","Wed, 29 Dec 2021 05:35:30",00:34:06
+2021/12/29,US M11,ehaunga@youngliving.com,"Wed, 29 Dec 2021 05:50:37","Wed, 29 Dec 2021 08:02:30",02:11:54
+2021/12/29,US M11,ehaunga@youngliving.com,"Wed, 29 Dec 2021 08:10:52","Wed, 29 Dec 2021 10:27:31",02:16:39
+2021/12/29,US M11,ehaunga@youngliving.com,"Wed, 29 Dec 2021 10:36:05","Wed, 29 Dec 2021 14:05:30",03:29:26
+2021/12/29,US M11,rchavez@youngliving.com,"Wed, 29 Dec 2021 06:03:01","Wed, 29 Dec 2021 14:30:39",08:27:38
+2021/12/29,US M13,abroadhead@youngliving.com,"Wed, 29 Dec 2021 04:58:20","Wed, 29 Dec 2021 08:23:26",03:25:06
+2021/12/29,US M13,abroadhead@youngliving.com,"Wed, 29 Dec 2021 08:39:21","Wed, 29 Dec 2021 09:34:26",00:55:04
+2021/12/29,US M13,abroadhead@youngliving.com,"Wed, 29 Dec 2021 09:50:12","Wed, 29 Dec 2021 10:34:27",00:44:14
+2021/12/29,US M13,abroadhead@youngliving.com,"Wed, 29 Dec 2021 11:45:25","Wed, 29 Dec 2021 13:36:20",01:50:56
+2021/12/29,US M13,dtoro@youngliving.com,"Wed, 29 Dec 2021 05:01:03","Wed, 29 Dec 2021 13:32:42",08:31:39
+2021/12/29,US M13,khoward@youngliving.com,"Wed, 29 Dec 2021 06:49:52","Wed, 29 Dec 2021 15:30:42",08:40:50
+2021/12/29,US M13,nstratton@youngliving.com,"Wed, 29 Dec 2021 06:34:44","Wed, 29 Dec 2021 15:06:42",08:31:57
+2021/12/29,US M14,cbicknell@youngliving.com,"Wed, 29 Dec 2021 05:52:56","Wed, 29 Dec 2021 14:33:42",08:40:46
+2021/12/29,US M14,glindsey@youngliving.com,"Wed, 29 Dec 2021 05:58:20","Wed, 29 Dec 2021 14:34:26",08:36:06
+2021/12/29,US M14,nstratton@youngliving.com,"Wed, 29 Dec 2021 06:34:44","Wed, 29 Dec 2021 15:06:42",08:31:57
+2021/12/29,US Team 01,ehaunga@youngliving.com,"Wed, 29 Dec 2021 05:01:24","Wed, 29 Dec 2021 05:35:30",00:34:06
+2021/12/29,US Team 01,ehaunga@youngliving.com,"Wed, 29 Dec 2021 05:50:37","Wed, 29 Dec 2021 08:02:30",02:11:54
+2021/12/29,US Team 01,ehaunga@youngliving.com,"Wed, 29 Dec 2021 08:10:52","Wed, 29 Dec 2021 10:27:31",02:16:39
+2021/12/29,US Team 01,ehaunga@youngliving.com,"Wed, 29 Dec 2021 10:36:05","Wed, 29 Dec 2021 14:05:30",03:29:26
+2021/12/29,US Team 02,cbristow@youngliving.com,"Wed, 29 Dec 2021 06:51:39","Wed, 29 Dec 2021 13:13:00",06:21:21
+2021/12/29,US Team 02,cpainecura@youngliving.com,"Wed, 29 Dec 2021 06:28:13","Wed, 29 Dec 2021 15:08:24",08:40:11
+2021/12/29,US Team 02,gescobar@youngliving.com,"Wed, 29 Dec 2021 12:10:05","Wed, 29 Dec 2021 12:14:30",00:04:25
+2021/12/29,US Team 02,jamartinez@youngliving.com,"Wed, 29 Dec 2021 07:06:04","Wed, 29 Dec 2021 14:11:24",07:05:20
+2021/12/29,US Team 02,jamartinez@youngliving.com,"Wed, 29 Dec 2021 14:33:55","Wed, 29 Dec 2021 15:40:44",01:06:49
+2021/12/29,US Team 02,jciriako@youngliving.com,"Wed, 29 Dec 2021 05:58:54","Wed, 29 Dec 2021 14:34:34",08:35:40
+2021/12/29,US Team 02,rbrinkerhoff@youngliving.com,"Wed, 29 Dec 2021 06:56:19","Wed, 29 Dec 2021 16:06:34",09:10:15
+2021/12/29,US Team 02,rhansen@youngliving.com,"Wed, 29 Dec 2021 08:25:47","Wed, 29 Dec 2021 15:21:24",06:55:37
+2021/12/29,US Team 02,xcuascut@youngliving.com,"Wed, 29 Dec 2021 07:00:36","Wed, 29 Dec 2021 15:31:07",08:30:30
+2021/12/29,US Team 03,abroadhead@youngliving.com,"Wed, 29 Dec 2021 04:58:20","Wed, 29 Dec 2021 08:23:26",03:25:06
+2021/12/29,US Team 03,abroadhead@youngliving.com,"Wed, 29 Dec 2021 08:39:21","Wed, 29 Dec 2021 09:34:26",00:55:04
+2021/12/29,US Team 03,abroadhead@youngliving.com,"Wed, 29 Dec 2021 09:50:12","Wed, 29 Dec 2021 10:34:27",00:44:14
+2021/12/29,US Team 03,abroadhead@youngliving.com,"Wed, 29 Dec 2021 11:45:25","Wed, 29 Dec 2021 13:36:20",01:50:56
+2021/12/29,US Team 03,cconger@youngliving.com,"Wed, 29 Dec 2021 05:00:16","Wed, 29 Dec 2021 13:30:10",08:29:54
+2021/12/29,US Team 03,krasmussen@youngliving.com,"Wed, 29 Dec 2021 04:59:03","Wed, 29 Dec 2021 09:48:33",04:49:30
+2021/12/29,US Team 03,mpettit@youngliving.com,"Wed, 29 Dec 2021 09:30:00","Wed, 29 Dec 2021 18:00:42",08:30:42
+2021/12/29,US Team 03,toropeza@youngliving.com,"Wed, 29 Dec 2021 05:32:09","Wed, 29 Dec 2021 09:30:30",03:58:21
+2021/12/29,US Team 03,wmyrup@youngliving.com,"Wed, 29 Dec 2021 05:28:40","Wed, 29 Dec 2021 12:16:07",06:47:27
+2021/12/29,US Team 05,jamartinez@youngliving.com,"Wed, 29 Dec 2021 07:06:04","Wed, 29 Dec 2021 14:11:24",07:05:20
+2021/12/29,US Team 05,jamartinez@youngliving.com,"Wed, 29 Dec 2021 14:33:55","Wed, 29 Dec 2021 15:40:44",01:06:49
+2021/12/29,US Team 10,alazo@youngliving.com,"Wed, 29 Dec 2021 07:01:27","Wed, 29 Dec 2021 07:44:42",00:43:15
+2021/12/29,US Team 10,alazo@youngliving.com,"Wed, 29 Dec 2021 07:44:42","Wed, 29 Dec 2021 08:25:48",00:41:06
+2021/12/29,US Team 10,alazo@youngliving.com,"Wed, 29 Dec 2021 08:26:01","Wed, 29 Dec 2021 10:10:48",01:44:46
+2021/12/29,US Team 10,alazo@youngliving.com,"Wed, 29 Dec 2021 10:26:32","Wed, 29 Dec 2021 15:30:42",05:04:10
+2021/12/29,US Team 10,bballinger@youngliving.com,"Wed, 29 Dec 2021 04:58:46","Wed, 29 Dec 2021 13:49:18",08:50:32
+2021/12/29,US Team 10,bswiantek@youngliving.com,"Wed, 29 Dec 2021 05:01:06","Wed, 29 Dec 2021 10:11:24",05:10:18
+2021/12/29,US Team 10,bswiantek@youngliving.com,"Wed, 29 Dec 2021 10:15:37","Wed, 29 Dec 2021 13:30:58",03:15:21
+2021/12/29,US Team 10,cchristiansen@youngliving.com,"Wed, 29 Dec 2021 04:59:21","Wed, 29 Dec 2021 13:31:48",08:32:27
+2021/12/29,US Team 10,iaumavae@youngliving.com,"Wed, 29 Dec 2021 05:19:20","Wed, 29 Dec 2021 13:46:13",08:26:53
+2021/12/29,US Team 10,lgarza@youngliving.com,"Wed, 29 Dec 2021 07:30:20","Wed, 29 Dec 2021 16:00:41",08:30:21
+2021/12/29,US Team 10,smadrigal@youngliving.com,"Wed, 29 Dec 2021 07:38:56","Wed, 29 Dec 2021 08:19:24",00:40:28
+2021/12/29,US Team 10,smadrigal@youngliving.com,"Wed, 29 Dec 2021 08:25:55","Wed, 29 Dec 2021 08:36:47",00:10:51
+2021/12/29,US Team 10,smadrigal@youngliving.com,"Wed, 29 Dec 2021 08:54:58","Wed, 29 Dec 2021 08:59:30",00:04:32
+2021/12/29,US Team 10,smadrigal@youngliving.com,"Wed, 29 Dec 2021 09:28:44","Wed, 29 Dec 2021 15:12:05",05:43:20
+2021/12/29,US Team 12,abarron@youngliving.com,"Wed, 29 Dec 2021 05:01:46","Wed, 29 Dec 2021 10:30:05",05:28:19
+2021/12/29,US Team 12,brevoir@youngliving.com,"Wed, 29 Dec 2021 05:01:55","Wed, 29 Dec 2021 13:33:03",08:31:09
+2021/12/29,US Team 12,dtoro@youngliving.com,"Wed, 29 Dec 2021 05:01:03","Wed, 29 Dec 2021 13:32:42",08:31:39
+2021/12/29,US Team 12,fodiley@youngliving.com,"Wed, 29 Dec 2021 05:02:55","Wed, 29 Dec 2021 14:30:56",09:28:01
+2021/12/29,US Team 12,gpack@youngliving.com,"Wed, 29 Dec 2021 08:47:16","Wed, 29 Dec 2021 14:36:29",05:49:13
+2021/12/29,US Team 12,mhowells@youngliving.com,"Wed, 29 Dec 2021 05:01:02","Wed, 29 Dec 2021 09:49:36",04:48:34
+2021/12/29,US Team 12,mhowells@youngliving.com,"Wed, 29 Dec 2021 09:49:56","Wed, 29 Dec 2021 09:50:10",00:00:13
+2021/12/29,US Team 12,mhowells@youngliving.com,"Wed, 29 Dec 2021 09:50:18","Wed, 29 Dec 2021 10:54:20",01:04:02
+2021/12/29,US Team 12,mhowells@youngliving.com,"Wed, 29 Dec 2021 10:56:05","Wed, 29 Dec 2021 13:58:38",03:02:33
+2021/12/29,US Team 12,shughes@youngliving.com,"Wed, 29 Dec 2021 10:29:34","Wed, 29 Dec 2021 10:29:45",00:00:11
+2021/12/29,US Team 12,shughes@youngliving.com,"Wed, 29 Dec 2021 10:30:26","Wed, 29 Dec 2021 12:31:10",02:00:44
+2021/12/29,US Team 12,swagner@youngliving.com,"Wed, 29 Dec 2021 05:04:38","Wed, 29 Dec 2021 13:30:04",08:25:26
+2021/12/29,US Team 12,twoodis@youngliving.com,"Wed, 29 Dec 2021 07:34:16","Wed, 29 Dec 2021 16:00:29",08:26:13
+2021/12/29,US Team 12,vstulce@youngliving.com,"Wed, 29 Dec 2021 05:00:21","Wed, 29 Dec 2021 08:59:30",03:59:09
+2021/12/29,US Team 12,vstulce@youngliving.com,"Wed, 29 Dec 2021 09:01:10","Wed, 29 Dec 2021 12:35:34",03:34:23
+2021/12/29,US Team 12,vstulce@youngliving.com,"Wed, 29 Dec 2021 12:35:34","Wed, 29 Dec 2021 13:31:45",00:56:11
+2021/12/29,US Team 13,abarrows@youngliving.com,"Wed, 29 Dec 2021 08:03:06","Wed, 29 Dec 2021 12:37:58",04:34:52
+2021/12/29,US Team 13,abarrows@youngliving.com,"Wed, 29 Dec 2021 12:37:58","Wed, 29 Dec 2021 16:37:04",03:59:06
+2021/12/29,US Team 13,abellazetin@youngliving.com,"Wed, 29 Dec 2021 04:54:46","Wed, 29 Dec 2021 13:30:10",08:35:24
+2021/12/29,US Team 13,jcarver@youngliving.com,"Wed, 29 Dec 2021 11:29:28","Wed, 29 Dec 2021 13:12:46",01:43:18
+2021/12/29,US Team 13,jcarver@youngliving.com,"Wed, 29 Dec 2021 14:12:48","Wed, 29 Dec 2021 20:18:54",06:06:06
+2021/12/29,US Team 13,jtrinidad@youngliving.com,"Wed, 29 Dec 2021 05:01:28","Wed, 29 Dec 2021 13:32:10",08:30:42
+2021/12/29,US Team 13,mdorton@youngliving.com,"Wed, 29 Dec 2021 05:00:13","Wed, 29 Dec 2021 12:37:35",07:37:22
+2021/12/29,US Team 13,mdorton@youngliving.com,"Wed, 29 Dec 2021 12:37:35","Wed, 29 Dec 2021 14:10:10",01:32:36
+2021/12/29,US Team 15,chcarter@youngliving.com,"Wed, 29 Dec 2021 06:00:26","Wed, 29 Dec 2021 14:31:03",08:30:38
+2021/12/29,US Team 15,jfranks@youngliving.com,"Wed, 29 Dec 2021 07:46:13","Wed, 29 Dec 2021 16:30:26",08:44:13
+2021/12/29,US Team 15,kiharding@youngliving.com,"Wed, 29 Dec 2021 08:10:36","Wed, 29 Dec 2021 12:48:26",04:37:50
+2021/12/29,US Team 15,kiharding@youngliving.com,"Wed, 29 Dec 2021 13:03:40","Wed, 29 Dec 2021 15:31:38",02:27:59
+2021/12/29,US Team 15,kwaldvogel@youngliving.com,"Wed, 29 Dec 2021 09:12:52","Wed, 29 Dec 2021 21:14:24",12:01:31
+2021/12/29,US Team 15,larredondo@youngliving.com,"Wed, 29 Dec 2021 04:57:01","Wed, 29 Dec 2021 11:00:54",06:03:53
+2021/12/29,US Team 15,pmiller@youngliving.com,"Wed, 29 Dec 2021 04:52:56","Wed, 29 Dec 2021 05:52:31",00:59:35
+2021/12/29,US Team 15,pmiller@youngliving.com,"Wed, 29 Dec 2021 05:57:33","Wed, 29 Dec 2021 13:40:48",07:43:15
+2021/12/29,US Team 15,snelson@youngliving.com,"Wed, 29 Dec 2021 05:56:34","Wed, 29 Dec 2021 08:32:48",02:36:14
+2021/12/29,US Team 15,snelson@youngliving.com,"Wed, 29 Dec 2021 09:10:53","Wed, 29 Dec 2021 14:30:30",05:19:37
+2021/12/29,US Team 17,afox@youngliving.com,"Wed, 29 Dec 2021 07:04:35","Wed, 29 Dec 2021 13:06:15",06:01:40
+2021/12/29,US Team 17,bneilsen@youngliving.com,"Wed, 29 Dec 2021 04:57:57","Wed, 29 Dec 2021 13:34:50",08:36:53
+2021/12/29,US Team 17,kdean@youngliving.com,"Wed, 29 Dec 2021 05:51:57","Wed, 29 Dec 2021 14:30:10",08:38:13
+2021/12/29,US Team 17,llarsen@youngliving.com,"Wed, 29 Dec 2021 08:06:38","Wed, 29 Dec 2021 11:38:29",03:31:50
+2021/12/29,US Team 17,llarsen@youngliving.com,"Wed, 29 Dec 2021 11:38:37","Wed, 29 Dec 2021 15:19:05",03:40:28
+2021/12/29,US Team 17,sujohnson@youngliving.com,"Wed, 29 Dec 2021 05:59:42","Wed, 29 Dec 2021 11:02:08",05:02:26
+2021/12/29,US Team 21,rchavez@youngliving.com,"Wed, 29 Dec 2021 06:03:01","Wed, 29 Dec 2021 14:30:39",08:27:38
+2021/12/29,US Team 22,djacobs@youngliving.com,"Wed, 29 Dec 2021 08:01:50","Wed, 29 Dec 2021 12:16:30",04:14:40
+2021/12/29,US Team 22,jacord@youngliving.com,"Wed, 29 Dec 2021 10:00:25","Wed, 29 Dec 2021 14:43:26",04:43:01
+2021/12/29,US Team 22,jsmokoff@youngliving.com,"Wed, 29 Dec 2021 08:59:39","Wed, 29 Dec 2021 13:53:25",04:53:46
+2021/12/29,US Team 22,jsmokoff@youngliving.com,"Wed, 29 Dec 2021 13:53:32","Wed, 29 Dec 2021 13:53:49",00:00:18
+2021/12/29,US Team 22,jsmokoff@youngliving.com,"Wed, 29 Dec 2021 13:54:10","Wed, 29 Dec 2021 14:02:07",00:07:57
+2021/12/29,US Team 22,jsmokoff@youngliving.com,"Wed, 29 Dec 2021 14:02:16","Wed, 29 Dec 2021 14:03:08",00:00:52
+2021/12/29,US Team 22,jsmokoff@youngliving.com,"Wed, 29 Dec 2021 14:03:18","Wed, 29 Dec 2021 14:05:09",00:01:51
+2021/12/29,US Team 22,jsmokoff@youngliving.com,"Wed, 29 Dec 2021 14:05:24","Wed, 29 Dec 2021 14:05:37",00:00:13
+2021/12/29,US Team 22,jsmokoff@youngliving.com,"Wed, 29 Dec 2021 14:05:44","Wed, 29 Dec 2021 16:03:09",01:57:25
+2021/12/29,US Team 22,kcarter@youngliving.com,"Wed, 29 Dec 2021 12:31:33","Wed, 29 Dec 2021 21:59:54",09:28:21
+2021/12/29,US Team 22,mbourne@youngliving.com,"Wed, 29 Dec 2021 08:03:27","Wed, 29 Dec 2021 17:01:31",08:58:04
+2021/12/29,US Team 22,rmoreno@youngliving.com,"Wed, 29 Dec 2021 07:59:26","Wed, 29 Dec 2021 14:00:45",06:01:19
+2021/12/29,US Team 36,cmorales@youngliving.com,"Wed, 29 Dec 2021 04:59:29","Wed, 29 Dec 2021 21:01:34",16:02:05
+2021/12/29,US Team 36,esmith@youngliving.com,"Wed, 29 Dec 2021 07:05:00","Wed, 29 Dec 2021 15:36:03",08:31:03
+2021/12/29,US Team 36,jobird@youngliving.com,"Wed, 29 Dec 2021 07:01:46","Wed, 29 Dec 2021 15:49:06",08:47:21
+2021/12/29,US Team 36,kethompson@youngliving.com,"Wed, 29 Dec 2021 08:02:26","Wed, 29 Dec 2021 16:34:21",08:31:55
+2021/12/29,US Team 36,pgunderson@youngliving.com,"Wed, 29 Dec 2021 04:48:11","Wed, 29 Dec 2021 13:30:06",08:41:55
+2021/12/29,US Team 36,pgunderson@youngliving.com,"Wed, 29 Dec 2021 16:14:04","Wed, 29 Dec 2021 19:33:04",03:19:00
+2021/12/29,US Team 36,rmenjivar@youngliving.com,"Wed, 29 Dec 2021 07:04:41","Wed, 29 Dec 2021 15:36:21",08:31:40
+2021/12/29,US Team 36,samundsen@youngliving.com,"Wed, 29 Dec 2021 14:49:35","Wed, 29 Dec 2021 20:01:35",05:11:59
+2021/12/29,US Team 36,tfox@youngliving.com,"Wed, 29 Dec 2021 07:59:15","Wed, 29 Dec 2021 16:32:00",08:32:45
+2021/12/29,US Team 36,tromero@youngliving.com,"Wed, 29 Dec 2021 05:26:36","Wed, 29 Dec 2021 14:08:36",08:42:00
+2021/12/29,US Team 39,aallred@youngliving.com,"Wed, 29 Dec 2021 08:02:22","Wed, 29 Dec 2021 16:30:21",08:27:59
+2021/12/29,US Team 39,cmcculloch@youngliving.com,"Wed, 29 Dec 2021 06:02:08","Wed, 29 Dec 2021 06:26:24",00:24:16
+2021/12/29,US Team 39,cmcculloch@youngliving.com,"Wed, 29 Dec 2021 06:55:56","Wed, 29 Dec 2021 07:00:24",00:04:28
+2021/12/29,US Team 39,cmcculloch@youngliving.com,"Wed, 29 Dec 2021 08:21:53","Wed, 29 Dec 2021 12:42:24",04:20:31
+2021/12/29,US Team 39,cmcculloch@youngliving.com,"Wed, 29 Dec 2021 14:54:04","Wed, 29 Dec 2021 14:54:23",00:00:19
+2021/12/29,US Team 39,eestrada@youngliving.com,"Wed, 29 Dec 2021 06:54:26","Wed, 29 Dec 2021 15:36:27",08:42:01
+2021/12/29,US Team 39,khoward@youngliving.com,"Wed, 29 Dec 2021 06:49:52","Wed, 29 Dec 2021 15:30:42",08:40:50
+2021/12/29,US Team 39,liguzman@youngliving.com,"Wed, 29 Dec 2021 06:57:47","Wed, 29 Dec 2021 15:31:24",08:33:37
+2021/12/29,US Team 39,vwakefield@youngliving.com,"Wed, 29 Dec 2021 05:37:15","Wed, 29 Dec 2021 11:03:48",05:26:33
+2021/12/29,US Team 39,vwakefield@youngliving.com,"Wed, 29 Dec 2021 11:11:36","Wed, 29 Dec 2021 14:30:32",03:18:56
+2021/12/29,US Team 41,ditaylor@youngliving.com,"Wed, 29 Dec 2021 05:01:00","Wed, 29 Dec 2021 13:35:44",08:34:43
+2021/12/29,US Team 41,dliddiard@youngliving.com,"Wed, 29 Dec 2021 09:26:41","Wed, 29 Dec 2021 16:01:26",06:34:45
+2021/12/29,US Team 41,kpaulsen@youngliving.com,"Wed, 29 Dec 2021 08:57:33","Wed, 29 Dec 2021 17:33:32",08:35:59
+2021/12/29,US Team 41,sdunn@youngliving.com,"Wed, 29 Dec 2021 04:50:19","Wed, 29 Dec 2021 09:48:48",04:58:29
+2021/12/29,US Team 41,sdunn@youngliving.com,"Wed, 29 Dec 2021 09:53:34","Wed, 29 Dec 2021 14:30:03",04:36:30
+2021/12/29,US Team 41,tboyce@youngliving.com,"Wed, 29 Dec 2021 09:36:19","Wed, 29 Dec 2021 16:03:53",06:27:33
+2021/12/29,US Team 41,yaragon@youngliving.com,"Wed, 29 Dec 2021 06:54:48","Wed, 29 Dec 2021 15:28:39",08:33:51
+2021/12/29,US Team 44,alagunas@youngliving.com,"Wed, 29 Dec 2021 06:52:37","Wed, 29 Dec 2021 07:11:46",00:19:09
+2021/12/29,US Team 44,alagunas@youngliving.com,"Wed, 29 Dec 2021 07:48:14","Wed, 29 Dec 2021 12:10:46",04:22:32
+2021/12/29,US Team 44,alagunas@youngliving.com,"Wed, 29 Dec 2021 12:29:25","Wed, 29 Dec 2021 15:40:25",03:10:59
+2021/12/29,US Team 44,amerod@youngliving.com,"Wed, 29 Dec 2021 05:52:05","Wed, 29 Dec 2021 14:31:17",08:39:11
+2021/12/29,US Team 44,ecauteruccio@youngliving.com,"Wed, 29 Dec 2021 04:55:24","Wed, 29 Dec 2021 07:56:48",03:01:24
+2021/12/29,US Team 44,gbustamante@youngliving.com,"Wed, 29 Dec 2021 12:05:34","Wed, 29 Dec 2021 17:34:30",05:28:57
+2021/12/29,US Team 44,gbustamante@youngliving.com,"Wed, 29 Dec 2021 17:40:16","Wed, 29 Dec 2021 20:08:17",02:28:02
+2021/12/29,US Team 44,hjohnson@youngliving.com,"Wed, 29 Dec 2021 07:45:23","Wed, 29 Dec 2021 15:59:43",08:14:20
+2021/12/29,US Team 44,jpirir@youngliving.com,"Wed, 29 Dec 2021 07:37:48","Wed, 29 Dec 2021 15:01:54",07:24:07
+2021/12/29,US Team 44,vcauteruccio@youngliving.com,"Wed, 29 Dec 2021 05:00:13","Wed, 29 Dec 2021 08:02:30",03:02:17
+2021/12/29,US Team 44,vcauteruccio@youngliving.com,"Wed, 29 Dec 2021 08:16:50","Wed, 29 Dec 2021 13:30:53",05:14:03
+2021/12/29,US Team 44,zbingham@youngliving.com,"Wed, 29 Dec 2021 14:57:59","Wed, 29 Dec 2021 21:01:46",06:03:47
+2021/12/29,US Team 47,bmanwaring@youngliving.com,"Wed, 29 Dec 2021 06:58:30","Wed, 29 Dec 2021 12:33:53",05:35:23
+2021/12/29,US Team 47,gbosen@youngliving.com,"Wed, 29 Dec 2021 11:58:50","Wed, 29 Dec 2021 20:32:11",08:33:21
+2021/12/29,US Team 47,jehernandez@youngliving.com,"Wed, 29 Dec 2021 05:24:55","Wed, 29 Dec 2021 13:04:44",07:39:49
+2021/12/29,US Team 47,jvannosdol@youngliving.com,"Wed, 29 Dec 2021 07:25:43","Wed, 29 Dec 2021 07:36:48",00:11:05
+2021/12/29,US Team 47,jvannosdol@youngliving.com,"Wed, 29 Dec 2021 07:46:16","Wed, 29 Dec 2021 16:21:28",08:35:12
+2021/12/29,US Team 47,khaws@youngliving.com,"Wed, 29 Dec 2021 09:22:44","Wed, 29 Dec 2021 18:00:14",08:37:30
+2021/12/29,US Team 47,nstratton@youngliving.com,"Wed, 29 Dec 2021 06:34:44","Wed, 29 Dec 2021 15:06:42",08:31:57
+2021/12/29,US Team 47,polarsen@youngliving.com,"Wed, 29 Dec 2021 16:00:15","Wed, 29 Dec 2021 21:00:11",04:59:56
+2021/12/29,US Team 52,afeliz@youngliving.com,"Wed, 29 Dec 2021 07:04:33","Wed, 29 Dec 2021 13:01:16",05:56:43
+2021/12/29,US Team 52,cbicknell@youngliving.com,"Wed, 29 Dec 2021 05:52:56","Wed, 29 Dec 2021 14:33:42",08:40:46
+2021/12/29,US Team 52,jenis@youngliving.com,"Wed, 29 Dec 2021 16:00:06","Wed, 29 Dec 2021 16:17:00",00:16:54
+2021/12/29,US Team 52,jlazarte@youngliving.com,"Wed, 29 Dec 2021 04:54:27","Wed, 29 Dec 2021 13:00:39",08:06:13
+2021/12/29,US Team 52,jmorales@youngliving.com,"Wed, 29 Dec 2021 04:57:10","Wed, 29 Dec 2021 13:34:02",08:36:51
+2021/12/29,US Team 52,kgarcia@youngliving.com,"Wed, 29 Dec 2021 05:02:40","Wed, 29 Dec 2021 11:42:23",06:39:42
+2021/12/29,US Team 52,mnielson@youngliving.com,"Wed, 29 Dec 2021 04:58:23","Wed, 29 Dec 2021 13:19:06",08:20:43
+2021/12/29,US Team 52,mnielson@youngliving.com,"Wed, 29 Dec 2021 13:19:29","Wed, 29 Dec 2021 13:26:13",00:06:44
+2021/12/29,US Team 52,mnielson@youngliving.com,"Wed, 29 Dec 2021 13:26:27","Wed, 29 Dec 2021 14:19:14",00:52:47
+2021/12/29,US Team 52,mnielson@youngliving.com,"Wed, 29 Dec 2021 14:20:11","Wed, 29 Dec 2021 14:21:04",00:00:52
+2021/12/29,US Team 52,mnielson@youngliving.com,"Wed, 29 Dec 2021 14:21:30","Wed, 29 Dec 2021 14:22:00",00:00:30
+2021/12/29,US Team 52,mnielson@youngliving.com,"Wed, 29 Dec 2021 14:22:12","Wed, 29 Dec 2021 14:22:32",00:00:21
+2021/12/29,US Team 52,mnielson@youngliving.com,"Wed, 29 Dec 2021 14:22:43","Wed, 29 Dec 2021 15:38:00",01:15:17
+2021/12/29,US Team 52,nroberts@youngliving.com,"Wed, 29 Dec 2021 04:59:33","Wed, 29 Dec 2021 13:41:54",08:42:22
+2021/12/29,US Team 52,ricgarcia@youngliving.com,"Wed, 29 Dec 2021 04:54:15","Wed, 29 Dec 2021 13:01:12",08:06:57
+2021/12/29,US Team 52,rshimabukuro@youngliving.com,"Wed, 29 Dec 2021 06:00:15","Wed, 29 Dec 2021 16:44:27",10:44:13
+2021/12/29,US Team 52,taguilar@youngliving.com,"Wed, 29 Dec 2021 16:00:16","Wed, 29 Dec 2021 16:16:44",00:16:28
+2021/12/29,US Team 53,bchaffin@youngliving.com,"Wed, 29 Dec 2021 16:55:54","Wed, 29 Dec 2021 21:01:49",04:05:56
+2021/12/29,US Team 53,dahansen@youngliving.com,"Wed, 29 Dec 2021 17:03:21","Wed, 29 Dec 2021 21:02:05",03:58:43
+2021/12/29,US Team 53,jagonzalez@youngliving.com,"Wed, 29 Dec 2021 12:31:53","Wed, 29 Dec 2021 21:31:59",09:00:07
+2021/12/29,US Team 53,krosenlof@youngliving.com,"Wed, 29 Dec 2021 12:30:12","Wed, 29 Dec 2021 21:03:10",08:32:58
+2021/12/29,US Team 53,maherrera@youngliving.com,"Wed, 29 Dec 2021 12:36:13","Wed, 29 Dec 2021 12:57:09",00:20:56
+2021/12/29,US Team 53,mmaag@youngliving.com,"Wed, 29 Dec 2021 16:00:01","Wed, 29 Dec 2021 16:16:44",00:16:44
+2021/12/29,US Team 53,mrudy@youngliving.com,"Wed, 29 Dec 2021 16:00:25","Wed, 29 Dec 2021 16:16:46",00:16:20
+2021/12/29,US Team 53,trcarter@youngliving.com,"Wed, 29 Dec 2021 18:31:15","Wed, 29 Dec 2021 21:12:21",02:41:06
+2021/12/29,US Team 56,stwilson@youngliving.com,"Wed, 29 Dec 2021 07:51:59","Wed, 29 Dec 2021 09:36:26",01:44:26
+2021/12/29,US Team 56,stwilson@youngliving.com,"Wed, 29 Dec 2021 10:57:48","Wed, 29 Dec 2021 11:33:26",00:35:38
+2021/12/29,US Team 56,stwilson@youngliving.com,"Wed, 29 Dec 2021 11:57:16","Wed, 29 Dec 2021 16:30:27",04:33:11
+2021/12/29,US Team 60,aolsen@youngliving.com,"Wed, 29 Dec 2021 10:27:28","Wed, 29 Dec 2021 13:30:08",03:02:40
+2021/12/29,US Team 60,aolsen@youngliving.com,"Wed, 29 Dec 2021 13:30:15","Wed, 29 Dec 2021 13:30:36",00:00:21
+2021/12/29,US Team 60,aolsen@youngliving.com,"Wed, 29 Dec 2021 13:32:13","Wed, 29 Dec 2021 13:34:27",00:02:14
+2021/12/29,US Team 60,aolsen@youngliving.com,"Wed, 29 Dec 2021 13:34:36","Wed, 29 Dec 2021 13:39:21",00:04:46
+2021/12/29,US Team 60,aolsen@youngliving.com,"Wed, 29 Dec 2021 13:41:25","Wed, 29 Dec 2021 13:47:16",00:05:51
+2021/12/29,US Team 60,aolsen@youngliving.com,"Wed, 29 Dec 2021 13:47:22","Wed, 29 Dec 2021 17:24:18",03:36:56
+2021/12/29,US Team 60,aolsen@youngliving.com,"Wed, 29 Dec 2021 17:53:18","Wed, 29 Dec 2021 17:53:25",00:00:07
+2021/12/29,US Team 60,aolsen@youngliving.com,"Wed, 29 Dec 2021 17:54:24","Wed, 29 Dec 2021 21:02:04",03:07:40
+2021/12/29,US Team 60,bkurylo@youngliving.com,"Wed, 29 Dec 2021 12:00:02","Wed, 29 Dec 2021 20:50:49",08:50:47
+2021/12/29,US Team 60,carasmussen@youngliving.com,"Wed, 29 Dec 2021 15:28:54","Wed, 29 Dec 2021 20:14:40",04:45:46
+2021/12/29,US Team 60,dkinsman@youngliving.com,"Wed, 29 Dec 2021 14:58:37","Wed, 29 Dec 2021 20:30:27",05:31:50
+2021/12/29,US Team 60,jmorey@youngliving.com,"Wed, 29 Dec 2021 14:26:03","Wed, 29 Dec 2021 18:41:31",04:15:29
+2021/12/29,US Team 60,sking@youngliving.com,"Wed, 29 Dec 2021 10:59:12","Wed, 29 Dec 2021 12:09:29",01:10:17
+2021/12/29,US Team 60,tmuagututia@youngliving.com,"Wed, 29 Dec 2021 12:30:49","Wed, 29 Dec 2021 21:15:21",08:44:32
+2021/12/29,US Team 61,escadden@youngliving.com,"Wed, 29 Dec 2021 11:05:01","Wed, 29 Dec 2021 16:11:03",05:06:02
+2021/12/29,US Team 61,japerkins@youngliving.com,"Wed, 29 Dec 2021 11:33:26","Wed, 29 Dec 2021 17:24:44",05:51:17
+2021/12/29,US Team 61,jobutler@youngliving.com,"Wed, 29 Dec 2021 10:04:09","Wed, 29 Dec 2021 16:01:49",05:57:40
+2021/12/29,US Team 61,joevans@youngliving.com,"Wed, 29 Dec 2021 12:29:11","Wed, 29 Dec 2021 21:02:02",08:32:51
+2021/12/29,US Team 61,jschwalbe@youngliving.com,"Wed, 29 Dec 2021 10:00:09","Wed, 29 Dec 2021 17:43:10",07:43:01
+2021/12/29,US Team 61,molsen@youngliving.com,"Wed, 29 Dec 2021 10:30:23","Wed, 29 Dec 2021 12:38:43",02:08:20
+2021/12/29,US Team 61,molsen@youngliving.com,"Wed, 29 Dec 2021 12:38:43","Wed, 29 Dec 2021 16:00:50",03:22:07
+2021/12/29,US Team 61,molsen@youngliving.com,"Wed, 29 Dec 2021 16:00:50","Wed, 29 Dec 2021 18:03:16",02:02:26
+2021/12/29,US Team 61,molsen@youngliving.com,"Wed, 29 Dec 2021 18:03:16","Wed, 29 Dec 2021 21:01:01",02:57:44
+2021/12/29,US Team 61,msobotka@youngliving.com,"Wed, 29 Dec 2021 17:02:05","Wed, 29 Dec 2021 21:15:47",04:13:42
+2021/12/29,US Team 61,rcarter@youngliving.com,"Wed, 29 Dec 2021 10:00:22","Wed, 29 Dec 2021 20:36:52",10:36:30
+2021/12/29,US Team 61,sjeli@youngliving.com,"Wed, 29 Dec 2021 17:00:15","Wed, 29 Dec 2021 21:22:52",04:22:36
+2021/12/29,US Team 61,tnielson@youngliving.com,"Wed, 29 Dec 2021 11:59:25","Wed, 29 Dec 2021 21:02:09",09:02:44
+2021/12/29,US Team 62,agroves@youngliving.com,"Wed, 29 Dec 2021 12:25:05","Wed, 29 Dec 2021 12:45:46",00:20:41
+2021/12/29,US Team 62,agroves@youngliving.com,"Wed, 29 Dec 2021 13:25:17","Wed, 29 Dec 2021 13:33:46",00:08:29
+2021/12/29,US Team 62,agroves@youngliving.com,"Wed, 29 Dec 2021 13:43:49","Wed, 29 Dec 2021 17:58:48",04:14:59
+2021/12/29,US Team 62,agroves@youngliving.com,"Wed, 29 Dec 2021 17:59:12","Wed, 29 Dec 2021 19:00:36",01:01:24
+2021/12/29,US Team 62,bmitchell@youngliving.com,"Wed, 29 Dec 2021 05:48:10","Wed, 29 Dec 2021 15:01:46",09:13:36
+2021/12/29,US Team 62,ddraper@youngliving.com,"Wed, 29 Dec 2021 14:16:25","Wed, 29 Dec 2021 21:02:31",06:46:06
+2021/12/29,US Team 62,djensen@youngliving.com,"Wed, 29 Dec 2021 08:03:00","Wed, 29 Dec 2021 16:30:36",08:27:36
+2021/12/29,US Team 62,ltoa@youngliving.com,"Wed, 29 Dec 2021 05:04:47","Wed, 29 Dec 2021 13:33:39",08:28:52
+2021/12/29,US Team 62,mstruyk@youngliving.com,"Wed, 29 Dec 2021 05:52:05","Wed, 29 Dec 2021 05:53:10",00:01:05
+2021/12/29,US Team 62,mstruyk@youngliving.com,"Wed, 29 Dec 2021 05:53:23","Wed, 29 Dec 2021 05:53:59",00:00:36
+2021/12/29,US Team 62,mstruyk@youngliving.com,"Wed, 29 Dec 2021 05:54:14","Wed, 29 Dec 2021 05:57:26",00:03:12
+2021/12/29,US Team 62,mstruyk@youngliving.com,"Wed, 29 Dec 2021 06:01:38","Wed, 29 Dec 2021 14:32:16",08:30:38
+2021/12/29,US Team 62,rwiley@youngliving.com,"Wed, 29 Dec 2021 05:02:16","Wed, 29 Dec 2021 15:41:34",10:39:17

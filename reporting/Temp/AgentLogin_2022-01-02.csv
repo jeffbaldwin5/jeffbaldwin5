@@ -1,0 +1,146 @@
+DATE,AGENT GROUP,AGENT EMAIL,LOGIN TIMESTAMP,LOGOUT TIMESTAMP,LOGIN TIME
+2022/01/02,,jalvey@youngliving.com,"Sun, 2 Jan 2022 13:02:59","Sun, 2 Jan 2022 21:56:44",08:53:45
+2022/01/02,4NDM,v-emguzman@youngliving.com,"Sun, 2 Jan 2022 05:59:55","Sun, 2 Jan 2022 14:33:07",08:33:12
+2022/01/02,4NDM,v-gogonzalez@youngliving.com,"Sun, 2 Jan 2022 04:57:01","Sun, 2 Jan 2022 13:41:41",08:44:40
+2022/01/02,4NDM,v-janaya@youngliving.com,"Sun, 2 Jan 2022 04:59:08","Sun, 2 Jan 2022 14:03:34",09:04:25
+2022/01/02,4NDM,v-lchernandez@youngliving.com,"Sun, 2 Jan 2022 16:24:09","Sun, 2 Jan 2022 21:00:09",04:36:00
+2022/01/02,4NDM,v-lghipolito@youngliving.com,"Sun, 2 Jan 2022 12:21:31","Sun, 2 Jan 2022 21:00:36",08:39:05
+2022/01/02,4NDM,v-lmoncada@youngliving.com,"Sun, 2 Jan 2022 12:26:21","Sun, 2 Jan 2022 21:00:38",08:34:17
+2022/01/02,4NDM,v-lvillanueva@youngliving.com,"Sun, 2 Jan 2022 04:54:38","Sun, 2 Jan 2022 04:56:43",00:02:05
+2022/01/02,4NDM,v-lvillanueva@youngliving.com,"Sun, 2 Jan 2022 05:07:31","Sun, 2 Jan 2022 13:36:17",08:28:46
+2022/01/02,4NDM,v-nruiz@youngliving.com,"Sun, 2 Jan 2022 07:18:36","Sun, 2 Jan 2022 15:57:08",08:38:32
+2022/01/02,4NDM,v-rguerrero@youngliving.com,"Sun, 2 Jan 2022 05:06:55","Sun, 2 Jan 2022 13:42:12",08:35:17
+2022/01/02,4NDM,v-rsaldiernagar@youngliving.com,"Sun, 2 Jan 2022 08:11:00","Sun, 2 Jan 2022 16:30:25",08:19:25
+2022/01/02,4NDM,v-spasos@youngliving.com,"Sun, 2 Jan 2022 12:18:58","Sun, 2 Jan 2022 21:05:37",08:46:39
+2022/01/02,Buwelo,cprimavera@youngliving.com,"Sun, 2 Jan 2022 05:09:21","Sun, 2 Jan 2022 14:01:31",08:52:11
+2022/01/02,Buwelo,v-aatayan@youngliving.com,"Sun, 2 Jan 2022 05:01:26","Sun, 2 Jan 2022 14:00:10",08:58:44
+2022/01/02,Buwelo,v-adiaz@youngliving.com,"Sun, 2 Jan 2022 05:08:27","Sun, 2 Jan 2022 14:01:51",08:53:24
+2022/01/02,Buwelo,v-adomangcas@youngliving.com,"Sun, 2 Jan 2022 12:06:57","Sun, 2 Jan 2022 21:37:09",09:30:12
+2022/01/02,Buwelo,v-afantone@youngliving.com,"Sun, 2 Jan 2022 12:02:29","Sun, 2 Jan 2022 21:28:15",09:25:45
+2022/01/02,Buwelo,v-aherrera@youngliving.com,"Sun, 2 Jan 2022 12:02:25","Sun, 2 Jan 2022 21:05:57",09:03:32
+2022/01/02,Buwelo,v-alazarito@youngliving.com,"Sun, 2 Jan 2022 05:07:33","Sun, 2 Jan 2022 14:02:01",08:54:27
+2022/01/02,Buwelo,v-anunag@youngliving.com,"Sun, 2 Jan 2022 06:00:49","Sun, 2 Jan 2022 15:02:59",09:02:11
+2022/01/02,Buwelo,v-arebutoc@youngliving.com,"Sun, 2 Jan 2022 05:04:19","Sun, 2 Jan 2022 14:00:13",08:55:54
+2022/01/02,Buwelo,v-aroy@youngliving.com,"Sun, 2 Jan 2022 12:01:17","Sun, 2 Jan 2022 21:12:59",09:11:42
+2022/01/02,Buwelo,v-ationgco@youngliving.com,"Sun, 2 Jan 2022 05:11:17","Sun, 2 Jan 2022 14:10:28",08:59:12
+2022/01/02,Buwelo,v-breforada@youngliving.com,"Sun, 2 Jan 2022 05:02:28","Sun, 2 Jan 2022 14:10:12",09:07:44
+2022/01/02,Buwelo,v-cbautista@youngliving.com,"Sun, 2 Jan 2022 12:00:46","Sun, 2 Jan 2022 21:30:59",09:30:12
+2022/01/02,Buwelo,v-cbonan@youngliving.com,"Sun, 2 Jan 2022 05:27:17","Sun, 2 Jan 2022 14:16:33",08:49:16
+2022/01/02,Buwelo,v-cdinco@youngliving.com,"Sun, 2 Jan 2022 05:07:56","Sun, 2 Jan 2022 14:13:54",09:05:58
+2022/01/02,Buwelo,v-cpansalin@youngliving.com,"Sun, 2 Jan 2022 04:56:28","Sun, 2 Jan 2022 14:02:04",09:05:36
+2022/01/02,Buwelo,v-crevilla@youngliving.com,"Sun, 2 Jan 2022 05:05:40","Sun, 2 Jan 2022 14:32:02",09:26:22
+2022/01/02,Buwelo,v-csangalang@youngliving.com,"Sun, 2 Jan 2022 05:59:30","Sun, 2 Jan 2022 14:03:54",08:04:24
+2022/01/02,Buwelo,v-csantos@youngliving.com,"Sun, 2 Jan 2022 11:53:57","Sun, 2 Jan 2022 11:54:25",00:00:28
+2022/01/02,Buwelo,v-csantos@youngliving.com,"Sun, 2 Jan 2022 12:01:47","Sun, 2 Jan 2022 21:13:53",09:12:06
+2022/01/02,Buwelo,v-csulit@youngliving.com,"Sun, 2 Jan 2022 13:39:02","Sun, 2 Jan 2022 20:57:24",07:18:22
+2022/01/02,Buwelo,v-dmontelijao@youngliving.com,"Sun, 2 Jan 2022 04:59:46","Sun, 2 Jan 2022 14:00:26",09:00:41
+2022/01/02,Buwelo,v-drealo@youngliving.com,"Sun, 2 Jan 2022 05:34:41","Sun, 2 Jan 2022 14:20:24",08:45:43
+2022/01/02,Buwelo,v-ebugayong@youngliving.com,"Sun, 2 Jan 2022 05:02:48","Sun, 2 Jan 2022 14:03:55",09:01:07
+2022/01/02,Buwelo,v-ecandare@youngliving.com,"Sun, 2 Jan 2022 07:21:53","Sun, 2 Jan 2022 09:16:58",01:55:06
+2022/01/02,Buwelo,v-ecandare@youngliving.com,"Sun, 2 Jan 2022 09:16:58","Sun, 2 Jan 2022 14:06:43",04:49:45
+2022/01/02,Buwelo,v-gbaloy@youngliving.com,"Sun, 2 Jan 2022 06:03:22","Sun, 2 Jan 2022 15:14:46",09:11:23
+2022/01/02,Buwelo,v-geclarino@youngliving.com,"Sun, 2 Jan 2022 08:02:04","Sun, 2 Jan 2022 14:17:30",06:15:26
+2022/01/02,Buwelo,v-gzerna@youngliving.com,"Sun, 2 Jan 2022 12:06:07","Sun, 2 Jan 2022 21:09:04",09:02:57
+2022/01/02,Buwelo,v-imallari@youngliving.com,"Sun, 2 Jan 2022 05:22:33","Sun, 2 Jan 2022 14:00:35",08:38:02
+2022/01/02,Buwelo,v-jacson@youngliving.com,"Sun, 2 Jan 2022 05:17:34","Sun, 2 Jan 2022 14:00:34",08:43:00
+2022/01/02,Buwelo,v-jcuenca@youngliving.com,"Sun, 2 Jan 2022 12:11:10","Sun, 2 Jan 2022 21:42:38",09:31:28
+2022/01/02,Buwelo,v-jgayacao@youngliving.com,"Sun, 2 Jan 2022 12:47:10","Sun, 2 Jan 2022 21:14:45",08:27:35
+2022/01/02,Buwelo,v-jgiba@youngliving.com,"Sun, 2 Jan 2022 05:18:21","Sun, 2 Jan 2022 14:02:35",08:44:15
+2022/01/02,Buwelo,v-josdeguzman@youngliving.com,"Sun, 2 Jan 2022 05:02:05","Sun, 2 Jan 2022 14:00:39",08:58:34
+2022/01/02,Buwelo,v-jrogado@youngliving.com,"Sun, 2 Jan 2022 05:22:43","Sun, 2 Jan 2022 11:32:30",06:09:46
+2022/01/02,Buwelo,v-jrogado@youngliving.com,"Sun, 2 Jan 2022 12:55:55","Sun, 2 Jan 2022 14:02:29",01:06:34
+2022/01/02,Buwelo,v-jtadeo@youngliving.com,"Sun, 2 Jan 2022 05:04:01","Sun, 2 Jan 2022 14:29:35",09:25:34
+2022/01/02,Buwelo,v-jtantay@youngliving.com,"Sun, 2 Jan 2022 05:07:01","Sun, 2 Jan 2022 14:13:06",09:06:05
+2022/01/02,Buwelo,v-lbaeshen@youngliving.com,"Sun, 2 Jan 2022 05:09:37","Sun, 2 Jan 2022 14:01:56",08:52:19
+2022/01/02,Buwelo,v-ltejoc@youngliving.com,"Sun, 2 Jan 2022 05:18:18","Sun, 2 Jan 2022 14:02:12",08:43:55
+2022/01/02,Buwelo,v-lventurero@youngliving.com,"Sun, 2 Jan 2022 05:18:08","Sun, 2 Jan 2022 14:02:19",08:44:12
+2022/01/02,Buwelo,v-maarce@youngliving.com,"Sun, 2 Jan 2022 05:02:30","Sun, 2 Jan 2022 14:25:17",09:22:46
+2022/01/02,Buwelo,v-mamolat@youngliving.com,"Sun, 2 Jan 2022 04:59:24","Sun, 2 Jan 2022 14:01:34",09:02:10
+2022/01/02,Buwelo,v-marce@youngliving.com,"Sun, 2 Jan 2022 06:06:58","Sun, 2 Jan 2022 15:02:54",08:55:56
+2022/01/02,Buwelo,v-mbada@youngliving.com,"Sun, 2 Jan 2022 05:04:12","Sun, 2 Jan 2022 14:01:33",08:57:21
+2022/01/02,Buwelo,v-mestomago@youngliving.com,"Sun, 2 Jan 2022 05:13:21","Sun, 2 Jan 2022 14:01:27",08:48:06
+2022/01/02,Buwelo,v-mforelo@youngliving.com,"Sun, 2 Jan 2022 05:02:53","Sun, 2 Jan 2022 14:01:32",08:58:39
+2022/01/02,Buwelo,v-mgaberia@youngliving.com,"Sun, 2 Jan 2022 04:56:42","Sun, 2 Jan 2022 14:05:25",09:08:44
+2022/01/02,Buwelo,v-mjperez@youngliving.com,"Sun, 2 Jan 2022 05:05:09","Sun, 2 Jan 2022 14:01:59",08:56:50
+2022/01/02,Buwelo,v-mpahayahay@youngliving.com,"Sun, 2 Jan 2022 05:15:41","Sun, 2 Jan 2022 14:01:50",08:46:10
+2022/01/02,Buwelo,v-msantos@youngliving.com,"Sun, 2 Jan 2022 04:46:00","Sun, 2 Jan 2022 14:01:36",09:15:36
+2022/01/02,Buwelo,v-mservidad@youngliving.com,"Sun, 2 Jan 2022 04:50:10","Sun, 2 Jan 2022 14:07:27",09:17:18
+2022/01/02,Buwelo,v-msubrio@youngliving.com,"Sun, 2 Jan 2022 05:02:21","Sun, 2 Jan 2022 14:00:39",08:58:18
+2022/01/02,Buwelo,v-pbasa@youngliving.com,"Sun, 2 Jan 2022 05:59:21","Sun, 2 Jan 2022 15:10:04",09:10:43
+2022/01/02,Buwelo,v-psalafrania@youngliving.com,"Sun, 2 Jan 2022 06:09:41","Sun, 2 Jan 2022 15:37:25",09:27:44
+2022/01/02,Buwelo,v-rasanas@youngliving.com,"Sun, 2 Jan 2022 05:04:48","Sun, 2 Jan 2022 14:06:31",09:01:43
+2022/01/02,Buwelo,v-rconcepcion@youngliving.com,"Sun, 2 Jan 2022 06:04:48","Sun, 2 Jan 2022 15:06:36",09:01:48
+2022/01/02,Buwelo,v-rdaria@youngliving.com,"Sun, 2 Jan 2022 05:05:59","Sun, 2 Jan 2022 14:01:44",08:55:44
+2022/01/02,Buwelo,v-relee@youngliving.com,"Sun, 2 Jan 2022 12:15:06","Sun, 2 Jan 2022 12:15:22",00:00:16
+2022/01/02,Buwelo,v-relee@youngliving.com,"Sun, 2 Jan 2022 12:17:50","Sun, 2 Jan 2022 21:07:30",08:49:40
+2022/01/02,Buwelo,v-rerese@youngliving.com,"Sun, 2 Jan 2022 04:56:12","Sun, 2 Jan 2022 14:01:44",09:05:32
+2022/01/02,Buwelo,v-rfelicidario@youngliving.com,"Sun, 2 Jan 2022 06:03:36","Sun, 2 Jan 2022 15:04:00",09:00:24
+2022/01/02,Buwelo,v-rfung@youngliving.com,"Sun, 2 Jan 2022 04:53:52","Sun, 2 Jan 2022 14:02:13",09:08:22
+2022/01/02,Buwelo,v-rhallare@youngliving.com,"Sun, 2 Jan 2022 13:31:17","Sun, 2 Jan 2022 21:42:44",08:11:27
+2022/01/02,Buwelo,v-rlee@youngliving.com,"Sun, 2 Jan 2022 11:31:24","Sun, 2 Jan 2022 12:25:46",00:54:21
+2022/01/02,Buwelo,v-rrumeral@youngliving.com,"Sun, 2 Jan 2022 04:48:23","Sun, 2 Jan 2022 14:05:47",09:17:24
+2022/01/02,Buwelo,v-sbuna@youngliving.com,"Sun, 2 Jan 2022 04:52:47","Sun, 2 Jan 2022 13:59:52",09:07:05
+2022/01/02,Buwelo,v-shizarsa@youngliving.com,"Sun, 2 Jan 2022 06:06:04","Sun, 2 Jan 2022 09:07:07",03:01:03
+2022/01/02,Buwelo,v-shizarsa@youngliving.com,"Sun, 2 Jan 2022 10:11:12","Sun, 2 Jan 2022 11:43:55",01:32:43
+2022/01/02,Buwelo,v-shizarsa@youngliving.com,"Sun, 2 Jan 2022 11:46:11","Sun, 2 Jan 2022 15:02:10",03:15:59
+2022/01/02,Buwelo,v-slegaspi@youngliving.com,"Sun, 2 Jan 2022 05:02:42","Sun, 2 Jan 2022 14:03:14",09:00:33
+2022/01/02,Buwelo,v-tsario@youngliving.com,"Sun, 2 Jan 2022 06:31:57","Sun, 2 Jan 2022 14:02:33",07:30:36
+2022/01/02,Buwelo,v-wsamson@youngliving.com,"Sun, 2 Jan 2022 12:03:00","Sun, 2 Jan 2022 21:34:53",09:31:53
+2022/01/02,Buwelo,v-ymapa@youngliving.com,"Sun, 2 Jan 2022 04:57:05","Sun, 2 Jan 2022 14:00:34",09:03:29
+2022/01/02,Buwelo Canada,v-amontales@youngliving.com,"Sun, 2 Jan 2022 05:11:32","Sun, 2 Jan 2022 14:13:42",09:02:09
+2022/01/02,Buwelo Canada,v-caninag@youngliving.com,"Sun, 2 Jan 2022 12:01:47","Sun, 2 Jan 2022 21:42:31",09:40:44
+2022/01/02,Buwelo Canada,v-csulit@youngliving.com,"Sun, 2 Jan 2022 13:39:02","Sun, 2 Jan 2022 20:57:24",07:18:22
+2022/01/02,Buwelo Canada,v-geclarino@youngliving.com,"Sun, 2 Jan 2022 08:02:04","Sun, 2 Jan 2022 14:17:30",06:15:26
+2022/01/02,Buwelo Canada,v-jdeluna@youngliving.com,"Sun, 2 Jan 2022 12:00:17","Sun, 2 Jan 2022 21:42:52",09:42:35
+2022/01/02,Buwelo Canada,v-jroldan@youngliving.com,"Sun, 2 Jan 2022 12:00:59","Sun, 2 Jan 2022 22:16:26",10:15:27
+2022/01/02,Buwelo Canada,v-kbalagtas@youngliving.com,"Sun, 2 Jan 2022 06:04:34","Sun, 2 Jan 2022 15:15:03",09:10:30
+2022/01/02,Buwelo Canada,v-kgarcia@youngliving.com,"Sun, 2 Jan 2022 12:07:44","Sun, 2 Jan 2022 21:27:32",09:19:48
+2022/01/02,Buwelo Canada,v-msantos@youngliving.com,"Sun, 2 Jan 2022 04:46:00","Sun, 2 Jan 2022 14:01:36",09:15:36
+2022/01/02,Buwelo Canada,v-rhallare@youngliving.com,"Sun, 2 Jan 2022 13:31:17","Sun, 2 Jan 2022 21:42:44",08:11:27
+2022/01/02,Buwelo Canada,v-rlee@youngliving.com,"Sun, 2 Jan 2022 11:31:24","Sun, 2 Jan 2022 12:25:46",00:54:21
+2022/01/02,Buwelo Canada,v-rrumeral@youngliving.com,"Sun, 2 Jan 2022 04:48:23","Sun, 2 Jan 2022 14:05:47",09:17:24
+2022/01/02,Teleperformance,v-arosil@youngliving.com,"Sun, 2 Jan 2022 11:57:40","Sun, 2 Jan 2022 21:10:49",09:13:08
+2022/01/02,Teleperformance,v-carriola@youngliving.com,"Sun, 2 Jan 2022 11:52:52","Sun, 2 Jan 2022 21:42:23",09:49:30
+2022/01/02,Teleperformance,v-ctandas@youngliving.com,"Sun, 2 Jan 2022 11:50:53","Sun, 2 Jan 2022 21:26:44",09:35:52
+2022/01/02,Teleperformance,v-dmabasa@youngliving.com,"Sun, 2 Jan 2022 07:01:28","Sun, 2 Jan 2022 15:30:50",08:29:23
+2022/01/02,Teleperformance,v-fismael@youngliving.com,"Sun, 2 Jan 2022 07:14:12","Sun, 2 Jan 2022 11:00:06",03:45:55
+2022/01/02,Teleperformance,v-fismael@youngliving.com,"Sun, 2 Jan 2022 11:14:10","Sun, 2 Jan 2022 12:28:36",01:14:25
+2022/01/02,Teleperformance,v-fismael@youngliving.com,"Sun, 2 Jan 2022 13:59:32","Sun, 2 Jan 2022 15:39:16",01:39:44
+2022/01/02,Teleperformance,v-hagbisit@youngliving.com,"Sun, 2 Jan 2022 12:26:49","Sun, 2 Jan 2022 15:37:56",03:11:07
+2022/01/02,Teleperformance,v-jamongo@youngliving.com,"Sun, 2 Jan 2022 11:51:35","Sun, 2 Jan 2022 21:12:22",09:20:47
+2022/01/02,Teleperformance,v-jbalasabas@youngliving.com,"Sun, 2 Jan 2022 12:37:20","Sun, 2 Jan 2022 21:27:06",08:49:46
+2022/01/02,Teleperformance,v-jCorrea@youngliving.com,"Sun, 2 Jan 2022 07:30:15","Sun, 2 Jan 2022 15:30:51",08:00:36
+2022/01/02,Teleperformance,v-jmisa@youngliving.com,"Sun, 2 Jan 2022 07:23:29","Sun, 2 Jan 2022 15:30:53",08:07:24
+2022/01/02,Teleperformance,v-kbodullo@youngliving.com,"Sun, 2 Jan 2022 07:21:43","Sun, 2 Jan 2022 12:53:41",05:31:58
+2022/01/02,Teleperformance,v-kbodullo@youngliving.com,"Sun, 2 Jan 2022 12:54:01","Sun, 2 Jan 2022 15:34:07",02:40:06
+2022/01/02,Teleperformance,v-ksison@youngliving.com,"Sun, 2 Jan 2022 06:59:21","Sun, 2 Jan 2022 13:27:25",06:28:04
+2022/01/02,Teleperformance,v-ksison@youngliving.com,"Sun, 2 Jan 2022 13:28:18","Sun, 2 Jan 2022 15:30:36",02:02:18
+2022/01/02,Teleperformance,v-mdelarosa@youngliving.com,"Sun, 2 Jan 2022 07:15:39","Sun, 2 Jan 2022 08:13:38",00:57:59
+2022/01/02,Teleperformance,v-mdelarosa@youngliving.com,"Sun, 2 Jan 2022 08:17:12","Sun, 2 Jan 2022 13:43:53",05:26:41
+2022/01/02,Teleperformance,v-mdelarosa@youngliving.com,"Sun, 2 Jan 2022 13:44:24","Sun, 2 Jan 2022 15:39:31",01:55:06
+2022/01/02,Teleperformance,v-mmortez@youngliving.com,"Sun, 2 Jan 2022 10:59:07","Sun, 2 Jan 2022 13:57:46",02:58:38
+2022/01/02,Teleperformance,v-mmortez@youngliving.com,"Sun, 2 Jan 2022 14:02:15","Sun, 2 Jan 2022 19:37:46",05:35:31
+2022/01/02,Teleperformance,v-mmortez@youngliving.com,"Sun, 2 Jan 2022 19:52:15","Sun, 2 Jan 2022 20:23:34",00:31:19
+2022/01/02,Teleperformance,v-rmalavega@youngliving.com,"Sun, 2 Jan 2022 10:58:17","Sun, 2 Jan 2022 20:21:27",09:23:10
+2022/01/02,Teleperformance,v-rnieva@youngliving.com,"Sun, 2 Jan 2022 07:10:23","Sun, 2 Jan 2022 12:14:12",05:03:49
+2022/01/02,Teleperformance,v-rnieva@youngliving.com,"Sun, 2 Jan 2022 14:00:08","Sun, 2 Jan 2022 15:44:24",01:44:16
+2022/01/02,US M11,dhancock@youngliving.com,"Sun, 2 Jan 2022 11:39:16","Sun, 2 Jan 2022 21:05:39",09:26:23
+2022/01/02,US M13,nstratton@youngliving.com,"Sun, 2 Jan 2022 06:34:44","Sun, 2 Jan 2022 15:02:58",08:28:14
+2022/01/02,US M14,nstratton@youngliving.com,"Sun, 2 Jan 2022 06:34:44","Sun, 2 Jan 2022 15:02:58",08:28:14
+2022/01/02,US Team 13,jtrinidad@youngliving.com,"Sun, 2 Jan 2022 07:31:43","Sun, 2 Jan 2022 11:40:42",04:09:00
+2022/01/02,US Team 17,herickson@youngliving.com,"Sun, 2 Jan 2022 09:23:54","Sun, 2 Jan 2022 15:34:13",06:10:19
+2022/01/02,US Team 17,llarsen@youngliving.com,"Sun, 2 Jan 2022 07:00:34","Sun, 2 Jan 2022 08:42:20",01:41:45
+2022/01/02,US Team 17,llarsen@youngliving.com,"Sun, 2 Jan 2022 08:42:57","Sun, 2 Jan 2022 13:45:26",05:02:28
+2022/01/02,US Team 17,llarsen@youngliving.com,"Sun, 2 Jan 2022 13:47:55","Sun, 2 Jan 2022 15:30:13",01:42:18
+2022/01/02,US Team 17,rgeorge@youngliving.com,"Sun, 2 Jan 2022 06:41:44","Sun, 2 Jan 2022 06:41:58",00:00:14
+2022/01/02,US Team 17,rgeorge@youngliving.com,"Sun, 2 Jan 2022 06:42:00","Sun, 2 Jan 2022 06:46:38",00:04:38
+2022/01/02,US Team 17,rgeorge@youngliving.com,"Sun, 2 Jan 2022 06:58:14","Sun, 2 Jan 2022 15:24:00",08:25:46
+2022/01/02,US Team 31,dhancock@youngliving.com,"Sun, 2 Jan 2022 11:39:16","Sun, 2 Jan 2022 21:05:39",09:26:23
+2022/01/02,US Team 41,kpaulsen@youngliving.com,"Sun, 2 Jan 2022 06:59:01","Sun, 2 Jan 2022 15:30:18",08:31:17
+2022/01/02,US Team 47,bmanwaring@youngliving.com,"Sun, 2 Jan 2022 04:57:52","Sun, 2 Jan 2022 07:00:44",02:02:52
+2022/01/02,US Team 47,mrawlins@youngliving.com,"Sun, 2 Jan 2022 05:04:35","Sun, 2 Jan 2022 15:33:32",10:28:57
+2022/01/02,US Team 47,nstratton@youngliving.com,"Sun, 2 Jan 2022 06:34:44","Sun, 2 Jan 2022 15:02:58",08:28:14
+2022/01/02,US Team 53,trcarter@youngliving.com,"Sun, 2 Jan 2022 09:04:39","Sun, 2 Jan 2022 17:13:57",08:09:18
+2022/01/02,US Team 60,dkinsman@youngliving.com,"Sun, 2 Jan 2022 07:00:32","Sun, 2 Jan 2022 15:35:24",08:34:52
+2022/01/02,US Team 62,bmitchell@youngliving.com,"Sun, 2 Jan 2022 05:49:21","Sun, 2 Jan 2022 15:23:47",09:34:25
+2022/01/02,US Team 62,ddraper@youngliving.com,"Sun, 2 Jan 2022 08:00:14","Sun, 2 Jan 2022 16:36:10",08:35:55

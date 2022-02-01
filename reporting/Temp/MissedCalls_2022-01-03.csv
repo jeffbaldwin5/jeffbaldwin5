@@ -1,0 +1,35 @@
+DATE,TIME,AGENT GROUP,AGENT EMAIL,AGENT NAME,CALL ID,CALLS UNANSWERED BY AGENT,DISPOSITION
+2022/01/03,13:51:56,US Team 10,alazo@youngliving.com,Anabella Lazo,1645279,1,
+2022/01/03,07:46:22,US Team 10,bballinger@youngliving.com,Brook Ballinger,1641991,1,
+2022/01/03,08:57:22,US Team 10,bballinger@youngliving.com,Brook Ballinger,1642679,1,
+2022/01/03,09:32:59,US Team 10,bballinger@youngliving.com,Brook Ballinger,1642980,1,
+2022/01/03,11:28:14,US Team 10,bballinger@youngliving.com,Brook Ballinger,1644027,1,
+2022/01/03,10:28:32,Leadership Support,bhorne@youngliving.com,Bailey Horne,1643518,1,
+2022/01/03,11:30:10,US Team 02,cbristow@youngliving.com,Krissy Bristow,1644048,1,
+2022/01/03,08:29:32,US Team 10,cchristiansen@youngliving.com,Cory Christiansen,1642387,1,No Disposition
+2022/01/03,11:19:35,US Team 10,cchristiansen@youngliving.com,Cory Christiansen,1643965,1,No Answer or Response
+2022/01/03,11:40:45,US Team 03,cconger@youngliving.com,Crystal Conger,1644130,1,No Disposition
+2022/01/03,19:13:19,US Team 53,dahansen@youngliving.com,Daije Hansen,1646589,1,
+2022/01/03,11:12:51,US Team 12,dlark@youngliving.com,Denise Lark,1643837,1,1TO Order
+2022/01/03,05:41:16,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1641259,1,
+2022/01/03,10:28:09,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1643511,1,
+2022/01/03,12:49:52,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1644805,1,
+2022/01/03,14:11:55,Canada Filter,jrobinson@youngliving.com,James Robinson,1645433,1,
+2022/01/03,11:10:56,US Team 41,kwybrant@youngliving.com,Kimberly Wybrant,1643902,1,
+2022/01/03,10:30:05,US Team 17,mpratt@youngliving.com,Melissa Pratt,1643539,1,
+2022/01/03,10:52:52,US Team 10,smadrigal@youngliving.com,Silvia Madrigal,1643740,1,
+2022/01/03,11:30:03,US Team 10,smadrigal@youngliving.com,Silvia Madrigal,1644047,1,
+2022/01/03,09:59:16,,srodiles@youngliving.com,Sandra Rodiles,1643232,1,
+2022/01/03,11:19:11,,srodiles@youngliving.com,Sandra Rodiles,1643965,1,
+2022/01/03,10:59:51,US Team 03,toropeza@youngliving.com,Triscilla Oropeza,1643836,1,
+2022/01/03,12:33:17,US Team 03,toropeza@youngliving.com,Triscilla Oropeza,1644638,1,
+2022/01/03,13:31:49,Teleperformance,v-arncruz@youngliving.com,Arnie Cruz,1645112,1,
+2022/01/03,09:45:05,Buwelo Training,v-cpascua@youngliving.com,Christian Pascua,1643122,1,
+2022/01/03,08:42:54,4NDM,v-gogonzalez@youngliving.com,Golda Gonzalez,1642569,1,
+2022/01/03,09:49:02,Buwelo Training,v-jogonzales@youngliving.com,Jomar Gonzales,1643144,1,No Answer or Response
+2022/01/03,10:18:12,Teleperformance,v-pcalica@youngliving.com,Prince Asis Calica,1643393,1,No Answer or Response
+2022/01/03,07:56:55,Buwelo,v-rbobadilla@youngliving.com,Rica Bobadilla,1642091,1,Commission Inquiry
+2022/01/03,08:14:50,Buwelo,v-rbobadilla@youngliving.com,Rica Bobadilla,1642251,1,No Disposition
+2022/01/03,17:42:55,Buwelo Canada,v-rpendos@youngliving.com,Ramon Pendos Jr.,1646395,1,
+2022/01/03,13:44:15,Buwelo Canada,v-rramos@youngliving.com,Romeo Jr. Ramos,1645207,1,
+2022/01/03,09:34:41,Buwelo,v-vcalumpang@youngliving.com,Vanessa Calumpang,1643004,1,No Answer or Response

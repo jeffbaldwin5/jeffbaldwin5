@@ -1,0 +1,50 @@
+DATE,TIME,AGENT GROUP,AGENT EMAIL,AGENT NAME,CALL ID,CALLS UNANSWERED BY AGENT,DISPOSITION
+2022/01/24,13:24:45,US Team 10,bballinger@youngliving.com,Brook Ballinger,1719290,1,
+2022/01/24,07:56:14,US Team 52,bbarrus@youngliving.com,Braydn Barrus,1716099,1,No Answer or Response
+2022/01/24,11:49:32,US Team 52,bbarrus@youngliving.com,Braydn Barrus,1718426,1,
+2022/01/24,19:29:24,US Team 53,bchaffin@youngliving.com,Brianna Chaffin,1721068,1,
+2022/01/24,16:05:29,US Team 53,bwray@youngliving.com,Brook Wray,1720399,1,
+2022/01/24,16:07:25,US Team 53,bwray@youngliving.com,Brook Wray,1720407,1,
+2022/01/24,16:36:37,US Team 53,bwray@youngliving.com,Brook Wray,1720547,1,
+2022/01/24,17:50:13,US Team 53,bwray@youngliving.com,Brook Wray,1720811,1,
+2022/01/24,17:54:43,US Team 53,bwray@youngliving.com,Brook Wray,1720821,1,
+2022/01/24,18:14:25,US Team 53,bwray@youngliving.com,Brook Wray,1720894,1,
+2022/01/24,18:46:12,US Team 53,bwray@youngliving.com,Brook Wray,1720982,1,
+2022/01/24,19:33:02,US Team 53,bwray@youngliving.com,Brook Wray,1721075,1,
+2022/01/24,20:17:21,US Team 53,bwray@youngliving.com,Brook Wray,1721130,1,
+2022/01/24,12:59:57,US Team 10,cchristiansen@youngliving.com,Cory Christiansen,1719050,1,
+2022/01/24,11:52:23,US Team 03,cconger@youngliving.com,Crystal Conger,1718453,1,
+2022/01/24,13:03:33,Leadership Support,hmoore@youngliving.com,Holly Moore,1719094,1,
+2022/01/24,09:54:34,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1717321,1,No Disposition
+2022/01/24,12:42:57,US Team 10,iaumavae@youngliving.com,Iva Aumavae,1718887,1,
+2022/01/24,13:13:11,US Team 03,krasmussen@youngliving.com,Keylee Rasmussen,1719172,1,
+2022/01/24,06:19:37,US Team 41,kwybrant@youngliving.com,Kimberly Wybrant,1715577,1,
+2022/01/24,10:15:56,US Team 41,kwybrant@youngliving.com,Kimberly Wybrant,1717472,1,
+2022/01/24,13:08:51,Leadership Support,lshepherd@youngliving.com,Laureen Shepherd,1719112,1,
+2022/01/24,13:29:15,US Team 12,lsopchak@youngliving.com,Laura Sopchak,1719324,1,
+2022/01/24,09:07:22,US Team 17,mpratt@youngliving.com,Melissa Pratt,1716891,1,
+2022/01/24,10:10:47,US Team 17,mpratt@youngliving.com,Melissa Pratt,1717444,1,
+2022/01/24,11:58:19,US Team 17,mpratt@youngliving.com,Melissa Pratt,1718517,1,
+2022/01/24,09:30:33,Leadership Support,nramos@youngliving.com,Nelson Ramos,1716997,1,
+2022/01/24,07:58:06,Leadership Support,prawlins@youngliving.com,Peggy Rawlins,1716250,1,
+2022/01/24,07:16:48,US Team 13,sphillips@youngliving.com,Susan Phillips,1715830,1,
+2022/01/24,07:48:22,US Team 52,taguilar@youngliving.com,Teresa Aguilar,1716013,1,
+2022/01/24,15:09:25,US Team 60,tmuagututia@youngliving.com,Tautaipaopao Muagututia,1720078,1,
+2022/01/24,08:35:54,,tturner@youngliving.com,Tiffani Turner,1716670,1,
+2022/01/24,08:36:26,,tturner@youngliving.com,Tiffani Turner,1716670,1,
+2022/01/24,08:51:04,,tturner@youngliving.com,Tiffani Turner,1716790,1,
+2022/01/24,08:53:08,,tturner@youngliving.com,Tiffani Turner,1716815,1,
+2022/01/24,08:53:37,,tturner@youngliving.com,Tiffani Turner,1716815,1,
+2022/01/24,10:50:40,,tturner@youngliving.com,Tiffani Turner,1717873,1,
+2022/01/24,15:47:28,,tturner@youngliving.com,Tiffani Turner,1720324,1,
+2022/01/24,08:57:28,Buwelo Training,v-agabanes@youngliving.com,Adrian Gabanes,1716828,1,No Disposition
+2022/01/24,11:06:15,Buwelo,v-cgarrido@youngliving.com,Cyril Garrido,1717918,1,No Answer or Response
+2022/01/24,09:25:20,4NDM,v-icanales@youngliving.com,Itzell Aaparo Arroyo Canales,1717083,1,
+2022/01/24,11:45:39,4NDM,v-icanales@youngliving.com,Itzell Aaparo Arroyo Canales,1718402,1,
+2022/01/24,07:05:04,Buwelo Training,v-jcastrence@youngliving.com,Jeremiah Castrence,1715778,1,No Answer or Response
+2022/01/24,09:26:04,Buwelo Training,v-kalibasa@youngliving.com,Kimberly Alibasa,1717067,1,No Disposition
+2022/01/24,11:31:45,Buwelo Training,v-kmonesit@youngliving.com,Kimberly Monesit,1718225,1,No Answer or Response
+2022/01/24,07:16:05,Buwelo,v-mgarcia@youngliving.com,Micca Joy Garcia,1715829,1,1TO Order
+2022/01/24,10:53:58,Buwelo Training,v-rmatacot@youngliving.com,Rolando Matacot Jr,1717796,1,No Answer or Response
+2022/01/24,18:37:33,Buwelo Training,v-tsantos@youngliving.com,Tom Santos,1720955,1,No Answer or Response
+2022/01/24,16:44:39,Buwelo,v-wsamson@youngliving.com,Wynzen Adam Samson,1720578,1,

@@ -1,0 +1,294 @@
+DATE,AGENT GROUP,AGENT EMAIL,1TO Cancel / CALLS,1TO Order / CALLS,1TO Points / CALLS,Abandon - QCB Active Queue / CALLS,Abandon - QCB Inactive Queue / CALLS,Account Termination / CALLS,AER or Product Complaint / CALLS,Back Order Status / CALLS,Backdate / CALLS,Change Referrer - SP or EN / CALLS,Commission Inquiry / CALLS,Diffuser Troubleshooting / CALLS,Events / CALLS,Gift Certificate / CALLS,MyYL Website Subscription / CALLS,No Answer or Response / CALLS,No Disposition / CALLS,Payment Issue / CALLS,Product Inquiry / CALLS,Promo Inquiry / CALLS,Reclassification / CALLS,Reconnect or Enroll / CALLS,Returns / CALLS,S2S Cancel / CALLS,S2S Process Now / CALLS,S2S Processing Time / CALLS,S2S Skip / CALLS,S2S Update Order / CALLS,Shipping Damaged or Leaking / CALLS,Shipping Did Not Order / CALLS,Shipping Missing Item / CALLS,Shipping Missing Package / CALLS,Site Error or Bug / CALLS,Site Navigation / CALLS,Tracking / CALLS,TOTAL / CALLS
+2021/12/29,,,,,,319,70,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,394
+2021/12/29,,mmaxwell@youngliving.com,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,2
+2021/12/29,,srodiles@youngliving.com,,,,,,,,1,,,,,,,,,2,2,4,,,,,,,,,,,,,,,,,9
+2021/12/29,,v-franopa@youngliving.com,,,4,,,,1,,,,1,,,,,1,5,,2,,,,2,3,3,1,1,4,,,,,,,,28
+2021/12/29,,v-gguerrero@youngliving.com,,,,,,,,,,,,,,,,,3,,,,,,,,,1,,2,,,,,,,,6
+2021/12/29,4NDM,v-acorona@youngliving.com,2,2,2,,,,,,,,,,,,,,2,,,,,,2,,1,,,,,,1,,1,2,,15
+2021/12/29,4NDM,v-alramos@youngliving.com,,,1,,,1,,,,,,,,,,,1,1,,,,,,1,1,,,,,,,,,,,6
+2021/12/29,4NDM,v-avsolis@youngliving.com,,,1,,,,,,,,,,,,,,,,,,,,1,,2,1,,1,,,1,,,,,7
+2021/12/29,4NDM,v-drenteria@youngliving.com,,,3,,,,,,,,,,,,,,2,2,1,,,,,1,2,,1,,,1,,,,,2,15
+2021/12/29,4NDM,v-gamartinez@youngliving.com,,,,,,,,,,,,,,,,,2,,3,,,,,1,2,1,,,,,1,,,,2,12
+2021/12/29,4NDM,v-gplascencia@youngliving.com,,1,2,,,,,,,,1,,,,,,,1,,,,,,,1,1,,,,,,,,,4,11
+2021/12/29,4NDM,v-gquezada@youngliving.com,,,1,,,,,,,,1,,,,,,,1,2,,,,2,,,,,2,,,1,,,,1,11
+2021/12/29,4NDM,v-herodriguez@youngliving.com,,2,1,,,,,,,,1,,,,,,,,3,,,1,,,2,,,1,,,,,,,3,14
+2021/12/29,4NDM,v-icanales@youngliving.com,,1,2,,,,,,,,,,,,1,1,,1,,,,1,,,3,1,,,1,,,,,1,,13
+2021/12/29,4NDM,v-iorduna@youngliving.com,,2,2,,,,,,,,,,,,,,3,1,,,,1,1,,1,2,,,,,1,,,,1,15
+2021/12/29,4NDM,v-lmoncada@youngliving.com,,,1,,,,,,,,,,,,,,,,1,,,,,2,,1,,,,1,,,,,1,7
+2021/12/29,4NDM,v-morodriguez@youngliving.com,,1,,,,,,,,,,,,,,,,,,,,,,,2,,,1,,,1,,,,1,6
+2021/12/29,4NDM,v-omontfort@youngliving.com,,,1,,,,,,,,,,,,,12,,,,,,2,,,,,,1,,,,,,,,16
+2021/12/29,4NDM,v-spasos@youngliving.com,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,2
+2021/12/29,4NDM,v-vinocente@youngliving.com,,,1,,,,,,,,,,,,,,,,,,,,1,1,2,2,2,,,,1,,,,2,12
+2021/12/29,Buwelo,cprimavera@youngliving.com,1,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,1,4
+2021/12/29,Buwelo,v-aatayan@youngliving.com,,1,1,,,,,,,,,,,,,,,,,,,,,2,1,,,,1,,,,,,,6
+2021/12/29,Buwelo,v-acarlos@youngliving.com,,,,,,,,,,,,,,,,1,,,,,,,2,,4,,,,,,1,1,3,,,12
+2021/12/29,Buwelo,v-acudesin@youngliving.com,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,,,2
+2021/12/29,Buwelo,v-adomangcas@youngliving.com,,,,,,,,,,,,,,,,1,,2,,,,,2,2,2,1,,,,,,,,,,10
+2021/12/29,Buwelo,v-adonaire@youngliving.com,2,1,,,,,,,,,1,1,,,,2,,,4,1,,,2,3,,,,2,,,,1,,,,20
+2021/12/29,Buwelo,v-afantone@youngliving.com,,,,,,,,,,,,,,,,,,1,3,,,,2,4,1,,,,,,,1,,,,12
+2021/12/29,Buwelo,v-alazarito@youngliving.com,,1,,,,,,,,,,,,,,3,,,,,,,2,,,,1,3,,,,,1,,3,14
+2021/12/29,Buwelo,v-amalit@youngliving.com,,3,,,,,,,,,,1,,,,3,,6,3,,1,1,2,3,,1,,,,,1,4,,,,29
+2021/12/29,Buwelo,v-amontallana@youngliving.com,,1,1,,,,,,,,,,,,,1,2,2,,2,,,3,3,,1,1,1,,,1,,,,3,22
+2021/12/29,Buwelo,v-anantonio@youngliving.com,,,,,,,,,,,,,,,,1,,2,,,,,,,,,,,,,,1,,,,4
+2021/12/29,Buwelo,v-anunag@youngliving.com,,,,,,,,,,,,,,,,,1,1,,,,,,1,,1,1,,,,,,,,,5
+2021/12/29,Buwelo,v-asusi@youngliving.com,,,1,,,,,,,,,,,,,2,,2,,,,,,4,1,2,,4,,,2,,,1,,19
+2021/12/29,Buwelo,v-atelmo@youngliving.com,,3,1,,,1,,,,,,,,,,1,2,,,,,,2,1,5,,,4,,,2,,,,1,23
+2021/12/29,Buwelo,v-atubino@youngliving.com,,,,,,,,,,,,,,,1,,,,1,,,,,1,,,,2,,,2,,,1,1,9
+2021/12/29,Buwelo,v-avalete@youngliving.com,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2021/12/29,Buwelo,v-blouie@youngliving.com,,1,,,,,,,,,,,,,,,1,,,,,,,2,,,,,,,,,,,,4
+2021/12/29,Buwelo,v-breforada@youngliving.com,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1
+2021/12/29,Buwelo,v-calejaga@youngliving.com,,1,2,,,1,,,,1,,,,,,1,,,1,,,1,,1,3,,1,,,2,,,,,,15
+2021/12/29,Buwelo,v-ccristobal@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,2
+2021/12/29,Buwelo,v-cestrada@youngliving.com,2,1,1,,,,1,,,,,,,,,,,,,,,,,3,1,,,,,,,,1,,1,11
+2021/12/29,Buwelo,v-cgarrido@youngliving.com,,1,,,,,,,,,,,,,,,2,,,,,,,1,2,2,,1,,,2,,,,,11
+2021/12/29,Buwelo,v-csangalang@youngliving.com,,,1,,,,,,,,,,,,,1,,,1,,,,,6,,,,3,1,,,,,,1,14
+2021/12/29,Buwelo,v-ctayobana@youngliving.com,,,,,,,,,,,,,,,1,,1,,,,,,1,,1,,,1,,,,,,,,5
+2021/12/29,Buwelo,v-ebarilla@youngliving.com,,2,1,,,,,,,,,,,,,1,,1,,,,,2,1,3,2,1,2,1,,2,1,2,,,22
+2021/12/29,Buwelo,v-edonaire@youngliving.com,,2,,,,,,1,,,,1,,,,1,,1,,,,,3,2,2,,,2,,,2,,4,,1,22
+2021/12/29,Buwelo,v-fcolico@youngliving.com,,,,,,,,,,,,,,,,,,1,,,1,,,4,,,,1,,,,,,1,3,11
+2021/12/29,Buwelo,v-hbalanag@youngliving.com,,2,,,,,,,,,,,,,,,,1,,,,,,3,,,,,,,,,2,,,8
+2021/12/29,Buwelo,v-hmonreal@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,1,3
+2021/12/29,Buwelo,v-icantimbuhan@youngliving.com,,1,,,,,,,,,1,,,,,,,2,1,,,,1,4,,,,7,1,,,,,,,18
+2021/12/29,Buwelo,v-jalip@youngliving.com,,,,,,,,,,,,,,,,,1,1,,,,,2,,,,,3,,,3,,,,1,11
+2021/12/29,Buwelo,v-jamlog@youngliving.com,,,1,,,1,,,,,,,,,,,,1,,1,,,,4,,,,4,1,,,,4,,,17
+2021/12/29,Buwelo,v-jbalmaceda@youngliving.com,,,,,,,,,,,,,,,1,2,,,1,,,,4,,2,2,,1,,,,,3,,1,17
+2021/12/29,Buwelo,v-jcuenca@youngliving.com,,1,1,,,,,,,,,,,,,,,,,,,,3,1,,,,,,,,,,,,6
+2021/12/29,Buwelo,v-jfernandez@youngliving.com,,2,,,,,,,,,,,,,,,1,,1,,,,,,,,1,4,,,,,,,,9
+2021/12/29,Buwelo,v-jfredeluces@youngliving.com,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,6,,,1,,,,,9
+2021/12/29,Buwelo,v-jgayacao@youngliving.com,,,,,,,,,,1,,,,,,1,,2,1,,,,,1,,,,,,1,,,1,,,8
+2021/12/29,Buwelo,v-jgiba@youngliving.com,,1,1,,,1,,,,,,,,,,2,2,2,,,,,,,1,,,2,,,1,1,3,,,17
+2021/12/29,Buwelo,v-jguinto@youngliving.com,1,,,,,,,,,,,,,,,2,,1,,,,,,3,,,,,,,1,,2,,,10
+2021/12/29,Buwelo,v-jhadley@youngliving.com,,,,,,,,,,,,1,,,,,,,,,,,,2,,,,2,,,,,,,,5
+2021/12/29,Buwelo,v-jjosue@youngliving.com,,1,1,,,,,,,,,,,,,2,,1,1,,,,2,4,,,,2,,,2,,2,,1,19
+2021/12/29,Buwelo,v-jmenor@youngliving.com,,3,,,,,,,,,,,,,,1,,2,1,,,,,2,1,,1,1,,,1,1,1,,3,18
+2021/12/29,Buwelo,v-jnavarro@youngliving.com,,1,1,,,,,,,,,,,,,,,1,,,,,2,6,1,1,1,2,,,1,,,,,17
+2021/12/29,Buwelo,v-jsantos@youngliving.com,,,,,,,,,,,,,,,1,,1,,1,,,,,,,,1,,,,,,,,,4
+2021/12/29,Buwelo,v-jtadeo@youngliving.com,,,,,,,,,,,,,,,,,,,1,,,,,3,,,,,1,,,,,1,1,7
+2021/12/29,Buwelo,v-jtantay@youngliving.com,,1,2,,,,,,,,,,,,,1,,,6,,,,1,1,2,,1,1,2,,1,,,,,19
+2021/12/29,Buwelo,v-jtaripe@youngliving.com,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,1,1,,,1,,,,5
+2021/12/29,Buwelo,v-kborja@youngliving.com,,1,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,1,,,4
+2021/12/29,Buwelo,v-kmacapagal@youngliving.com,,1,,,,2,,,,,1,,,,,2,,1,,1,,,1,,1,,,,1,,,,,,1,12
+2021/12/29,Buwelo,v-ktalion@youngliving.com,,2,,,,,,,,,,,,,,2,,,,,,,,4,,,,2,2,,1,,,1,1,15
+2021/12/29,Buwelo,v-lbaeshen@youngliving.com,,1,,,,,,,,,,1,,,,,,,2,,,,,,1,,,2,,,,,,,,7
+2021/12/29,Buwelo,v-lignacio@youngliving.com,,4,,,,,,,,,,,,,,,,,,,1,,1,1,1,,1,2,,,2,,,1,,14
+2021/12/29,Buwelo,v-llazaro@youngliving.com,,1,1,,,,,,,,,,,,,1,1,,,,,1,2,1,1,,,2,1,,1,1,,,10,24
+2021/12/29,Buwelo,v-lventurero@youngliving.com,,1,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,3
+2021/12/29,Buwelo,v-maarce@youngliving.com,,,,,,,,,,,1,,,,,,,,,,,,,1,,,,,,,1,,,,1,4
+2021/12/29,Buwelo,v-maboy@youngliving.com,,4,,,,,,,,,1,,,,,2,1,,,,,,1,,,,,2,,2,3,,,,,16
+2021/12/29,Buwelo,v-macaspac@youngliving.com,,,1,,,,,,,,,1,,,,,,,1,,,,,,1,,,1,1,,1,,1,,3,11
+2021/12/29,Buwelo,v-marce@youngliving.com,,,1,,,,,,,,,,,,,,,,,,,,1,1,,,,1,,,,,1,,,5
+2021/12/29,Buwelo,v-mbartolome@youngliving.com,,2,1,,,,,,,,1,,,,,3,2,3,1,,,3,2,1,5,,2,6,,,3,,5,1,5,46
+2021/12/29,Buwelo,v-mforelo@youngliving.com,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,,2,,,7
+2021/12/29,Buwelo,v-mgarcia@youngliving.com,,6,,,,1,,,,,1,,,,,,1,2,3,,,,,4,1,1,,1,,,,,,,6,27
+2021/12/29,Buwelo,v-mmanglicmot@youngliving.com,,,1,,,,,,,,,,,,,,,,3,1,,,1,2,,,,1,1,,1,,,,,11
+2021/12/29,Buwelo,v-mpahayahay@youngliving.com,,,,,,,,,,,,,,,,,,1,,,,1,1,,2,,,1,,,,,1,,,7
+2021/12/29,Buwelo,v-msubrio@youngliving.com,,,1,,,1,,,,,,,,,,,,,1,,,,,,1,,,,,,1,,1,,1,7
+2021/12/29,Buwelo,v-nortega@youngliving.com,,1,,,,,,,,,,1,,,1,,,,,,,,1,2,,1,,1,,,,,,,,8
+2021/12/29,Buwelo,v-pdumalasa@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,2,,,,,1,,,,,,,2,5
+2021/12/29,Buwelo,v-rasanas@youngliving.com,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1
+2021/12/29,Buwelo,v-rfelicidario@youngliving.com,,1,1,,,,,,,,1,1,,,,1,,1,1,,,1,,4,,,,1,,,1,,,,3,17
+2021/12/29,Buwelo,v-rfung@youngliving.com,,2,,,,,,1,,,,,,,,,,,,,,1,,,,,,3,,,1,,,,,8
+2021/12/29,Buwelo,v-rmendigorin@youngliving.com,,3,,,,,,,,,,,,,,1,1,,,,,,,1,,,,,1,,,1,,,1,9
+2021/12/29,Buwelo,v-robautista@youngliving.com,,3,,,,,,,,,,,,,,,,,1,,,,4,1,,,,,,,,,,,1,10
+2021/12/29,Buwelo,v-roenero@youngliving.com,,,3,,,1,,,,2,,,,,,2,1,1,,,,,2,,5,,,,,,2,,,,,19
+2021/12/29,Buwelo,v-sanonat@youngliving.com,,3,1,,,,,,,2,1,,,,,,,1,1,,,,2,,2,,,9,,,1,1,,,1,25
+2021/12/29,Buwelo,v-shizarsa@youngliving.com,,,,,,,,,,,,,,,,1,,1,,,,,1,,,,,,,,,,,,,3
+2021/12/29,Buwelo,v-signacio@youngliving.com,,,,,,,,,,,1,,,,,,,,,,,,,3,1,,,,,,,,,,,5
+2021/12/29,Buwelo,v-tsario@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,2
+2021/12/29,Buwelo,v-vcalumpang@youngliving.com,,,,,,,,,,,,,,,,,,1,,,,,3,2,,,,1,,,,,,,,7
+2021/12/29,Buwelo,v-wsamson@youngliving.com,,,,,,,,,,,,,,,,1,,1,1,,1,,2,2,2,,,4,,,1,,,,,15
+2021/12/29,Buwelo Canada,v-acudesin@youngliving.com,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,,,2
+2021/12/29,Buwelo Canada,v-amontales@youngliving.com,,2,,,,,,,,1,1,,1,,,,,,,,,,,1,,,4,1,1,,1,,,,,13
+2021/12/29,Buwelo Canada,v-blouie@youngliving.com,,1,,,,,,,,,,,,,,,1,,,,,,,2,,,,,,,,,,,,4
+2021/12/29,Buwelo Canada,v-ccristobal@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,2
+2021/12/29,Buwelo Canada,v-jdeluna@youngliving.com,,1,4,,,,,,,,,,,,,1,,,1,,,,,2,6,,1,3,,,3,1,,,,23
+2021/12/29,Buwelo Canada,v-kbalagtas@youngliving.com,,1,1,,,,,,,,,,,,,,,1,1,,,1,,3,2,,,,,,,,,,1,11
+2021/12/29,Buwelo Canada,v-msilva@youngliving.com,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1
+2021/12/29,Buwelo Canada,v-rdangaran@youngliving.com,,1,,,,,,,,,,,,,,,,,1,,,,1,,3,,,,2,,,,,,1,9
+2021/12/29,Buwelo Canada,v-rpendos@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,1
+2021/12/29,Buwelo Canada,v-rramos@youngliving.com,,2,6,,,,,,,,,,,,,1,,2,1,,,,,3,1,,,1,,1,,1,,,2,21
+2021/12/29,Buwelo Training,v-abactad@youngliving.com,,4,,,,,,,,,,,,,,,1,,2,,,,,1,,,,12,,,2,,,,,22
+2021/12/29,Buwelo Training,v-amalit@youngliving.com,,3,,,,,,,,,,1,,,,3,,6,3,,1,1,2,3,,1,,,,,1,4,,,,29
+2021/12/29,Buwelo Training,v-amontallana@youngliving.com,,1,1,,,,,,,,,,,,,1,2,2,,2,,,3,3,,1,1,1,,,1,,,,3,22
+2021/12/29,Buwelo Training,v-andelacruz@youngliving.com,1,8,1,,,3,,,,,,,,,1,1,1,1,,,,,4,5,,,,1,,,,1,,,,28
+2021/12/29,Buwelo Training,v-clacbayo@youngliving.com,,1,1,,,1,,,,,,,,,,1,,,2,,,,,2,,,1,5,1,,1,,1,,,17
+2021/12/29,Buwelo Training,v-cpalmaria@youngliving.com,,2,,,,,,,,1,1,1,,,,,1,,,,,,3,,1,3,1,8,,,3,,,,,25
+2021/12/29,Buwelo Training,v-cpascua@youngliving.com,,3,,,,,,1,,,,1,,,,,1,,1,,1,,3,6,,1,,3,,,,,,1,,22
+2021/12/29,Buwelo Training,v-cyandan@youngliving.com,,2,,,,1,,,,,,,,,,3,1,,7,,,,3,3,1,1,,2,,,,1,,,5,30
+2021/12/29,Buwelo Training,v-dmarzan@youngliving.com,,3,,,,,,,,,1,,,,,,1,1,2,,,,1,4,,1,,1,,,,2,,,3,20
+2021/12/29,Buwelo Training,v-eedquiban@youngliving.com,,1,1,,,,,,,,,,,,5,1,1,1,2,,,,3,1,,1,,2,,,,,,,,19
+2021/12/29,Buwelo Training,v-heclarinal@youngliving.com,,1,,,,,,,,,,,,,,1,2,1,2,,,,,4,,,,3,,1,1,1,,1,1,19
+2021/12/29,Buwelo Training,v-iegnisaban@youngliving.com,,2,1,,,,,,,,,,,1,,,1,1,14,,,,3,,,,,2,,,,2,,,2,29
+2021/12/29,Buwelo Training,v-jalagon@youngliving.com,,,1,,,,1,,,,,,,,,,2,3,7,,,,,4,,1,,4,,,,,,,,23
+2021/12/29,Buwelo Training,v-jarosario@youngliving.com,,,,,,1,,,,,,,,1,,1,3,,2,,,,4,4,1,4,,1,,,,1,,1,1,25
+2021/12/29,Buwelo Training,v-jboniel@youngliving.com,,3,,,,,,,,,,,,,,,4,1,1,2,,,,4,8,,2,3,,,1,1,,1,1,32
+2021/12/29,Buwelo Training,v-jcastrence@youngliving.com,,4,1,,,,,,,,,,,,,1,,,,,,1,2,,,1,3,2,1,,3,,,,,19
+2021/12/29,Buwelo Training,v-jeguzman@youngliving.com,,2,,,,,,,,,1,,,,,,7,,5,,,,,,,,,2,,,,,,,,17
+2021/12/29,Buwelo Training,v-jogonzales@youngliving.com,,3,,,,,,,,,,,,,,5,,2,4,,1,,,7,,,,2,,1,,3,,,2,30
+2021/12/29,Buwelo Training,v-jpedlaoan@youngliving.com,,1,,,,,,,,1,1,1,,,,,3,3,1,,,,,2,,4,,,,,1,,,,2,20
+2021/12/29,Buwelo Training,v-jsanangel@youngliving.com,,1,,,,,,,,,,,,,,,2,,,2,,1,,3,3,3,,1,,1,2,1,,,,20
+2021/12/29,Buwelo Training,v-kabad@youngliving.com,,,,,,,,,,,,,,,,,,2,1,,,1,3,2,1,,1,5,1,1,,,,,4,22
+2021/12/29,Buwelo Training,v-kalibasa@youngliving.com,,,,,,,,,,1,1,,,,,,4,,1,,1,,4,2,,1,,1,,1,3,,,,,20
+2021/12/29,Buwelo Training,v-kpayumo@youngliving.com,,1,,,,,,,,,,,,,,,2,,,,,,,4,,,,5,,,4,1,,,,17
+2021/12/29,Buwelo Training,v-lbueno@youngliving.com,3,3,1,,,,,,,,,,,,,,7,,4,,,,2,,,,,,,,,,,,,20
+2021/12/29,Buwelo Training,v-mdiaz@youngliving.com,,1,2,,,,,,,,1,,,,,,,3,,3,,,1,1,,,,4,,,,,,,7,23
+2021/12/29,Buwelo Training,v-mgarcia@youngliving.com,,6,,,,1,,,,,1,,,,,,1,2,3,,,,,4,1,1,,1,,,,,,,6,27
+2021/12/29,Buwelo Training,v-mkinkito@youngliving.com,,2,,,,1,,,,,,,,,,,2,4,1,,,2,1,3,,,,1,,2,1,,,1,,21
+2021/12/29,Buwelo Training,v-myodico@youngliving.com,,2,,,,,,,,,,,,1,,1,6,2,3,,,,,7,1,,1,3,1,,2,,,,1,31
+2021/12/29,Buwelo Training,v-raguirre@youngliving.com,,2,,,,,,,,,,,,1,,2,3,,2,,,,1,1,6,,,6,,,,,,1,1,26
+2021/12/29,Buwelo Training,v-rrabadon@youngliving.com,,7,,,,,,,,,,,,,,,,1,,,,,1,2,1,,1,8,,1,,,,,,22
+2021/12/29,Buwelo Training,v-rtacbas@youngliving.com,,1,,,,,,,,,,,,,,,17,,1,,,,,,,,,,,,,,,,1,20
+2021/12/29,Buwelo Training,v-smuyco@youngliving.com,,1,,,,2,,,,1,,,,,,1,,,3,,,,,2,3,1,,4,,,,,,,3,21
+2021/12/29,Buwelo Training,v-srejuso@youngliving.com,,5,,,,,,,,,1,,,,,,5,1,1,,,,1,2,,1,,2,,,,,,,,19
+2021/12/29,Buwelo Training,v-tsantos@youngliving.com,1,1,,,,,,,,,,,,,,,2,,2,1,,1,3,1,,2,1,3,2,,,1,,,1,22
+2021/12/29,Buwelo Training,v-wyugto@youngliving.com,,1,,,,,,,,,1,,,,,2,1,,,,,,3,1,,1,,6,,,1,,,,2,19
+2021/12/29,Canada Filter,abarron@youngliving.com,,,1,,,,,,,,,,,,,3,1,,,,,,,1,1,,,4,1,,,1,,,1,14
+2021/12/29,Canada Filter,abarrows@youngliving.com,,1,,,,,,,,,1,1,,,,,2,1,,,,1,2,2,1,1,3,4,2,,1,,,,1,24
+2021/12/29,Canada Filter,brevoir@youngliving.com,,1,1,,,,,,,,,,,,,1,8,,,,,,,1,1,,,2,,,1,,,2,,18
+2021/12/29,Canada Filter,gpack@youngliving.com,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,,,,,2
+2021/12/29,Canada Filter,jcarver@youngliving.com,,8,7,,,,,,,,,,,,,,1,,2,,,,,,,,,,,,,,,1,,19
+2021/12/29,Canada Filter,mdorton@youngliving.com,,2,2,,,,,,,,,,,,,1,,,1,,,3,2,2,4,,1,1,,,,,,,3,22
+2021/12/29,Canada Filter,mhowells@youngliving.com,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,2
+2021/12/29,Canada Filter,molsen@youngliving.com,1,2,2,,,,3,1,,1,,1,,,,,2,1,4,,,1,,,1,,,6,,,,,3,,1,30
+2021/12/29,Canada Filter,sdunn@youngliving.com,,,3,,,,,,,,,,,,,1,,,,,,,,,4,,,,,,1,,,,1,10
+2021/12/29,Canada Filter,sujohnson@youngliving.com,,2,3,,,,,,,1,,,,,,,,,2,,,,,2,1,1,1,1,,,1,,,,1,16
+2021/12/29,Canada Filter,swagner@youngliving.com,,3,6,,,,,,,,1,,,,,1,,1,,,,,,1,1,,1,,,,,1,,,,16
+2021/12/29,Canada Filter,tfano@youngliving.com,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1
+2021/12/29,Canada Filter,toropeza@youngliving.com,,,,,,1,,,,,,,,,,,6,,,,,,,,1,,,,,,,,,,,8
+2021/12/29,Canada Filter,twoodis@youngliving.com,,1,3,,,,,,,,1,,,,,,1,2,,,,,,1,1,,,2,,,2,,,,,14
+2021/12/29,Canada Filter,vstulce@youngliving.com,,3,2,,,,,,,,,,,,,,6,,2,,,1,,2,2,,3,,1,,,,1,,5,28
+2021/12/29,Diamond Support,jahebert@youngliving.com,,1,,,,,,,,,1,,,,,,1,1,,,,,,,,,,,,,,,,,,4
+2021/12/29,Diamond Support,jewhite@youngliving.com,1,4,,,,,,,,1,,,,,,,2,2,,,,,,,,,,,,,,,1,2,,13
+2021/12/29,Diamond Support,shlarson@youngliving.com,,3,,,,,,,,,,,,,,,1,,,,,1,,,,1,,,,,,,1,,,7
+2021/12/29,Diamond Support,trichins@youngliving.com,,1,1,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,7
+2021/12/29,Leadership Support,aadams@youngliving.com,,,,,,,,1,,,,,,,,,,,,,,,,,,,,3,1,,1,,,,,6
+2021/12/29,Leadership Support,alavila@youngliving.com,,,1,,,,,,,,,,,,,,1,,,1,,,,,,,1,,,,,,,,,4
+2021/12/29,Leadership Support,bgastelum@youngliving.com,,1,1,,,2,,,,1,,,,,,,1,,,,,,,,2,,,,1,,1,,,,3,13
+2021/12/29,Leadership Support,dhilton@youngliving.com,,,,,,,,,,,,,,,,,1,,3,,,,,1,5,,,,,,1,,,6,,17
+2021/12/29,Leadership Support,hlopez@youngliving.com,2,,,,,,,,,1,,,,,,,1,,,,,,1,1,1,,,,,1,3,,,3,6,20
+2021/12/29,Leadership Support,lshepherd@youngliving.com,,1,,,,,,,,2,,1,,,,,3,2,,,,1,2,,3,,,,,1,6,,2,3,1,28
+2021/12/29,Leadership Support,nledezma@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
+2021/12/29,Leadership Support,nramos@youngliving.com,,,,,,,,,,1,,,,,,2,1,1,,,,,,,2,,,,,1,5,,1,3,2,19
+2021/12/29,Leadership Support,prawlins@youngliving.com,,3,2,,,,1,,,,,,,,,,2,,1,2,,,,,3,,1,5,,,2,,,,2,24
+2021/12/29,Leadership Support,sbencomo@youngliving.com,,1,1,,,,,,,1,,,,,,2,4,,1,,,,2,,4,,,1,,,2,,1,,1,21
+2021/12/29,Leadership Support,sbentsen@youngliving.com,,4,,,,,,,,,,,,,,,2,1,,,,,1,,4,,,,,,3,,,,2,17
+2021/12/29,Leadership Support,sroberts@youngliving.com,,,,,,,,,,,1,,,,,,,,,,,,,,2,,,,,,,,,1,,4
+2021/12/29,Leadership Support,sypeterson@youngliving.com,,1,,,,,2,,,,,,,2,,2,17,,,,,,,,2,,2,,,,,,,,,28
+2021/12/29,Tech Free Filter,abarron@youngliving.com,,,1,,,,,,,,,,,,,3,1,,,,,,,1,1,,,4,1,,,1,,,1,14
+2021/12/29,Tech Free Filter,abarrows@youngliving.com,,1,,,,,,,,,1,1,,,,,2,1,,,,1,2,2,1,1,3,4,2,,1,,,,1,24
+2021/12/29,Tech Free Filter,brevoir@youngliving.com,,1,1,,,,,,,,,,,,,1,8,,,,,,,1,1,,,2,,,1,,,2,,18
+2021/12/29,Tech Free Filter,gpack@youngliving.com,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,,,,,2
+2021/12/29,Tech Free Filter,jcarver@youngliving.com,,8,7,,,,,,,,,,,,,,1,,2,,,,,,,,,,,,,,,1,,19
+2021/12/29,Tech Free Filter,mdorton@youngliving.com,,2,2,,,,,,,,,,,,,1,,,1,,,3,2,2,4,,1,1,,,,,,,3,22
+2021/12/29,Tech Free Filter,mhowells@youngliving.com,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,2
+2021/12/29,Tech Free Filter,molsen@youngliving.com,1,2,2,,,,3,1,,1,,1,,,,,2,1,4,,,1,,,1,,,6,,,,,3,,1,30
+2021/12/29,Tech Free Filter,sdunn@youngliving.com,,,3,,,,,,,,,,,,,1,,,,,,,,,4,,,,,,1,,,,1,10
+2021/12/29,Tech Free Filter,sujohnson@youngliving.com,,2,3,,,,,,,1,,,,,,,,,2,,,,,2,1,1,1,1,,,1,,,,1,16
+2021/12/29,Tech Free Filter,swagner@youngliving.com,,3,6,,,,,,,,1,,,,,1,,1,,,,,,1,1,,1,,,,,1,,,,16
+2021/12/29,Tech Free Filter,tfano@youngliving.com,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1
+2021/12/29,Tech Free Filter,toropeza@youngliving.com,,,,,,1,,,,,,,,,,,6,,,,,,,,1,,,,,,,,,,,8
+2021/12/29,Tech Free Filter,twoodis@youngliving.com,,1,3,,,,,,,,1,,,,,,1,2,,,,,,1,1,,,2,,,2,,,,,14
+2021/12/29,Tech Free Filter,vstulce@youngliving.com,,3,2,,,,,,,,,,,,,,6,,2,,,1,,2,2,,3,,1,,,,1,,5,28
+2021/12/29,Teleperformance,v-abaribar@youngliving.com,,,1,,,,,,,,,,1,,,1,2,,,,,,9,,,1,1,2,,,2,,,,,20
+2021/12/29,Teleperformance,v-ablanco@youngliving.com,,1,,,,,,,,1,,,,,,,2,,,,,,4,,2,,,3,,,1,,,,2,16
+2021/12/29,Teleperformance,v-ajavellana@youngliving.com,,5,1,,,,,,,1,1,,,,,1,2,,,2,1,,2,2,2,2,,1,1,,1,,,,,25
+2021/12/29,Teleperformance,v-annova@youngliving.com,,2,1,,,,1,,,,,,,,,1,2,,,,,,3,1,1,1,,,,,1,,1,,2,17
+2021/12/29,Teleperformance,v-aobiso@youngliving.com,,1,2,,,1,,,,,,,,,,1,2,,2,,,1,,,2,,,3,,1,3,,,1,2,22
+2021/12/29,Teleperformance,v-arncruz@youngliving.com,,3,2,,,,,,,1,,,,,,2,1,3,,,,,6,1,,,,5,1,,1,,,,2,28
+2021/12/29,Teleperformance,v-arobles@youngliving.com,,3,2,,,,,,,1,,,,,,,2,,,,,,4,1,,,,11,,,1,,,,,25
+2021/12/29,Teleperformance,v-asantos@youngliving.com,,1,2,,,1,,,,,2,,,,,3,,,2,,,,3,,,,,1,,,,,1,,6,22
+2021/12/29,Teleperformance,v-bgarillo@youngliving.com,,2,1,,,,,,,,,,,,,1,,5,1,,,,1,3,,,,,,,1,,1,,8,24
+2021/12/29,Teleperformance,v-dcostas@youngliving.com,,2,2,,,,,,,,,,,,,6,1,3,2,,,,3,1,1,7,1,1,,,,2,,,1,33
+2021/12/29,Teleperformance,v-dmabasa@youngliving.com,,,4,,,,,,,,,,,,,,,,,,1,,6,4,2,,,,1,,3,,,,1,22
+2021/12/29,Teleperformance,v-ehermosa@youngliving.com,,,2,,,,,,,1,1,,,,,2,2,2,3,,1,1,5,,2,,,2,2,,1,,6,1,2,36
+2021/12/29,Teleperformance,v-fismael@youngliving.com,,1,1,,,,,,,,,1,,,,,2,,,,,1,,,2,,1,1,,,3,,,,4,17
+2021/12/29,Teleperformance,v-fmariwa@youngliving.com,,1,,,,,,,,,1,,,,,,1,1,3,,,,4,,1,,,2,,,1,2,1,,,18
+2021/12/29,Teleperformance,v-ggupong@youngliving.com,,4,,,,,,,,1,,,,,,1,,3,3,,,1,6,1,,,,3,1,,3,,,,,27
+2021/12/29,Teleperformance,v-gsantuyo@youngliving.com,,2,1,,,,,,,,,,,,,,,2,1,,,,,3,2,,,,1,,3,,,,5,20
+2021/12/29,Teleperformance,v-hagbisit@youngliving.com,,1,2,,,,,,,,1,,,,,,,3,7,1,,,7,1,,,,,,,,1,3,,1,28
+2021/12/29,Teleperformance,v-hJumarang@youngliving.com,,,1,,,,,,,,3,,,,,,1,2,,,,,3,,3,1,2,1,1,1,3,1,1,,4,28
+2021/12/29,Teleperformance,v-jCorrea@youngliving.com,,2,,,,,,,,,,,,,,1,,2,2,,,1,,4,1,1,,1,2,,3,1,,,5,26
+2021/12/29,Teleperformance,v-jguevarra@youngliving.com,,4,,,,1,,,,,,1,,,,2,1,,2,,,,6,,1,,2,6,,,3,,,,,29
+2021/12/29,Teleperformance,v-jmisa@youngliving.com,,3,1,,,,,,,,,,,,,2,1,,1,,,,2,5,,,,2,1,,3,,,,,21
+2021/12/29,Teleperformance,v-jmondejar@youngliving.com,,1,1,,,,,,,,,,,,,,1,1,2,,1,,4,2,2,,,3,,,2,,,,4,24
+2021/12/29,Teleperformance,v-jrecto@youngliving.com,,2,,,,,,,,,,,,,,3,1,1,1,,,2,6,,,,,2,1,1,2,1,,,3,26
+2021/12/29,Teleperformance,v-jTesorero@youngliving.com,,2,,,,1,,,,,,,,,,3,,1,7,,,,5,2,2,1,,2,,,2,,,,1,29
+2021/12/29,Teleperformance,v-jurgelles@youngliving.com,,1,2,,,1,,,,,,,,,,1,2,,,,,,2,4,5,,1,3,,,,,,,,22
+2021/12/29,Teleperformance,v-kbodullo@youngliving.com,,3,2,,,,,,,,,,,,,1,2,,,,,,2,2,4,1,,2,,,2,,,2,1,24
+2021/12/29,Teleperformance,v-kpenaranda@youngliving.com,,3,1,,,,,,,,,1,,,,1,1,1,,,,,4,2,4,,,1,,,2,,1,,1,23
+2021/12/29,Teleperformance,v-krbodullo@youngliving.com,,4,1,,,1,,,,,,1,,,,,,,2,,,1,2,1,6,,,,,,3,1,,,,23
+2021/12/29,Teleperformance,v-ksison@youngliving.com,,1,1,,,,,,,,,,,,,,1,2,1,,,1,4,2,2,,,,,,1,,,1,4,21
+2021/12/29,Teleperformance,v-kvaleros@youngliving.com,,3,,,,,,,,,,,,,,2,6,1,3,,1,,3,,3,,,,,,1,,,,,23
+2021/12/29,Teleperformance,v-lallig@youngliving.com,,,,,,1,,,,,,,,,,1,2,1,1,,,,8,,4,,1,6,1,,,,1,,,27
+2021/12/29,Teleperformance,v-ldaisog@youngliving.com,,1,1,,,,,,,,,,,,,,1,5,1,,,,3,1,1,1,,,,,4,,,1,,20
+2021/12/29,Teleperformance,v-lmanzano@youngliving.com,,1,,,,,,,,,,,,,,,,,,,,,3,,2,,,1,1,,1,1,1,,,11
+2021/12/29,Teleperformance,v-lrabacal@youngliving.com,,2,2,,,,,,,,,,,,,1,2,4,,,,,1,3,1,,,2,,,2,,3,,2,25
+2021/12/29,Teleperformance,v-mcalma@youngliving.com,,3,1,,,,,,,,,1,,,,2,,,2,,,,,,2,,,3,,,5,,,,2,21
+2021/12/29,Teleperformance,v-mdelarosa@youngliving.com,,1,1,,,,,,,,4,,,,,1,1,3,1,1,,,9,,1,,1,,1,,2,,2,2,2,33
+2021/12/29,Teleperformance,v-mengle@youngliving.com,,1,,,,,,,,,,,,,,,,,1,,,,4,2,4,1,1,1,2,,1,1,,2,9,30
+2021/12/29,Teleperformance,v-mkhatab@youngliving.com,,,2,,,,,,,,,,,,,,,,3,,,,1,,4,,,2,1,,5,2,,,,20
+2021/12/29,Teleperformance,v-mmalones@youngliving.com,,3,4,,,,,,,,,,,,,1,2,1,,,,,5,2,,1,,1,,,3,,,1,1,25
+2021/12/29,Teleperformance,v-muy@youngliving.com,,2,3,,,,,,,,1,1,,,,1,1,,,,,1,5,,4,,,1,,,1,1,1,,,23
+2021/12/29,Teleperformance,v-nesponilla@youngliving.com,,,1,,,1,,,,,,,,,,,1,2,,1,,,2,,,,,2,,,,,,,,10
+2021/12/29,Teleperformance,v-ralmirol@youngliving.com,,,,,,,,,,1,,,,,,,,1,,,,2,5,1,2,1,,,,,1,,2,,1,17
+2021/12/29,Teleperformance,v-rdaquiojr@youngliving.com,,,,,,1,,,,,,,,,,1,3,,5,,,,,1,,2,,3,,,1,,,,,17
+2021/12/29,Teleperformance,v-rinaldo@youngliving.com,,1,,,,,,,,,,,,,,2,,,,,,1,4,2,,,,1,,,3,2,,,3,19
+2021/12/29,Teleperformance,v-rnieva@youngliving.com,,,,,,,2,,,,,2,,,,4,,3,1,,,2,3,3,2,,,1,,1,3,,,,1,28
+2021/12/29,Teleperformance,v-rpresilda@youngliving.com,,1,2,,,,,,,1,,,,,,,1,,,,,1,2,1,2,1,,1,,,3,1,,,3,20
+2021/12/29,Teleperformance,v-rriel@youngliving.com,,2,2,,,,,,,,,,,,,1,,,1,,,,6,2,,,2,7,,,3,,3,1,3,33
+2021/12/29,Teleperformance,v-rteves@youngliving.com,,3,2,,,,,,,,1,,,,,1,,1,1,,,1,2,,2,2,,,1,,1,1,2,2,1,24
+2021/12/29,Teleperformance,v-rVillarama@youngliving.com,,1,2,,,,,,,,1,,,,,2,1,1,1,,,3,6,1,2,1,,,,,2,,4,,1,29
+2021/12/29,Teleperformance,v-sricario@youngliving.com,,1,1,,,,,,,,,,,,,1,2,,4,,,,1,1,1,1,1,5,1,,2,1,,,1,24
+2021/12/29,Teleperformance,v-watay@youngliving.com,,2,3,,,,,,,,,,,,1,1,,,,,,1,4,6,3,3,1,,,,2,,,,1,28
+2021/12/29,Teleperformance,v-zmarcelo@youngliving.com,,1,,,,1,,,,,,,,,,,1,1,2,,,1,7,2,1,,,4,1,,3,1,,,,26
+2021/12/29,US M07,cbicknell@youngliving.com,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1
+2021/12/29,US M07,tfano@youngliving.com,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1
+2021/12/29,US M14,cbicknell@youngliving.com,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1
+2021/12/29,US Team 03,cconger@youngliving.com,,1,3,,,,,,,,,,,,,4,10,,,,11,,5,2,,,,1,,,,,1,,,38
+2021/12/29,US Team 03,krasmussen@youngliving.com,,,2,,,,,,,,,,,,,,9,,,1,,,4,,1,1,,,,,,,,,,18
+2021/12/29,US Team 03,toropeza@youngliving.com,,,,,,1,,,,,,,,,,,6,,,,,,,,1,,,,,,,,,,,8
+2021/12/29,US Team 10,alazo@youngliving.com,,11,,,,,,,,,,,,,,3,1,,1,,,,5,2,1,,,1,,,,,,,7,32
+2021/12/29,US Team 10,bballinger@youngliving.com,,4,1,,,1,,,1,1,,,,,,3,1,1,4,,,,3,1,1,1,,1,,,1,,1,2,5,33
+2021/12/29,US Team 10,bswiantek@youngliving.com,,1,,,,,,,,,1,,,,1,1,12,1,2,1,,,3,,1,,1,1,,,,,,,,26
+2021/12/29,US Team 10,cchristiansen@youngliving.com,,2,1,,,,,,,,,,,,,1,,2,2,,,,3,2,1,,,5,,,1,1,,,3,24
+2021/12/29,US Team 10,iaumavae@youngliving.com,,2,,,,,,,,,,,,,,,4,,,,,,6,1,2,,,1,,,1,,,,6,23
+2021/12/29,US Team 10,lgarza@youngliving.com,,2,1,,,,,,,1,1,1,,,,,1,,,,,,3,2,2,,,1,,,3,,5,,6,29
+2021/12/29,US Team 10,smadrigal@youngliving.com,,2,,,,,,,,,,1,,,,3,,,1,1,,1,,1,1,,,6,,,,,,1,2,20
+2021/12/29,US Team 12,abarron@youngliving.com,,,1,,,,,,,,,,,,,3,1,,,,,,,1,1,,,4,1,,,1,,,1,14
+2021/12/29,US Team 12,brevoir@youngliving.com,,1,1,,,,,,,,,,,,,1,8,,,,,,,1,1,,,2,,,1,,,2,,18
+2021/12/29,US Team 12,gpack@youngliving.com,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,,,,,2
+2021/12/29,US Team 12,mhowells@youngliving.com,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,2
+2021/12/29,US Team 12,swagner@youngliving.com,,3,6,,,,,,,,1,,,,,1,,1,,,,,,1,1,,1,,,,,1,,,,16
+2021/12/29,US Team 12,twoodis@youngliving.com,,1,3,,,,,,,,1,,,,,,1,2,,,,,,1,1,,,2,,,2,,,,,14
+2021/12/29,US Team 12,vstulce@youngliving.com,,3,2,,,,,,,,,,,,,,6,,2,,,1,,2,2,,3,,1,,,,1,,5,28
+2021/12/29,US Team 13,abarrows@youngliving.com,,1,,,,,,,,,1,1,,,,,2,1,,,,1,2,2,1,1,3,4,2,,1,,,,1,24
+2021/12/29,US Team 13,jcarver@youngliving.com,,8,7,,,,,,,,,,,,,,1,,2,,,,,,,,,,,,,,,1,,19
+2021/12/29,US Team 13,mdorton@youngliving.com,,2,2,,,,,,,,,,,,,1,,,1,,,3,2,2,4,,1,1,,,,,,,3,22
+2021/12/29,US Team 17,afox@youngliving.com,,4,1,,,,,,,,,,,,,1,3,,,,,,1,,,,1,2,,,,,,,6,19
+2021/12/29,US Team 17,llarsen@youngliving.com,,,1,,,,,,,,,,,,,,,,1,,1,2,1,1,2,,,,,,,,,,2,11
+2021/12/29,US Team 17,sujohnson@youngliving.com,,2,3,,,,,,,1,,,,,,,,,2,,,,,2,1,1,1,1,,,1,,,,1,16
+2021/12/29,US Team 22,djacobs@youngliving.com,1,1,,,,,,,,,1,1,,,,,,1,2,,,,1,,2,,1,,,,3,,,,3,17
+2021/12/29,US Team 22,jacord@youngliving.com,,1,,,,,,,,,,,,,,1,,,,,,1,1,4,1,6,2,1,,,,,3,,2,23
+2021/12/29,US Team 22,jsmokoff@youngliving.com,,3,4,,,2,,,,,,,,,,1,1,,,,,,7,,2,,,3,,,,,1,,2,26
+2021/12/29,US Team 22,mbourne@youngliving.com,,3,1,,,,,,,,,,,,,,,,1,,1,1,11,2,1,,,4,,,1,2,3,1,1,33
+2021/12/29,US Team 22,rmoreno@youngliving.com,,,,,,,,,,,,,,,,1,2,1,4,,,1,5,4,1,,,2,1,,1,2,,2,2,29
+2021/12/29,US Team 41,kpaulsen@youngliving.com,,5,2,,,,,,,,,1,,,,3,,,1,1,,1,8,,7,6,,2,,,2,4,7,1,2,53
+2021/12/29,US Team 41,sdunn@youngliving.com,,,3,,,,,,,,,,,,,1,,,,,,,,,4,,,,,,1,,,,1,10
+2021/12/29,US Team 41,tboyce@youngliving.com,1,,1,,,1,,,,,,,,,,,5,,,,,1,2,3,1,,1,5,2,,1,,6,1,1,32
+2021/12/29,US Team 52,cbicknell@youngliving.com,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1
+2021/12/29,US Team 52,mnielson@youngliving.com,,2,3,,,,,,,,,1,,,,2,,2,1,,,,5,2,2,,,3,,,3,2,,,20,48
+2021/12/29,US Team 53,bchaffin@youngliving.com,,4,,,,,,,,,,1,,,,,6,,1,,,,,,,,,,1,1,,,,,,14
+2021/12/29,US Team 53,dahansen@youngliving.com,,,,,,,,,,,,,,,,,1,,1,,,,,1,1,,2,2,,,,,,2,,10
+2021/12/29,US Team 60,aolsen@youngliving.com,,3,6,,,2,,,,,2,,,,,3,6,11,5,,,,10,2,1,,1,9,2,,2,,,2,3,70
+2021/12/29,US Team 60,bkurylo@youngliving.com,,1,,,,,,,,,,,,,,,,2,,,,,1,2,1,1,1,,,,1,,,,,10
+2021/12/29,US Team 60,carasmussen@youngliving.com,,1,1,,,,,,,,1,,,,,,,,,,,,2,,,,,2,1,,,,1,,,9
+2021/12/29,US Team 60,dkinsman@youngliving.com,,,,,,,,,,,,,,,,,,,,,,,2,,,,,1,,,,,,,,3
+2021/12/29,US Team 60,jmorey@youngliving.com,2,5,,,,,,,,,,,,,,1,1,,,,,,1,,,,,,,,,,,,2,12
+2021/12/29,US Team 60,tmuagututia@youngliving.com,,,2,,,,,,,1,,,,,1,4,2,,,,,,4,,1,,,1,2,,,,1,1,,20
+2021/12/29,US Team 61,escadden@youngliving.com,,2,2,,,1,,,,,,,,,,,,1,2,,,1,4,,2,1,,,,,,,,1,2,19
+2021/12/29,US Team 61,jobutler@youngliving.com,,1,,,,,,,,,,1,,,,3,2,1,3,,,1,1,1,1,,1,8,,,2,,4,,,30
+2021/12/29,US Team 61,joevans@youngliving.com,,2,3,,,,,,,,1,,,,,2,,2,,,,,7,1,4,1,,2,,,1,,,,8,34
+2021/12/29,US Team 61,molsen@youngliving.com,1,2,2,,,,3,1,,1,,1,,,,,2,1,4,,,1,,,1,,,6,,,,,3,,1,30
+2021/12/29,US Team 61,msobotka@youngliving.com,1,,,,,,,,,,,,,1,,,4,,,,,,,,1,,,4,,,,,1,1,,13
+2021/12/29,US Team 61,sjeli@youngliving.com,,3,,,,,,,,,,,,,,,,1,,,2,,2,,1,2,,,,,,,,,,11
+2021/12/29,US Team 61,tnielson@youngliving.com,,,,,,,1,,,,,,,,,,5,1,3,,,,8,,4,,,1,2,,1,,,,,26

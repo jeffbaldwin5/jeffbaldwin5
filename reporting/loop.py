@@ -97,46 +97,48 @@ except requests.exceptions.HTTPError as e:
 # Change to your target dates and target folder / report name.  
 # These folder and report names come from 
 # the "Custom Reports" section in Five9 reporting portal
-criteria_datetime_end = datetime.date.today()
-criteria_datetime_start = datetime.date.today() + datetime.timedelta(days=-1)
 
-for x, y in reports.items():
-  print(x,y)
-
-
-
+start = datetime.date.today() + datetime.timedelta(days=-1)
 
 #  # Start Loop
+while start < datetime.date.today():
+  for x, y in reports.items():
+    end = start + datetime.timedelta(days=+1)
+    print(start,end,x)
+    report_folder = "ETL"
+    report_name = y
 
-#   report_folder = "ETL"
-#   report_name = y
+    # Criteria object contains required parameters forthe runReport method
+    report_criteria = {
+        "time": {
+            "start": start.strftime("%Y-%m-%dT%H:%M:%S.000"),
+            "end": end.strftime("%Y-%m-%dT%H:%M:%S.000"),
+        }
+    }
+    # Request the report to be generated.  Will respond with a report run ID
+    try:
+        report_run_id = client.service.runReport(
+            folderName=report_folder,
+            reportName=report_name,
+            criteria=report_criteria)
+        #print(f'Report Id Requested: {report_run_id}')
+    except zeep.exceptions.Fault as e:
+        print(e)
+    # report has run can cause you to exceed your API limits.
+    report_running = True
+    checks = 0
+    while report_running is True:
+        report_running = client.service.isReportRunning(report_run_id, timeout=10)
+        if report_running is True:
+            time.sleep(5)
+    # Csv result set is faster to obtain, less verbose response body
+    reportResultCsv = client.service.getReportResultCsv(report_run_id)
+    csvFilePath = 'TestOutput\%s_%s.csv' % (x,start)
+    with open(csvFilePath, 'w', encoding='utf-8') as csvf:
+        csvf.write(reportResultCsv)
+    # End Loop
+  start = end
+  
+  
 
-#   # Criteria object contains required parameters forthe runReport method
-#   report_criteria = {
-#       "time": {
-#           "start": criteria_datetime_start.strftime("%Y-%m-%dT%H:%M:%S.000"),
-#           "end": criteria_datetime_end.strftime("%Y-%m-%dT%H:%M:%S.000"),
-#       }
-#   }
-#   # Request the report to be generated.  Will respond with a report run ID
-#   try:
-#       report_run_id = client.service.runReport(
-#           folderName=report_folder,
-#           reportName=report_name,
-#           criteria=report_criteria)
-#       #print(f'Report Id Requested: {report_run_id}')
-#   except zeep.exceptions.Fault as e:
-#       print(e)
-#   # report has run can cause you to exceed your API limits.
-#   report_running = True
-#   checks = 0
-#   while report_running is True:
-#       report_running = client.service.isReportRunning(report_run_id, timeout=10)
-#       if report_running is True:
-#           time.sleep(5)
-#   # Csv result set is faster to obtain, less verbose response body
-#   reportResultCsv = client.service.getReportResultCsv(report_run_id)
-#   csvFilePath = 'TestOutput\%s.csv' % (x)
-#   with open(csvFilePath, 'w', encoding='utf-8') as csvf:
-#       csvf.write(reportResultCsv)
-# End Loop
+
